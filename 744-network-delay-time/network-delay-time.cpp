@@ -21,7 +21,7 @@ public:
 
             if(dist[node]< distance) continue;
 
-            for(auto it: adj[node]){
+            for(auto &it: adj[node]){
                 int curr= it.first;
                 int d= it.second;
 
