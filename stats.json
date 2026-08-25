@@ -1,24 +1,26 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
-    "GeeksForGeeks_Minimum_Spanning_Tree": true
+    "GeeksForGeeks_Minimum_Spanning_Tree": true,
+    "LeetCode_Min_Cost_to_Connect_All_Points": true
   },
   "activityHistory": {
-    "2026-08-25": 2
+    "2026-08-25": 3
   },
   "todayProblems": [
     "Minimum Spanning Tree - Kruskal's Algorithm",
-    "Minimum Spanning Tree"
+    "Minimum Spanning Tree",
+    "Min Cost to Connect All Points"
   ]
 }
