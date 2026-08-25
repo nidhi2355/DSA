@@ -2,16 +2,12 @@ class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
         int n= nums.size();
+        int temp= k;
 
-        unordered_set<int> multiples;
+        sort(nums.begin(), nums.end());
 
         for(int i=0; i<n; i++){
-            if(nums[i]%k==0) multiples.insert(nums[i]);
-        }
-
-        int temp= k;
-        while(multiples.find(temp)!= multiples.end()){
-            temp+=k;
+            if(nums[i]==temp) temp+= k;
         }
 
         return temp;
