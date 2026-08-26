@@ -1,13 +1,13 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
     "medium": 5,
-    "hard": 0,
+    "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
@@ -15,13 +15,15 @@
     "GeeksForGeeks_Minimum_Spanning_Tree": true,
     "LeetCode_Min_Cost_to_Connect_All_Points": true,
     "LeetCode_Number_of_Operations_to_Make_Network_Connected": true,
-    "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true
+    "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true,
+    "LeetCode_Word_Ladder": true
   },
   "activityHistory": {
     "2026-08-25": 4,
-    "2026-08-26": 1
+    "2026-08-26": 2
   },
   "todayProblems": [
-    "Shortest and Lexicographically Smallest Beautiful String"
+    "Shortest and Lexicographically Smallest Beautiful String",
+    "Word Ladder"
   ]
 }
