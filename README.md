@@ -6,3 +6,4 @@
 | 4 | [Number of Operations to Make Network Connected](./LeetCode/Medium/Number%20of%20Operations%20to%20Make%20Network%20Connected) | [LeetCode](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | 25 Aug 2026 | 05:08 pm |
 | 5 | [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) | [LeetCode](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | 26 Aug 2026 | 07:33 am |
 | 6 | [Word Ladder](./LeetCode/Hard/Word%20Ladder) | [LeetCode](https://leetcode.com/problems/word-ladder/) | Hard | 26 Aug 2026 | 08:00 am |
+| 7 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 26 Aug 2026 | 08:11 am |
