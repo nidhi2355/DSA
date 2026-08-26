@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 6,
+    "medium": 7,
     "hard": 1,
     "basic": 0
   },
@@ -19,17 +19,19 @@
     "LeetCode_Word_Ladder": true,
     "LeetCode_Fibonacci_Number": true,
     "LeetCode_Climbing_Stairs": true,
-    "LeetCode_House_Robber": true
+    "LeetCode_House_Robber": true,
+    "GeeksForGeeks_0_-_1_Knapsack_Problem": true
   },
   "activityHistory": {
     "2026-08-25": 4,
-    "2026-08-26": 5
+    "2026-08-26": 6
   },
   "todayProblems": [
     "Shortest and Lexicographically Smallest Beautiful String",
     "Word Ladder",
     "Fibonacci Number",
     "Climbing Stairs",
-    "House Robber"
+    "House Robber",
+    "0 - 1 Knapsack Problem"
   ]
 }
