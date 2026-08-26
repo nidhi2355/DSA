@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 10,
+    "medium": 11,
     "hard": 1,
     "basic": 0
   },
@@ -23,11 +23,12 @@
     "GeeksForGeeks_0_-_1_Knapsack_Problem": true,
     "GeeksForGeeks_Subset_Sum_Problem": true,
     "GeeksForGeeks_Target_Sum": true,
-    "LeetCode_Longest_Increasing_Subsequence": true
+    "LeetCode_Longest_Increasing_Subsequence": true,
+    "LeetCode_Longest_Common_Subsequence": true
   },
   "activityHistory": {
     "2026-08-25": 4,
-    "2026-08-26": 9
+    "2026-08-26": 10
   },
   "todayProblems": [
     "Shortest and Lexicographically Smallest Beautiful String",
@@ -38,6 +39,7 @@
     "0 - 1 Knapsack Problem",
     "Subset Sum Problem",
     "Target Sum",
-    "Longest Increasing Subsequence"
+    "Longest Increasing Subsequence",
+    "Longest Common Subsequence"
   ]
 }

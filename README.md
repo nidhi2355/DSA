@@ -13,3 +13,4 @@
 | 11 | [Subset Sum Problem](./GeeksForGeeks/Medium/Subset%20Sum%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | Medium | 26 Aug 2026 | 11:33 am |
 | 12 | [Target Sum](./GeeksForGeeks/Medium/Target%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) | Medium | 26 Aug 2026 | 10:23 pm |
 | 13 | [Longest Increasing Subsequence](./LeetCode/Medium/Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 26 Aug 2026 | 10:32 pm |
+| 14 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 26 Aug 2026 | 10:40 pm |
