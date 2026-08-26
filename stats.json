@@ -1,12 +1,12 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 9,
+    "medium": 10,
     "hard": 1,
     "basic": 0
   },
@@ -22,11 +22,12 @@
     "LeetCode_House_Robber": true,
     "GeeksForGeeks_0_-_1_Knapsack_Problem": true,
     "GeeksForGeeks_Subset_Sum_Problem": true,
-    "GeeksForGeeks_Target_Sum": true
+    "GeeksForGeeks_Target_Sum": true,
+    "LeetCode_Longest_Increasing_Subsequence": true
   },
   "activityHistory": {
     "2026-08-25": 4,
-    "2026-08-26": 8
+    "2026-08-26": 9
   },
   "todayProblems": [
     "Shortest and Lexicographically Smallest Beautiful String",
@@ -36,6 +37,7 @@
     "House Robber",
     "0 - 1 Knapsack Problem",
     "Subset Sum Problem",
-    "Target Sum"
+    "Target Sum",
+    "Longest Increasing Subsequence"
   ]
 }
