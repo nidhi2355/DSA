@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 8,
+    "medium": 9,
     "hard": 1,
     "basic": 0
   },
@@ -21,11 +21,12 @@
     "LeetCode_Climbing_Stairs": true,
     "LeetCode_House_Robber": true,
     "GeeksForGeeks_0_-_1_Knapsack_Problem": true,
-    "GeeksForGeeks_Subset_Sum_Problem": true
+    "GeeksForGeeks_Subset_Sum_Problem": true,
+    "GeeksForGeeks_Target_Sum": true
   },
   "activityHistory": {
     "2026-08-25": 4,
-    "2026-08-26": 7
+    "2026-08-26": 8
   },
   "todayProblems": [
     "Shortest and Lexicographically Smallest Beautiful String",
@@ -34,6 +35,7 @@
     "Climbing Stairs",
     "House Robber",
     "0 - 1 Knapsack Problem",
-    "Subset Sum Problem"
+    "Subset Sum Problem",
+    "Target Sum"
   ]
 }

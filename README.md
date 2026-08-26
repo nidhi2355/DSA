@@ -11,3 +11,4 @@
 | 9 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 26 Aug 2026 | 08:25 am |
 | 10 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 26 Aug 2026 | 09:47 am |
 | 11 | [Subset Sum Problem](./GeeksForGeeks/Medium/Subset%20Sum%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | Medium | 26 Aug 2026 | 11:33 am |
+| 12 | [Target Sum](./GeeksForGeeks/Medium/Target%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) | Medium | 26 Aug 2026 | 10:23 pm |
