@@ -21,3 +21,4 @@
 | 19 | [Sum of Subarray Minimums](./LeetCode/Medium/Sum%20of%20Subarray%20Minimums) | [LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | 27 Aug 2026 | 05:40 pm |
 | 20 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 27 Aug 2026 | 06:08 pm |
 | 21 | [Minimum Cost Homecoming of a Robot in a Grid](./LeetCode/Medium/Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium | 27 Aug 2026 | 07:49 pm |
+| 22 | [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 27 Aug 2026 | 10:07 pm |
