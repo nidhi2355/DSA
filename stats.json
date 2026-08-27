@@ -1,12 +1,12 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 12,
+    "medium": 13,
     "hard": 1,
     "basic": 0
   },
@@ -25,14 +25,16 @@
     "GeeksForGeeks_Target_Sum": true,
     "LeetCode_Longest_Increasing_Subsequence": true,
     "LeetCode_Longest_Common_Subsequence": true,
-    "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true
+    "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true,
+    "LeetCode_Number_of_Substrings_With_Only_1s": true
   },
   "activityHistory": {
     "2026-08-25": 4,
     "2026-08-26": 10,
-    "2026-08-27": 1
+    "2026-08-27": 2
   },
   "todayProblems": [
-    "Lexicographically Smallest Permutation Greater Than Target"
+    "Lexicographically Smallest Permutation Greater Than Target",
+    "Number of Substrings With Only 1s"
   ]
 }
