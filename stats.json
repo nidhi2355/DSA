@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-08-26",
-  "todayCount": 10,
+  "totalSolved": 15,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-08-27",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 11,
+    "medium": 12,
     "hard": 1,
     "basic": 0
   },
@@ -24,22 +24,15 @@
     "GeeksForGeeks_Subset_Sum_Problem": true,
     "GeeksForGeeks_Target_Sum": true,
     "LeetCode_Longest_Increasing_Subsequence": true,
-    "LeetCode_Longest_Common_Subsequence": true
+    "LeetCode_Longest_Common_Subsequence": true,
+    "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true
   },
   "activityHistory": {
     "2026-08-25": 4,
-    "2026-08-26": 10
+    "2026-08-26": 10,
+    "2026-08-27": 1
   },
   "todayProblems": [
-    "Shortest and Lexicographically Smallest Beautiful String",
-    "Word Ladder",
-    "Fibonacci Number",
-    "Climbing Stairs",
-    "House Robber",
-    "0 - 1 Knapsack Problem",
-    "Subset Sum Problem",
-    "Target Sum",
-    "Longest Increasing Subsequence",
-    "Longest Common Subsequence"
+    "Lexicographically Smallest Permutation Greater Than Target"
   ]
 }

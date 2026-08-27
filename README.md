@@ -14,3 +14,4 @@
 | 12 | [Target Sum](./GeeksForGeeks/Medium/Target%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1) | Medium | 26 Aug 2026 | 10:23 pm |
 | 13 | [Longest Increasing Subsequence](./LeetCode/Medium/Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | 26 Aug 2026 | 10:32 pm |
 | 14 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 26 Aug 2026 | 10:40 pm |
+| 15 | [Lexicographically Smallest Permutation Greater Than Target](./LeetCode/Medium/Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | Medium | 27 Aug 2026 | 12:31 pm |
