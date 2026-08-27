@@ -18,3 +18,4 @@
 | 16 | [Number of Substrings With Only 1s](./LeetCode/Medium/Number%20of%20Substrings%20With%20Only%201s) | [LeetCode](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Medium | 27 Aug 2026 | 04:31 pm |
 | 17 | [Count Number of Homogenous Substrings](./LeetCode/Medium/Count%20Number%20of%20Homogenous%20Substrings) | [LeetCode](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Medium | 27 Aug 2026 | 04:37 pm |
 | 18 | [Sum of Subarray Ranges](./LeetCode/Medium/Sum%20of%20Subarray%20Ranges) | [LeetCode](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | 27 Aug 2026 | 04:52 pm |
+| 19 | [Sum of Subarray Minimums](./LeetCode/Medium/Sum%20of%20Subarray%20Minimums) | [LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | 27 Aug 2026 | 05:40 pm |
