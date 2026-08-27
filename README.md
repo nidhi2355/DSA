@@ -16,3 +16,4 @@
 | 14 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 26 Aug 2026 | 10:40 pm |
 | 15 | [Lexicographically Smallest Permutation Greater Than Target](./LeetCode/Medium/Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | Medium | 27 Aug 2026 | 12:31 pm |
 | 16 | [Number of Substrings With Only 1s](./LeetCode/Medium/Number%20of%20Substrings%20With%20Only%201s) | [LeetCode](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | Medium | 27 Aug 2026 | 04:31 pm |
+| 17 | [Count Number of Homogenous Substrings](./LeetCode/Medium/Count%20Number%20of%20Homogenous%20Substrings) | [LeetCode](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Medium | 27 Aug 2026 | 04:37 pm |
