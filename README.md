@@ -19,3 +19,4 @@
 | 17 | [Count Number of Homogenous Substrings](./LeetCode/Medium/Count%20Number%20of%20Homogenous%20Substrings) | [LeetCode](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Medium | 27 Aug 2026 | 04:37 pm |
 | 18 | [Sum of Subarray Ranges](./LeetCode/Medium/Sum%20of%20Subarray%20Ranges) | [LeetCode](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | 27 Aug 2026 | 04:52 pm |
 | 19 | [Sum of Subarray Minimums](./LeetCode/Medium/Sum%20of%20Subarray%20Minimums) | [LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | 27 Aug 2026 | 05:40 pm |
+| 20 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 27 Aug 2026 | 06:08 pm |

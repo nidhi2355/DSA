@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-27",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 16,
+    "medium": 17,
     "hard": 1,
     "basic": 0
   },
@@ -29,18 +29,20 @@
     "LeetCode_Number_of_Substrings_With_Only_1s": true,
     "LeetCode_Count_Number_of_Homogenous_Substrings": true,
     "LeetCode_Sum_of_Subarray_Ranges": true,
-    "LeetCode_Sum_of_Subarray_Minimums": true
+    "LeetCode_Sum_of_Subarray_Minimums": true,
+    "LeetCode_Unique_Paths": true
   },
   "activityHistory": {
     "2026-08-25": 4,
     "2026-08-26": 10,
-    "2026-08-27": 5
+    "2026-08-27": 6
   },
   "todayProblems": [
     "Lexicographically Smallest Permutation Greater Than Target",
     "Number of Substrings With Only 1s",
     "Count Number of Homogenous Substrings",
     "Sum of Subarray Ranges",
-    "Sum of Subarray Minimums"
+    "Sum of Subarray Minimums",
+    "Unique Paths"
   ]
 }
