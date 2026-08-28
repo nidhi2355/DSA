@@ -1,13 +1,13 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-08-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 19,
-    "hard": 2,
+    "hard": 3,
     "basic": 0
   },
   "syncedProblems": {
@@ -34,15 +34,17 @@
     "LeetCode_Minimum_Cost_Homecoming_of_a_Robot_in_a_Grid": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true,
-    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_III": true
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_III": true,
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_IV": true
   },
   "activityHistory": {
     "2026-08-25": 4,
     "2026-08-26": 10,
     "2026-08-27": 9,
-    "2026-08-28": 1
+    "2026-08-28": 2
   },
   "todayProblems": [
-    "Best Time to Buy and Sell Stock III"
+    "Best Time to Buy and Sell Stock III",
+    "Best Time to Buy and Sell Stock IV"
   ]
 }
