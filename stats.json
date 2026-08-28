@@ -1,13 +1,13 @@
 {
-  "totalSolved": 23,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-08-27",
-  "todayCount": 9,
+  "totalSolved": 24,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-08-28",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
     "medium": 19,
-    "hard": 1,
+    "hard": 2,
     "basic": 0
   },
   "syncedProblems": {
@@ -33,22 +33,16 @@
     "LeetCode_Unique_Paths": true,
     "LeetCode_Minimum_Cost_Homecoming_of_a_Robot_in_a_Grid": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
-    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true,
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_III": true
   },
   "activityHistory": {
     "2026-08-25": 4,
     "2026-08-26": 10,
-    "2026-08-27": 9
+    "2026-08-27": 9,
+    "2026-08-28": 1
   },
   "todayProblems": [
-    "Lexicographically Smallest Permutation Greater Than Target",
-    "Number of Substrings With Only 1s",
-    "Count Number of Homogenous Substrings",
-    "Sum of Subarray Ranges",
-    "Sum of Subarray Minimums",
-    "Unique Paths",
-    "Minimum Cost Homecoming of a Robot in a Grid",
-    "Best Time to Buy and Sell Stock",
-    "Best Time to Buy and Sell Stock II"
+    "Best Time to Buy and Sell Stock III"
   ]
 }
