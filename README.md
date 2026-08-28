@@ -25,3 +25,4 @@
 | 23 | [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | 27 Aug 2026 | 10:12 pm |
 | 24 | [Best Time to Buy and Sell Stock III](./LeetCode/Hard/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Hard | 28 Aug 2026 | 10:59 am |
 | 25 | [Best Time to Buy and Sell Stock IV](./LeetCode/Hard/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | Hard | 28 Aug 2026 | 11:05 am |
+| 26 | [Minimum Cost to Cut a Stick](./LeetCode/Hard/Minimum%20Cost%20to%20Cut%20a%20Stick) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | Hard | 28 Aug 2026 | 05:14 pm |
