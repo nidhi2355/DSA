@@ -1,12 +1,12 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 21,
+    "medium": 22,
     "hard": 4,
     "basic": 0
   },
@@ -38,17 +38,19 @@
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_IV": true,
     "LeetCode_Minimum_Cost_to_Cut_a_Stick": true,
     "LeetCode_Jump_Game": true,
-    "LeetCode_Jump_Game_II": true
+    "LeetCode_Jump_Game_II": true,
+    "LeetCode_H-Index": true
   },
   "activityHistory": {
     "2026-08-25": 4,
     "2026-08-26": 10,
     "2026-08-27": 9,
     "2026-08-28": 3,
-    "2026-08-29": 2
+    "2026-08-29": 3
   },
   "todayProblems": [
     "Jump Game",
-    "Jump Game II"
+    "Jump Game II",
+    "H-Index"
   ]
 }

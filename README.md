@@ -28,3 +28,4 @@
 | 26 | [Minimum Cost to Cut a Stick](./LeetCode/Hard/Minimum%20Cost%20to%20Cut%20a%20Stick) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | Hard | 28 Aug 2026 | 05:14 pm |
 | 27 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 29 Aug 2026 | 10:38 am |
 | 28 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 29 Aug 2026 | 10:44 am |
+| 29 | [H-Index](./LeetCode/Medium/H-Index) | [LeetCode](https://leetcode.com/problems/h-index/) | Medium | 29 Aug 2026 | 10:52 am |
