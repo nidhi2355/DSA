@@ -1,12 +1,12 @@
 {
-  "totalSolved": 26,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-08-28",
-  "todayCount": 3,
+  "totalSolved": 27,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-08-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 19,
+    "medium": 20,
     "hard": 4,
     "basic": 0
   },
@@ -36,17 +36,17 @@
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_III": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_IV": true,
-    "LeetCode_Minimum_Cost_to_Cut_a_Stick": true
+    "LeetCode_Minimum_Cost_to_Cut_a_Stick": true,
+    "LeetCode_Jump_Game": true
   },
   "activityHistory": {
     "2026-08-25": 4,
     "2026-08-26": 10,
     "2026-08-27": 9,
-    "2026-08-28": 3
+    "2026-08-28": 3,
+    "2026-08-29": 1
   },
   "todayProblems": [
-    "Best Time to Buy and Sell Stock III",
-    "Best Time to Buy and Sell Stock IV",
-    "Minimum Cost to Cut a Stick"
+    "Jump Game"
   ]
 }
