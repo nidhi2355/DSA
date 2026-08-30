@@ -29,3 +29,4 @@
 | 27 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 29 Aug 2026 | 10:38 am |
 | 28 | [Jump Game II](./LeetCode/Medium/Jump%20Game%20II) | [LeetCode](https://leetcode.com/problems/jump-game-ii/) | Medium | 29 Aug 2026 | 10:44 am |
 | 29 | [H-Index](./LeetCode/Medium/H-Index) | [LeetCode](https://leetcode.com/problems/h-index/) | Medium | 29 Aug 2026 | 10:52 am |
+| 30 | [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) | [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 30 Aug 2026 | 08:46 am |
