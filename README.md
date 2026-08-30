@@ -33,3 +33,4 @@
 | 31 | [Insert Delete GetRandom O(1) - Duplicates allowed](./LeetCode/Hard/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed) | [LeetCode](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Hard | 30 Aug 2026 | 06:20 pm |
 | 32 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 30 Aug 2026 | 10:12 pm |
 | 33 | [Gas Station](./LeetCode/Medium/Gas%20Station) | [LeetCode](https://leetcode.com/problems/gas-station/) | Medium | 30 Aug 2026 | 10:19 pm |
+| 34 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 30 Aug 2026 | 10:25 pm |
