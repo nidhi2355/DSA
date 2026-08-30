@@ -1,13 +1,13 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-30",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 23,
-    "hard": 4,
+    "hard": 5,
     "basic": 0
   },
   "syncedProblems": {
@@ -40,7 +40,8 @@
     "LeetCode_Jump_Game": true,
     "LeetCode_Jump_Game_II": true,
     "LeetCode_H-Index": true,
-    "LeetCode_Removing_Minimum_and_Maximum_From_Array": true
+    "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
+    "LeetCode_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -48,9 +49,10 @@
     "2026-08-27": 9,
     "2026-08-28": 3,
     "2026-08-29": 3,
-    "2026-08-30": 1
+    "2026-08-30": 2
   },
   "todayProblems": [
-    "Removing Minimum and Maximum From Array"
+    "Removing Minimum and Maximum From Array",
+    "Insert Delete GetRandom O(1) - Duplicates allowed"
   ]
 }
