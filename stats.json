@@ -1,12 +1,12 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-30",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 24,
+    "medium": 25,
     "hard": 5,
     "basic": 0
   },
@@ -42,7 +42,8 @@
     "LeetCode_H-Index": true,
     "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
     "LeetCode_Insert_Delete_GetRandom_O(1)_-_Duplicates_allowed": true,
-    "LeetCode_Product_of_Array_Except_Self": true
+    "LeetCode_Product_of_Array_Except_Self": true,
+    "LeetCode_Gas_Station": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -50,11 +51,12 @@
     "2026-08-27": 9,
     "2026-08-28": 3,
     "2026-08-29": 3,
-    "2026-08-30": 3
+    "2026-08-30": 4
   },
   "todayProblems": [
     "Removing Minimum and Maximum From Array",
     "Insert Delete GetRandom O(1) - Duplicates allowed",
-    "Product of Array Except Self"
+    "Product of Array Except Self",
+    "Gas Station"
   ]
 }
