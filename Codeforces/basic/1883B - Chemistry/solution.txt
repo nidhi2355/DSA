@@ -1,0 +1,42 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int n, k;
+    cin>>n>>k;
+    
+    string s;
+    cin>>s;
+    
+    vector<int> freq(26, 0);
+    
+    for(char c: s){
+        freq[c-'a']++;
+    }
+    
+    int odds=0;
+    
+    for(int i=0; i<26; i++){
+        odds+= freq[i]%2;
+    }
+    
+    if(odds> k+1){
+        cout<<"No\n";
+    }
+    else{
+        cout<<"Yes\n";
+    }
+    
+    return;
+}
+
+int main(){
+    int t;
+    cin>>t;
+    
+    while(t--){
+        solve();
+    }
+    
+    return 0;
+}
