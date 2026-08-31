@@ -60,3 +60,4 @@
 | 58 | [1791C - Prepend and Append](./Codeforces/basic/1791C%20-%20Prepend%20and%20Append) | [Codeforces](https://codeforces.com/problemset/problem/1791/C) | basic | 31 Aug 2026 | 05:53 pm |
 | 59 | [1805A - We Need the Zero](./Codeforces/basic/1805A%20-%20We%20Need%20the%20Zero) | [Codeforces](https://codeforces.com/problemset/problem/1805/A) | basic | 31 Aug 2026 | 05:53 pm |
 | 60 | [1806A - Walking Master](./Codeforces/basic/1806A%20-%20Walking%20Master) | [Codeforces](https://codeforces.com/problemset/problem/1806/A) | basic | 31 Aug 2026 | 05:53 pm |
+| 61 | [2253C - Sum of Distinct Values in a Matrix](./Codeforces/basic/2253C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix) | [Codeforces](https://codeforces.com/problemset/problem/2253/C) | basic | 31 Aug 2026 | 05:53 pm |
