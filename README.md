@@ -43,3 +43,4 @@
 | 41 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 31 Aug 2026 | 05:34 pm |
 | 42 | [1807D - Odd Queries](./Codeforces/basic/1807D%20-%20Odd%20Queries) | [Codeforces](https://codeforces.com/problemset/problem/1807/D) | basic | 31 Aug 2026 | 05:52 pm |
 | 43 | [1828B - Permutation Swap](./Codeforces/basic/1828B%20-%20Permutation%20Swap) | [Codeforces](https://codeforces.com/problemset/problem/1828/B) | basic | 31 Aug 2026 | 05:52 pm |
+| 44 | [1837B - Comparison String](./Codeforces/basic/1837B%20-%20Comparison%20String) | [Codeforces](https://codeforces.com/problemset/problem/1837/B) | basic | 31 Aug 2026 | 05:52 pm |

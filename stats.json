@@ -1,14 +1,14 @@
 {
-  "totalSolved": 43,
+  "totalSolved": 44,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 6,
     "medium": 28,
     "hard": 7,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -53,7 +53,8 @@
     "LeetCode_Length_of_Last_Word": true,
     "LeetCode_Longest_Common_Prefix": true,
     "Codeforces_1807D_-_Odd_Queries": true,
-    "Codeforces_1828B_-_Permutation_Swap": true
+    "Codeforces_1828B_-_Permutation_Swap": true,
+    "Codeforces_1837B_-_Comparison_String": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -62,7 +63,7 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 9
+    "2026-08-31": 10
   },
   "todayProblems": [
     "Find the Minimum and Maximum Number of Nodes Between Critical Points",
@@ -73,6 +74,7 @@
     "Length of Last Word",
     "Longest Common Prefix",
     "1807D - Odd Queries",
-    "1828B - Permutation Swap"
+    "1828B - Permutation Swap",
+    "1837B - Comparison String"
   ]
 }
