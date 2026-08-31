@@ -51,3 +51,4 @@
 | 49 | [1878C - Vasilije in Cacak](./Codeforces/basic/1878C%20-%20Vasilije%20in%20Cacak) | [Codeforces](https://codeforces.com/problemset/problem/1878/C) | basic | 31 Aug 2026 | 05:52 pm |
 | 50 | [1883B - Chemistry](./Codeforces/basic/1883B%20-%20Chemistry) | [Codeforces](https://codeforces.com/problemset/problem/1883/B) | basic | 31 Aug 2026 | 05:52 pm |
 | 51 | [1904A - Forked](./Codeforces/basic/1904A%20-%20Forked) | [Codeforces](https://codeforces.com/problemset/problem/1904/A) | basic | 31 Aug 2026 | 05:52 pm |
+| 52 | [1761A - Two Permutations](./Codeforces/basic/1761A%20-%20Two%20Permutations) | [Codeforces](https://codeforces.com/problemset/problem/1761/A) | basic | 31 Aug 2026 | 05:52 pm |
