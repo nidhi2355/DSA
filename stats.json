@@ -1,14 +1,14 @@
 {
-  "totalSolved": 62,
+  "totalSolved": 63,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 28,
+  "todayCount": 29,
   "difficultyCounts": {
     "easy": 6,
     "medium": 28,
     "hard": 7,
-    "basic": 21
+    "basic": 22
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -72,7 +72,8 @@
     "Codeforces_1805A_-_We_Need_the_Zero": true,
     "Codeforces_1806A_-_Walking_Master": true,
     "Codeforces_2253C_-_Sum_of_Distinct_Values_in_a_Matrix": true,
-    "Codeforces_2253B_-_Hypercarp_and_the_Control_Panel": true
+    "Codeforces_2253B_-_Hypercarp_and_the_Control_Panel": true,
+    "Codeforces_1794B_-_Not_Dividing": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -81,7 +82,7 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 28
+    "2026-08-31": 29
   },
   "todayProblems": [
     "Find the Minimum and Maximum Number of Nodes Between Critical Points",
@@ -111,6 +112,7 @@
     "1805A - We Need the Zero",
     "1806A - Walking Master",
     "2253C - Sum of Distinct Values in a Matrix",
-    "2253B - Hypercarp and the Control Panel"
+    "2253B - Hypercarp and the Control Panel",
+    "1794B - Not Dividing"
   ]
 }
