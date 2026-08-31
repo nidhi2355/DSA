@@ -48,3 +48,4 @@
 | 46 | [1855B - Longest Divisors Interval](./Codeforces/basic/1855B%20-%20Longest%20Divisors%20Interval) | [Codeforces](https://codeforces.com/problemset/problem/1855/B) | basic | 31 Aug 2026 | 05:52 pm |
 | 47 | [1869A - Make It Zero](./Codeforces/basic/1869A%20-%20Make%20It%20Zero) | [Codeforces](https://codeforces.com/problemset/problem/1869/A) | basic | 31 Aug 2026 | 05:52 pm |
 | 48 | [1875A - Jellyfish and Undertale](./Codeforces/basic/1875A%20-%20Jellyfish%20and%20Undertale) | [Codeforces](https://codeforces.com/problemset/problem/1875/A) | basic | 31 Aug 2026 | 05:52 pm |
+| 49 | [1878C - Vasilije in Cacak](./Codeforces/basic/1878C%20-%20Vasilije%20in%20Cacak) | [Codeforces](https://codeforces.com/problemset/problem/1878/C) | basic | 31 Aug 2026 | 05:52 pm |

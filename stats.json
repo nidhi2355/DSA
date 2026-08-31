@@ -1,14 +1,14 @@
 {
-  "totalSolved": 48,
+  "totalSolved": 49,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 14,
+  "todayCount": 15,
   "difficultyCounts": {
     "easy": 6,
     "medium": 28,
     "hard": 7,
-    "basic": 7
+    "basic": 8
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -58,7 +58,8 @@
     "Codeforces_1850D_-_Balanced_Round": true,
     "Codeforces_1855B_-_Longest_Divisors_Interval": true,
     "Codeforces_1869A_-_Make_It_Zero": true,
-    "Codeforces_1875A_-_Jellyfish_and_Undertale": true
+    "Codeforces_1875A_-_Jellyfish_and_Undertale": true,
+    "Codeforces_1878C_-_Vasilije_in_Cacak": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -67,7 +68,7 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 14
+    "2026-08-31": 15
   },
   "todayProblems": [
     "Find the Minimum and Maximum Number of Nodes Between Critical Points",
@@ -83,6 +84,7 @@
     "1850D - Balanced Round",
     "1855B - Longest Divisors Interval",
     "1869A - Make It Zero",
-    "1875A - Jellyfish and Undertale"
+    "1875A - Jellyfish and Undertale",
+    "1878C - Vasilije in Cacak"
   ]
 }
