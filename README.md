@@ -44,3 +44,4 @@
 | 42 | [1807D - Odd Queries](./Codeforces/basic/1807D%20-%20Odd%20Queries) | [Codeforces](https://codeforces.com/problemset/problem/1807/D) | basic | 31 Aug 2026 | 05:52 pm |
 | 43 | [1828B - Permutation Swap](./Codeforces/basic/1828B%20-%20Permutation%20Swap) | [Codeforces](https://codeforces.com/problemset/problem/1828/B) | basic | 31 Aug 2026 | 05:52 pm |
 | 44 | [1837B - Comparison String](./Codeforces/basic/1837B%20-%20Comparison%20String) | [Codeforces](https://codeforces.com/problemset/problem/1837/B) | basic | 31 Aug 2026 | 05:52 pm |
+| 45 | [1850D - Balanced Round](./Codeforces/basic/1850D%20-%20Balanced%20Round) | [Codeforces](https://codeforces.com/problemset/problem/1850/D) | basic | 31 Aug 2026 | 05:52 pm |
