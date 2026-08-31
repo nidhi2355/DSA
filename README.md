@@ -34,3 +34,4 @@
 | 32 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 30 Aug 2026 | 10:12 pm |
 | 33 | [Gas Station](./LeetCode/Medium/Gas%20Station) | [LeetCode](https://leetcode.com/problems/gas-station/) | Medium | 30 Aug 2026 | 10:19 pm |
 | 34 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 30 Aug 2026 | 10:25 pm |
+| 35 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./LeetCode/Medium/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points) | [LeetCode](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | 31 Aug 2026 | 08:22 am |
