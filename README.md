@@ -40,3 +40,4 @@
 | 38 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 31 Aug 2026 | 09:09 am |
 | 39 | [Integer to Roman](./LeetCode/Medium/Integer%20to%20Roman) | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | Medium | 31 Aug 2026 | 05:14 pm |
 | 40 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 31 Aug 2026 | 05:27 pm |
+| 41 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 31 Aug 2026 | 05:34 pm |

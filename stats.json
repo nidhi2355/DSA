@@ -1,11 +1,11 @@
 {
-  "totalSolved": 40,
+  "totalSolved": 41,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 28,
     "hard": 7,
     "basic": 0
@@ -50,7 +50,8 @@
     "LeetCode_Maximum_Value_of_an_Ordered_Triplet_II": true,
     "LeetCode_Roman_to_Integer": true,
     "LeetCode_Integer_to_Roman": true,
-    "LeetCode_Length_of_Last_Word": true
+    "LeetCode_Length_of_Last_Word": true,
+    "LeetCode_Longest_Common_Prefix": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -59,7 +60,7 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 6
+    "2026-08-31": 7
   },
   "todayProblems": [
     "Find the Minimum and Maximum Number of Nodes Between Critical Points",
@@ -67,6 +68,7 @@
     "Maximum Value of an Ordered Triplet II",
     "Roman to Integer",
     "Integer to Roman",
-    "Length of Last Word"
+    "Length of Last Word",
+    "Longest Common Prefix"
   ]
 }
