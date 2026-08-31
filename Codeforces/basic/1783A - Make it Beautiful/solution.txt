@@ -1,0 +1,61 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    int t;
+    cin>>t;
+    
+    while(t--){
+        int n;
+        cin>>n;
+        
+        vector<int> arr(n);
+        
+        for(int i=0; i<n; i++) cin>>arr[i];
+        
+        sort(arr.begin(), arr.end());
+        
+        if(arr[0]==arr[n-1]){
+            cout<<"NO\n";
+            continue;
+        }
+        
+        int i=0, j= n-1;
+        
+        vector<int> res;
+        
+        while(i<=j){
+            if(i==j){
+                res.push_back(arr[j]);
+                break;
+            }
+            
+            res.push_back(arr[j]);
+            res.push_back(arr[i]);
+            i++;
+            j--;
+        }
+        
+        int sum=0, flag=0;
+        
+        for(int i=0; i<n; i++){
+            if(res[i]==sum){
+                cout<<"NO\n";
+                flag=1;
+                break;
+            }
+            
+            sum+= res[i];
+        }
+        
+        if(flag==0){
+            cout<<"YES\n";
+            for(int i=0; i<n; i++){
+                cout<<res[i]<<' ';
+            }
+            cout<<'\n';
+        }
+    }
+    
+    return 0;
+}
