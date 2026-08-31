@@ -41,3 +41,4 @@
 | 39 | [Integer to Roman](./LeetCode/Medium/Integer%20to%20Roman) | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | Medium | 31 Aug 2026 | 05:14 pm |
 | 40 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 31 Aug 2026 | 05:27 pm |
 | 41 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 31 Aug 2026 | 05:34 pm |
+| 42 | [1807D - Odd Queries](./Codeforces/basic/1807D%20-%20Odd%20Queries) | [Codeforces](https://codeforces.com/problemset/problem/1807/D) | basic | 31 Aug 2026 | 05:52 pm |
