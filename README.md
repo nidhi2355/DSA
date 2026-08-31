@@ -59,3 +59,4 @@
 | 57 | [1789A - Serval and Mochas Array](./Codeforces/basic/1789A%20-%20Serval%20and%20Mochas%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1789/A) | basic | 31 Aug 2026 | 05:53 pm |
 | 58 | [1791C - Prepend and Append](./Codeforces/basic/1791C%20-%20Prepend%20and%20Append) | [Codeforces](https://codeforces.com/problemset/problem/1791/C) | basic | 31 Aug 2026 | 05:53 pm |
 | 59 | [1805A - We Need the Zero](./Codeforces/basic/1805A%20-%20We%20Need%20the%20Zero) | [Codeforces](https://codeforces.com/problemset/problem/1805/A) | basic | 31 Aug 2026 | 05:53 pm |
+| 60 | [1806A - Walking Master](./Codeforces/basic/1806A%20-%20Walking%20Master) | [Codeforces](https://codeforces.com/problemset/problem/1806/A) | basic | 31 Aug 2026 | 05:53 pm |

@@ -1,0 +1,37 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int a, b, c, d;
+    
+    cin>>a>>b>>c>>d;
+    
+    if(d<b){
+        cout<<-1<<'\n';
+        return;
+    }
+    
+    int steps= d-b;
+    
+    a+= steps;
+    
+    if(a<c){
+        cout<<-1<<'\n';
+        return;
+    }
+    
+    steps+= a-c;
+    
+    cout<<steps<<'\n';
+    
+    return;
+}
+
+int main(){
+    int t;
+    cin>>t;
+    
+    while(t--){
+        solve();
+    }
+}
