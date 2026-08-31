@@ -55,3 +55,4 @@
 | 53 | [1766A - Extremely Round](./Codeforces/basic/1766A%20-%20Extremely%20Round) | [Codeforces](https://codeforces.com/problemset/problem/1766/A) | basic | 31 Aug 2026 | 05:53 pm |
 | 54 | [1777A - Everybody Likes Good Arrays](./Codeforces/basic/1777A%20-%20Everybody%20Likes%20Good%20Arrays) | [Codeforces](https://codeforces.com/problemset/problem/1777/A) | basic | 31 Aug 2026 | 05:53 pm |
 | 55 | [1783A - Make it Beautiful](./Codeforces/basic/1783A%20-%20Make%20it%20Beautiful) | [Codeforces](https://codeforces.com/problemset/problem/1783/A) | basic | 31 Aug 2026 | 05:53 pm |
+| 56 | [1788A - One and Two](./Codeforces/basic/1788A%20-%20One%20and%20Two) | [Codeforces](https://codeforces.com/problemset/problem/1788/A) | basic | 31 Aug 2026 | 05:53 pm |
