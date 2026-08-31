@@ -1,13 +1,13 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 26,
-    "hard": 6,
+    "hard": 7,
     "basic": 0
   },
   "syncedProblems": {
@@ -45,7 +45,8 @@
     "LeetCode_Product_of_Array_Except_Self": true,
     "LeetCode_Gas_Station": true,
     "LeetCode_Candy": true,
-    "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true
+    "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
+    "LeetCode_Trapping_Rain_Water": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -54,9 +55,10 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 1
+    "2026-08-31": 2
   },
   "todayProblems": [
-    "Find the Minimum and Maximum Number of Nodes Between Critical Points"
+    "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "Trapping Rain Water"
   ]
 }
