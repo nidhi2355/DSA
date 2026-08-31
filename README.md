@@ -36,3 +36,4 @@
 | 34 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 30 Aug 2026 | 10:25 pm |
 | 35 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./LeetCode/Medium/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points) | [LeetCode](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | 31 Aug 2026 | 08:22 am |
 | 36 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 31 Aug 2026 | 08:37 am |
+| 37 | [Maximum Value of an Ordered Triplet II](./LeetCode/Medium/Maximum%20Value%20of%20an%20Ordered%20Triplet%20II) | [LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | Medium | 31 Aug 2026 | 08:47 am |

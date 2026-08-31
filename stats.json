@@ -1,12 +1,12 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 26,
+    "medium": 27,
     "hard": 7,
     "basic": 0
   },
@@ -46,7 +46,8 @@
     "LeetCode_Gas_Station": true,
     "LeetCode_Candy": true,
     "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
-    "LeetCode_Trapping_Rain_Water": true
+    "LeetCode_Trapping_Rain_Water": true,
+    "LeetCode_Maximum_Value_of_an_Ordered_Triplet_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -55,10 +56,11 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 2
+    "2026-08-31": 3
   },
   "todayProblems": [
     "Find the Minimum and Maximum Number of Nodes Between Critical Points",
-    "Trapping Rain Water"
+    "Trapping Rain Water",
+    "Maximum Value of an Ordered Triplet II"
   ]
 }
