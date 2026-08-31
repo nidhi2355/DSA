@@ -1,14 +1,14 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 23,
+  "todayCount": 24,
   "difficultyCounts": {
     "easy": 6,
     "medium": 28,
     "hard": 7,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -67,7 +67,8 @@
     "Codeforces_1777A_-_Everybody_Likes_Good_Arrays": true,
     "Codeforces_1783A_-_Make_it_Beautiful": true,
     "Codeforces_1788A_-_One_and_Two": true,
-    "Codeforces_1789A_-_Serval_and_Mochas_Array": true
+    "Codeforces_1789A_-_Serval_and_Mochas_Array": true,
+    "Codeforces_1791C_-_Prepend_and_Append": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -76,7 +77,7 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 23
+    "2026-08-31": 24
   },
   "todayProblems": [
     "Find the Minimum and Maximum Number of Nodes Between Critical Points",
@@ -101,6 +102,7 @@
     "1777A - Everybody Likes Good Arrays",
     "1783A - Make it Beautiful",
     "1788A - One and Two",
-    "1789A - Serval and Mochas Array"
+    "1789A - Serval and Mochas Array",
+    "1791C - Prepend and Append"
   ]
 }

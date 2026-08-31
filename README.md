@@ -57,3 +57,4 @@
 | 55 | [1783A - Make it Beautiful](./Codeforces/basic/1783A%20-%20Make%20it%20Beautiful) | [Codeforces](https://codeforces.com/problemset/problem/1783/A) | basic | 31 Aug 2026 | 05:53 pm |
 | 56 | [1788A - One and Two](./Codeforces/basic/1788A%20-%20One%20and%20Two) | [Codeforces](https://codeforces.com/problemset/problem/1788/A) | basic | 31 Aug 2026 | 05:53 pm |
 | 57 | [1789A - Serval and Mochas Array](./Codeforces/basic/1789A%20-%20Serval%20and%20Mochas%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1789/A) | basic | 31 Aug 2026 | 05:53 pm |
+| 58 | [1791C - Prepend and Append](./Codeforces/basic/1791C%20-%20Prepend%20and%20Append) | [Codeforces](https://codeforces.com/problemset/problem/1791/C) | basic | 31 Aug 2026 | 05:53 pm |
