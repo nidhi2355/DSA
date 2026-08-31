@@ -1,14 +1,14 @@
 {
-  "totalSolved": 52,
+  "totalSolved": 53,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 18,
+  "todayCount": 19,
   "difficultyCounts": {
     "easy": 6,
     "medium": 28,
     "hard": 7,
-    "basic": 11
+    "basic": 12
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -62,7 +62,8 @@
     "Codeforces_1878C_-_Vasilije_in_Cacak": true,
     "Codeforces_1883B_-_Chemistry": true,
     "Codeforces_1904A_-_Forked": true,
-    "Codeforces_1761A_-_Two_Permutations": true
+    "Codeforces_1761A_-_Two_Permutations": true,
+    "Codeforces_1766A_-_Extremely_Round": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -71,7 +72,7 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 18
+    "2026-08-31": 19
   },
   "todayProblems": [
     "Find the Minimum and Maximum Number of Nodes Between Critical Points",
@@ -91,6 +92,7 @@
     "1878C - Vasilije in Cacak",
     "1883B - Chemistry",
     "1904A - Forked",
-    "1761A - Two Permutations"
+    "1761A - Two Permutations",
+    "1766A - Extremely Round"
   ]
 }

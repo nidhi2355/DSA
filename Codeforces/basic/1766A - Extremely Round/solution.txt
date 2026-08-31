@@ -1,0 +1,47 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    int t;
+    cin>>t;
+    
+    vector<int> res;
+    
+    for(int i=1; i<= 999999; i++){
+        int temp=i, cnt=0;
+        
+        while(temp){
+            int r= temp%10;
+            if(r!=0) cnt++;
+            if(cnt>1) break;
+            temp/=10;
+        }
+        
+        if(cnt<=1) res.push_back(i); 
+    }
+    
+    while(t--){
+        int n;
+        cin>>n;
+        
+        int low=0, high= res.size()-1;
+        int ans= -1;
+        
+        while(low<= high){
+            int mid= low + (high-low)/2;
+            
+            if(res[mid]<= n){
+                ans= mid+1;
+                low= mid+1;
+            }
+            else{
+                high= mid-1;
+            }
+        }
+        
+        cout<<ans<<'\n';
+        
+    }
+    
+    return 0;
+}

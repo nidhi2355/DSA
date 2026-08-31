@@ -52,3 +52,4 @@
 | 50 | [1883B - Chemistry](./Codeforces/basic/1883B%20-%20Chemistry) | [Codeforces](https://codeforces.com/problemset/problem/1883/B) | basic | 31 Aug 2026 | 05:52 pm |
 | 51 | [1904A - Forked](./Codeforces/basic/1904A%20-%20Forked) | [Codeforces](https://codeforces.com/problemset/problem/1904/A) | basic | 31 Aug 2026 | 05:52 pm |
 | 52 | [1761A - Two Permutations](./Codeforces/basic/1761A%20-%20Two%20Permutations) | [Codeforces](https://codeforces.com/problemset/problem/1761/A) | basic | 31 Aug 2026 | 05:52 pm |
+| 53 | [1766A - Extremely Round](./Codeforces/basic/1766A%20-%20Extremely%20Round) | [Codeforces](https://codeforces.com/problemset/problem/1766/A) | basic | 31 Aug 2026 | 05:53 pm |
