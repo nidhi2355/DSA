@@ -1,0 +1,43 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    int t;
+    cin>>t;
+    
+    while(t--){
+        int a, b;
+        cin>>a>>b;
+        
+        int x1, x2, y1, y2;
+        cin>>x1>>y1;
+        cin>>x2>>y2;
+        
+        vector<int> dx= {-a, a, -a, a, -b, b, -b, b};
+        vector<int> dy= {-b, b, b, -b, a, a, -a, -a};
+        
+        set<pair<int, int>> st;
+        
+        for(int i=0; i<8; i++){
+            int x= x1+ dx[i], y= y1+ dy[i];
+            st.insert({x, y});
+        }
+        
+        int cnt=0;
+        set<pair<int, int>> st2;
+        
+        for(int i=0; i<8; i++){
+            int x= x2+dx[i], y= y2+ dy[i];
+            st2.insert({x, y});
+        }
+        
+        for(auto it: st){
+            if(st2.find(it)!= st2.end()) cnt++;
+        }
+        
+        cout<<cnt<<'\n';
+        
+    }
+    
+    return 0;
+}

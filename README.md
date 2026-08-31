@@ -50,3 +50,4 @@
 | 48 | [1875A - Jellyfish and Undertale](./Codeforces/basic/1875A%20-%20Jellyfish%20and%20Undertale) | [Codeforces](https://codeforces.com/problemset/problem/1875/A) | basic | 31 Aug 2026 | 05:52 pm |
 | 49 | [1878C - Vasilije in Cacak](./Codeforces/basic/1878C%20-%20Vasilije%20in%20Cacak) | [Codeforces](https://codeforces.com/problemset/problem/1878/C) | basic | 31 Aug 2026 | 05:52 pm |
 | 50 | [1883B - Chemistry](./Codeforces/basic/1883B%20-%20Chemistry) | [Codeforces](https://codeforces.com/problemset/problem/1883/B) | basic | 31 Aug 2026 | 05:52 pm |
+| 51 | [1904A - Forked](./Codeforces/basic/1904A%20-%20Forked) | [Codeforces](https://codeforces.com/problemset/problem/1904/A) | basic | 31 Aug 2026 | 05:52 pm |
