@@ -46,3 +46,4 @@
 | 44 | [1837B - Comparison String](./Codeforces/basic/1837B%20-%20Comparison%20String) | [Codeforces](https://codeforces.com/problemset/problem/1837/B) | basic | 31 Aug 2026 | 05:52 pm |
 | 45 | [1850D - Balanced Round](./Codeforces/basic/1850D%20-%20Balanced%20Round) | [Codeforces](https://codeforces.com/problemset/problem/1850/D) | basic | 31 Aug 2026 | 05:52 pm |
 | 46 | [1855B - Longest Divisors Interval](./Codeforces/basic/1855B%20-%20Longest%20Divisors%20Interval) | [Codeforces](https://codeforces.com/problemset/problem/1855/B) | basic | 31 Aug 2026 | 05:52 pm |
+| 47 | [1869A - Make It Zero](./Codeforces/basic/1869A%20-%20Make%20It%20Zero) | [Codeforces](https://codeforces.com/problemset/problem/1869/A) | basic | 31 Aug 2026 | 05:52 pm |

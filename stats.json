@@ -1,14 +1,14 @@
 {
-  "totalSolved": 46,
+  "totalSolved": 47,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
     "easy": 6,
     "medium": 28,
     "hard": 7,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -56,7 +56,8 @@
     "Codeforces_1828B_-_Permutation_Swap": true,
     "Codeforces_1837B_-_Comparison_String": true,
     "Codeforces_1850D_-_Balanced_Round": true,
-    "Codeforces_1855B_-_Longest_Divisors_Interval": true
+    "Codeforces_1855B_-_Longest_Divisors_Interval": true,
+    "Codeforces_1869A_-_Make_It_Zero": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -65,7 +66,7 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 12
+    "2026-08-31": 13
   },
   "todayProblems": [
     "Find the Minimum and Maximum Number of Nodes Between Critical Points",
@@ -79,6 +80,7 @@
     "1828B - Permutation Swap",
     "1837B - Comparison String",
     "1850D - Balanced Round",
-    "1855B - Longest Divisors Interval"
+    "1855B - Longest Divisors Interval",
+    "1869A - Make It Zero"
   ]
 }
