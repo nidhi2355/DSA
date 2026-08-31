@@ -61,3 +61,4 @@
 | 59 | [1805A - We Need the Zero](./Codeforces/basic/1805A%20-%20We%20Need%20the%20Zero) | [Codeforces](https://codeforces.com/problemset/problem/1805/A) | basic | 31 Aug 2026 | 05:53 pm |
 | 60 | [1806A - Walking Master](./Codeforces/basic/1806A%20-%20Walking%20Master) | [Codeforces](https://codeforces.com/problemset/problem/1806/A) | basic | 31 Aug 2026 | 05:53 pm |
 | 61 | [2253C - Sum of Distinct Values in a Matrix](./Codeforces/basic/2253C%20-%20Sum%20of%20Distinct%20Values%20in%20a%20Matrix) | [Codeforces](https://codeforces.com/problemset/problem/2253/C) | basic | 31 Aug 2026 | 05:53 pm |
+| 62 | [2253B - Hypercarp and the Control Panel](./Codeforces/basic/2253B%20-%20Hypercarp%20and%20the%20Control%20Panel) | [Codeforces](https://codeforces.com/problemset/problem/2253/B) | basic | 31 Aug 2026 | 05:53 pm |
