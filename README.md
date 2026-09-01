@@ -64,3 +64,4 @@
 | 62 | [2253B - Hypercarp and the Control Panel](./Codeforces/basic/2253B%20-%20Hypercarp%20and%20the%20Control%20Panel) | [Codeforces](https://codeforces.com/problemset/problem/2253/B) | basic | 31 Aug 2026 | 05:53 pm |
 | 63 | [1794B - Not Dividing](./Codeforces/basic/1794B%20-%20Not%20Dividing) | [Codeforces](https://codeforces.com/problemset/problem/1794/B) | basic | 31 Aug 2026 | 05:56 pm |
 | 64 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 01 Sept 2026 | 12:26 pm |
+| 65 | [Zigzag Conversion](./LeetCode/Medium/Zigzag%20Conversion) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | Medium | 01 Sept 2026 | 12:31 pm |
