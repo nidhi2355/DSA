@@ -65,3 +65,4 @@
 | 63 | [1794B - Not Dividing](./Codeforces/basic/1794B%20-%20Not%20Dividing) | [Codeforces](https://codeforces.com/problemset/problem/1794/B) | basic | 31 Aug 2026 | 05:56 pm |
 | 64 | [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 01 Sept 2026 | 12:26 pm |
 | 65 | [Zigzag Conversion](./LeetCode/Medium/Zigzag%20Conversion) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | Medium | 01 Sept 2026 | 12:31 pm |
+| 66 | [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 01 Sept 2026 | 05:43 pm |

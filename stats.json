@@ -1,11 +1,11 @@
 {
-  "totalSolved": 65,
+  "totalSolved": 66,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-09-01",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 30,
     "hard": 7,
     "basic": 22
@@ -75,7 +75,8 @@
     "Codeforces_2253B_-_Hypercarp_and_the_Control_Panel": true,
     "Codeforces_1794B_-_Not_Dividing": true,
     "LeetCode_Reverse_Words_in_a_String": true,
-    "LeetCode_Zigzag_Conversion": true
+    "LeetCode_Zigzag_Conversion": true,
+    "LeetCode_Find_the_Index_of_the_First_Occurrence_in_a_String": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -85,10 +86,11 @@
     "2026-08-29": 3,
     "2026-08-30": 5,
     "2026-08-31": 29,
-    "2026-09-01": 2
+    "2026-09-01": 3
   },
   "todayProblems": [
     "Reverse Words in a String",
-    "Zigzag Conversion"
+    "Zigzag Conversion",
+    "Find the Index of the First Occurrence in a String"
   ]
 }
