@@ -1,12 +1,12 @@
 {
-  "totalSolved": 63,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-08-31",
-  "todayCount": 29,
+  "totalSolved": 64,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-09-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 28,
+    "medium": 29,
     "hard": 7,
     "basic": 22
   },
@@ -73,7 +73,8 @@
     "Codeforces_1806A_-_Walking_Master": true,
     "Codeforces_2253C_-_Sum_of_Distinct_Values_in_a_Matrix": true,
     "Codeforces_2253B_-_Hypercarp_and_the_Control_Panel": true,
-    "Codeforces_1794B_-_Not_Dividing": true
+    "Codeforces_1794B_-_Not_Dividing": true,
+    "LeetCode_Reverse_Words_in_a_String": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -82,37 +83,10 @@
     "2026-08-28": 3,
     "2026-08-29": 3,
     "2026-08-30": 5,
-    "2026-08-31": 29
+    "2026-08-31": 29,
+    "2026-09-01": 1
   },
   "todayProblems": [
-    "Find the Minimum and Maximum Number of Nodes Between Critical Points",
-    "Trapping Rain Water",
-    "Maximum Value of an Ordered Triplet II",
-    "Roman to Integer",
-    "Integer to Roman",
-    "Length of Last Word",
-    "Longest Common Prefix",
-    "1807D - Odd Queries",
-    "1828B - Permutation Swap",
-    "1837B - Comparison String",
-    "1850D - Balanced Round",
-    "1855B - Longest Divisors Interval",
-    "1869A - Make It Zero",
-    "1875A - Jellyfish and Undertale",
-    "1878C - Vasilije in Cacak",
-    "1883B - Chemistry",
-    "1904A - Forked",
-    "1761A - Two Permutations",
-    "1766A - Extremely Round",
-    "1777A - Everybody Likes Good Arrays",
-    "1783A - Make it Beautiful",
-    "1788A - One and Two",
-    "1789A - Serval and Mochas Array",
-    "1791C - Prepend and Append",
-    "1805A - We Need the Zero",
-    "1806A - Walking Master",
-    "2253C - Sum of Distinct Values in a Matrix",
-    "2253B - Hypercarp and the Control Panel",
-    "1794B - Not Dividing"
+    "Reverse Words in a String"
   ]
 }
