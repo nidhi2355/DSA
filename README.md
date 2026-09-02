@@ -67,3 +67,4 @@
 | 65 | [Zigzag Conversion](./LeetCode/Medium/Zigzag%20Conversion) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | Medium | 01 Sept 2026 | 12:31 pm |
 | 66 | [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | 01 Sept 2026 | 05:43 pm |
 | 67 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 08:19 am |
+| 68 | [Text Justification](./LeetCode/Hard/Text%20Justification) | [LeetCode](https://leetcode.com/problems/text-justification/) | Hard | 02 Sept 2026 | 10:25 am |
