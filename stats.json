@@ -1,12 +1,12 @@
 {
-  "totalSolved": 69,
-  "currentStreak": 9,
-  "maxStreak": 9,
-  "lastSyncDate": "2026-09-02",
-  "todayCount": 3,
+  "totalSolved": 70,
+  "currentStreak": 10,
+  "maxStreak": 10,
+  "lastSyncDate": "2026-09-03",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 30,
+    "medium": 31,
     "hard": 8,
     "basic": 22
   },
@@ -79,7 +79,8 @@
     "LeetCode_Find_the_Index_of_the_First_Occurrence_in_a_String": true,
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
     "LeetCode_Text_Justification": true,
-    "LeetCode_Valid_Palindrome": true
+    "LeetCode_Valid_Palindrome": true,
+    "LeetCode_Construct_Uniform_Parity_Array_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -90,11 +91,10 @@
     "2026-08-30": 5,
     "2026-08-31": 29,
     "2026-09-01": 3,
-    "2026-09-02": 3
+    "2026-09-02": 3,
+    "2026-09-03": 1
   },
   "todayProblems": [
-    "Construct Uniform Parity Array I",
-    "Text Justification",
-    "Valid Palindrome"
+    "Construct Uniform Parity Array II"
   ]
 }

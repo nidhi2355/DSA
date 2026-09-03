@@ -69,3 +69,4 @@
 | 67 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 08:19 am |
 | 68 | [Text Justification](./LeetCode/Hard/Text%20Justification) | [LeetCode](https://leetcode.com/problems/text-justification/) | Hard | 02 Sept 2026 | 10:25 am |
 | 69 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 02 Sept 2026 | 10:32 am |
+| 70 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 03 Sept 2026 | 02:32 pm |
