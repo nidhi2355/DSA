@@ -1,12 +1,12 @@
 {
-  "totalSolved": 72,
+  "totalSolved": 73,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-09-03",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 32,
+    "medium": 33,
     "hard": 8,
     "basic": 22
   },
@@ -82,7 +82,8 @@
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Construct_Uniform_Parity_Array_II": true,
     "LeetCode_Is_Subsequence": true,
-    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true
+    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -94,11 +95,12 @@
     "2026-08-31": 29,
     "2026-09-01": 3,
     "2026-09-02": 3,
-    "2026-09-03": 3
+    "2026-09-03": 4
   },
   "todayProblems": [
     "Construct Uniform Parity Array II",
     "Is Subsequence",
-    "Two Sum II - Input Array Is Sorted"
+    "Two Sum II - Input Array Is Sorted",
+    "Container With Most Water"
   ]
 }
