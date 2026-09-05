@@ -79,3 +79,4 @@
 | 77 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 12:37 pm |
 | 78 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 05 Sept 2026 | 12:43 pm |
 | 79 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 05 Sept 2026 | 02:46 pm |
+| 80 | [Substring with Concatenation of All Words](./LeetCode/Hard/Substring%20with%20Concatenation%20of%20All%20Words) | [LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | 05 Sept 2026 | 02:53 pm |

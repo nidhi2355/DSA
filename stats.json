@@ -1,13 +1,13 @@
 {
-  "totalSolved": 79,
+  "totalSolved": 80,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 12,
     "medium": 37,
-    "hard": 8,
+    "hard": 9,
     "basic": 22
   },
   "syncedProblems": {
@@ -89,7 +89,8 @@
     "LeetCode_Minimum_Number_of_Moves_to_Seat_Everyone": true,
     "LeetCode_Smallest_Stable_Index_II": true,
     "LeetCode_Minimum_Size_Subarray_Sum": true,
-    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
+    "LeetCode_Substring_with_Concatenation_of_All_Words": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -103,11 +104,12 @@
     "2026-09-02": 3,
     "2026-09-03": 5,
     "2026-09-04": 2,
-    "2026-09-05": 3
+    "2026-09-05": 4
   },
   "todayProblems": [
     "Smallest Stable Index II",
     "Minimum Size Subarray Sum",
-    "Longest Substring Without Repeating Characters"
+    "Longest Substring Without Repeating Characters",
+    "Substring with Concatenation of All Words"
   ]
 }
