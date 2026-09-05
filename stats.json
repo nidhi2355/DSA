@@ -1,12 +1,12 @@
 {
-  "totalSolved": 76,
-  "currentStreak": 11,
-  "maxStreak": 11,
-  "lastSyncDate": "2026-09-04",
-  "todayCount": 2,
+  "totalSolved": 77,
+  "currentStreak": 12,
+  "maxStreak": 12,
+  "lastSyncDate": "2026-09-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 34,
+    "medium": 35,
     "hard": 8,
     "basic": 22
   },
@@ -86,7 +86,8 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_3Sum": true,
     "LeetCode_Smallest_Stable_Index_I": true,
-    "LeetCode_Minimum_Number_of_Moves_to_Seat_Everyone": true
+    "LeetCode_Minimum_Number_of_Moves_to_Seat_Everyone": true,
+    "LeetCode_Smallest_Stable_Index_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -99,10 +100,10 @@
     "2026-09-01": 3,
     "2026-09-02": 3,
     "2026-09-03": 5,
-    "2026-09-04": 2
+    "2026-09-04": 2,
+    "2026-09-05": 1
   },
   "todayProblems": [
-    "Smallest Stable Index I",
-    "Minimum Number of Moves to Seat Everyone"
+    "Smallest Stable Index II"
   ]
 }

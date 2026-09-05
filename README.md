@@ -76,3 +76,4 @@
 | 74 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 03 Sept 2026 | 08:20 pm |
 | 75 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 03:40 pm |
 | 76 | [Minimum Number of Moves to Seat Everyone](./LeetCode/Easy/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone) | [LeetCode](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy | 04 Sept 2026 | 04:14 pm |
+| 77 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 12:37 pm |
