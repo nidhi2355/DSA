@@ -78,3 +78,4 @@
 | 76 | [Minimum Number of Moves to Seat Everyone](./LeetCode/Easy/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone) | [LeetCode](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy | 04 Sept 2026 | 04:14 pm |
 | 77 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 12:37 pm |
 | 78 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 05 Sept 2026 | 12:43 pm |
+| 79 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 05 Sept 2026 | 02:46 pm |
