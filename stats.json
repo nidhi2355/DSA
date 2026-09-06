@@ -1,12 +1,12 @@
 {
-  "totalSolved": 84,
+  "totalSolved": 85,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-09-06",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 38,
+    "medium": 39,
     "hard": 11,
     "basic": 22
   },
@@ -94,7 +94,8 @@
     "LeetCode_Minimum_Window_Substring": true,
     "LeetCode_Distinct_Subsequences": true,
     "LeetCode_Valid_Sudoku": true,
-    "LeetCode_Check_if_Every_Row_and_Column_Contains_All_Numbers": true
+    "LeetCode_Check_if_Every_Row_and_Column_Contains_All_Numbers": true,
+    "LeetCode_First_Completely_Painted_Row_or_Column": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -109,11 +110,12 @@
     "2026-09-03": 5,
     "2026-09-04": 2,
     "2026-09-05": 5,
-    "2026-09-06": 3
+    "2026-09-06": 4
   },
   "todayProblems": [
     "Distinct Subsequences",
     "Valid Sudoku",
-    "Check if Every Row and Column Contains All Numbers"
+    "Check if Every Row and Column Contains All Numbers",
+    "First Completely Painted Row or Column"
   ]
 }
