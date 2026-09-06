@@ -83,3 +83,4 @@
 | 81 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 05 Sept 2026 | 02:54 pm |
 | 82 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 06 Sept 2026 | 09:59 am |
 | 83 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 06 Sept 2026 | 06:06 pm |
+| 84 | [Check if Every Row and Column Contains All Numbers](./LeetCode/Easy/Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers) | [LeetCode](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) | Easy | 06 Sept 2026 | 06:14 pm |
