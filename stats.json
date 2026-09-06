@@ -1,12 +1,12 @@
 {
-  "totalSolved": 87,
+  "totalSolved": 88,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-09-06",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 41,
+    "medium": 42,
     "hard": 11,
     "basic": 22
   },
@@ -97,7 +97,8 @@
     "LeetCode_Check_if_Every_Row_and_Column_Contains_All_Numbers": true,
     "LeetCode_First_Completely_Painted_Row_or_Column": true,
     "LeetCode_Spiral_Matrix": true,
-    "LeetCode_Rotate_Image": true
+    "LeetCode_Rotate_Image": true,
+    "LeetCode_Set_Matrix_Zeroes": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -112,7 +113,7 @@
     "2026-09-03": 5,
     "2026-09-04": 2,
     "2026-09-05": 5,
-    "2026-09-06": 6
+    "2026-09-06": 7
   },
   "todayProblems": [
     "Distinct Subsequences",
@@ -120,6 +121,7 @@
     "Check if Every Row and Column Contains All Numbers",
     "First Completely Painted Row or Column",
     "Spiral Matrix",
-    "Rotate Image"
+    "Rotate Image",
+    "Set Matrix Zeroes"
   ]
 }

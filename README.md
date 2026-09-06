@@ -87,3 +87,4 @@
 | 85 | [First Completely Painted Row or Column](./LeetCode/Medium/First%20Completely%20Painted%20Row%20or%20Column) | [LeetCode](https://leetcode.com/problems/first-completely-painted-row-or-column/) | Medium | 06 Sept 2026 | 06:34 pm |
 | 86 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 06 Sept 2026 | 06:45 pm |
 | 87 | [Rotate Image](./LeetCode/Medium/Rotate%20Image) | [LeetCode](https://leetcode.com/problems/rotate-image/) | Medium | 06 Sept 2026 | 06:51 pm |
+| 88 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 06 Sept 2026 | 06:51 pm |
