@@ -82,3 +82,4 @@
 | 80 | [Substring with Concatenation of All Words](./LeetCode/Hard/Substring%20with%20Concatenation%20of%20All%20Words) | [LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | 05 Sept 2026 | 02:53 pm |
 | 81 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 05 Sept 2026 | 02:54 pm |
 | 82 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 06 Sept 2026 | 09:59 am |
+| 83 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 06 Sept 2026 | 06:06 pm |
