@@ -85,3 +85,4 @@
 | 83 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 06 Sept 2026 | 06:06 pm |
 | 84 | [Check if Every Row and Column Contains All Numbers](./LeetCode/Easy/Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers) | [LeetCode](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) | Easy | 06 Sept 2026 | 06:14 pm |
 | 85 | [First Completely Painted Row or Column](./LeetCode/Medium/First%20Completely%20Painted%20Row%20or%20Column) | [LeetCode](https://leetcode.com/problems/first-completely-painted-row-or-column/) | Medium | 06 Sept 2026 | 06:34 pm |
+| 86 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 06 Sept 2026 | 06:45 pm |
