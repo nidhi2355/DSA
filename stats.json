@@ -1,11 +1,11 @@
 {
-  "totalSolved": 97,
+  "totalSolved": 98,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-09-07",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 44,
     "hard": 12,
     "basic": 22
@@ -107,7 +107,8 @@
     "LeetCode_Valid_Anagram": true,
     "LeetCode_Group_Anagrams": true,
     "LeetCode_Two_Sum": true,
-    "LeetCode_Happy_Number": true
+    "LeetCode_Happy_Number": true,
+    "LeetCode_Contains_Duplicate_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -123,7 +124,7 @@
     "2026-09-04": 2,
     "2026-09-05": 5,
     "2026-09-06": 7,
-    "2026-09-07": 9
+    "2026-09-07": 10
   },
   "todayProblems": [
     "Distinct Subsequences II",
@@ -134,6 +135,7 @@
     "Valid Anagram",
     "Group Anagrams",
     "Two Sum",
-    "Happy Number"
+    "Happy Number",
+    "Contains Duplicate II"
   ]
 }
