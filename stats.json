@@ -1,12 +1,12 @@
 {
-  "totalSolved": 94,
+  "totalSolved": 95,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-09-07",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 43,
+    "medium": 44,
     "hard": 12,
     "basic": 22
   },
@@ -104,7 +104,8 @@
     "LeetCode_Ransom_Note": true,
     "LeetCode_Isomorphic_Strings": true,
     "LeetCode_Word_Pattern": true,
-    "LeetCode_Valid_Anagram": true
+    "LeetCode_Valid_Anagram": true,
+    "LeetCode_Group_Anagrams": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -120,7 +121,7 @@
     "2026-09-04": 2,
     "2026-09-05": 5,
     "2026-09-06": 7,
-    "2026-09-07": 6
+    "2026-09-07": 7
   },
   "todayProblems": [
     "Distinct Subsequences II",
@@ -128,6 +129,7 @@
     "Ransom Note",
     "Isomorphic Strings",
     "Word Pattern",
-    "Valid Anagram"
+    "Valid Anagram",
+    "Group Anagrams"
   ]
 }
