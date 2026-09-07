@@ -1,11 +1,11 @@
 {
-  "totalSolved": 93,
+  "totalSolved": 94,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-09-07",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 43,
     "hard": 12,
     "basic": 22
@@ -103,7 +103,8 @@
     "LeetCode_Game_of_Life": true,
     "LeetCode_Ransom_Note": true,
     "LeetCode_Isomorphic_Strings": true,
-    "LeetCode_Word_Pattern": true
+    "LeetCode_Word_Pattern": true,
+    "LeetCode_Valid_Anagram": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -119,13 +120,14 @@
     "2026-09-04": 2,
     "2026-09-05": 5,
     "2026-09-06": 7,
-    "2026-09-07": 5
+    "2026-09-07": 6
   },
   "todayProblems": [
     "Distinct Subsequences II",
     "Game of Life",
     "Ransom Note",
     "Isomorphic Strings",
-    "Word Pattern"
+    "Word Pattern",
+    "Valid Anagram"
   ]
 }
