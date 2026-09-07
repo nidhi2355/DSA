@@ -95,3 +95,4 @@
 | 93 | [Word Pattern](./LeetCode/Easy/Word%20Pattern) | [LeetCode](https://leetcode.com/problems/word-pattern/) | Easy | 07 Sept 2026 | 12:32 pm |
 | 94 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 07 Sept 2026 | 12:37 pm |
 | 95 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 07 Sept 2026 | 12:47 pm |
+| 96 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 07 Sept 2026 | 12:48 pm |
