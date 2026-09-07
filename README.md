@@ -90,3 +90,4 @@
 | 88 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 06 Sept 2026 | 06:51 pm |
 | 89 | [Distinct Subsequences II](./LeetCode/Hard/Distinct%20Subsequences%20II) | [LeetCode](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | 07 Sept 2026 | 08:15 am |
 | 90 | [Game of Life](./LeetCode/Medium/Game%20of%20Life) | [LeetCode](https://leetcode.com/problems/game-of-life/) | Medium | 07 Sept 2026 | 09:10 am |
+| 91 | [Ransom Note](./LeetCode/Easy/Ransom%20Note) | [LeetCode](https://leetcode.com/problems/ransom-note/) | Easy | 07 Sept 2026 | 09:15 am |
