@@ -1,11 +1,11 @@
 {
-  "totalSolved": 91,
+  "totalSolved": 92,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-09-07",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 14,
+    "easy": 15,
     "medium": 43,
     "hard": 12,
     "basic": 22
@@ -101,7 +101,8 @@
     "LeetCode_Set_Matrix_Zeroes": true,
     "LeetCode_Distinct_Subsequences_II": true,
     "LeetCode_Game_of_Life": true,
-    "LeetCode_Ransom_Note": true
+    "LeetCode_Ransom_Note": true,
+    "LeetCode_Isomorphic_Strings": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -117,11 +118,12 @@
     "2026-09-04": 2,
     "2026-09-05": 5,
     "2026-09-06": 7,
-    "2026-09-07": 3
+    "2026-09-07": 4
   },
   "todayProblems": [
     "Distinct Subsequences II",
     "Game of Life",
-    "Ransom Note"
+    "Ransom Note",
+    "Isomorphic Strings"
   ]
 }
