@@ -100,3 +100,4 @@
 | 98 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 07 Sept 2026 | 12:51 pm |
 | 99 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 07 Sept 2026 | 12:52 pm |
 | 100 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 10:24 am |
+| 101 | [Surface Area of 3D Shapes](./LeetCode/Easy/Surface%20Area%20of%203D%20Shapes) | [LeetCode](https://leetcode.com/problems/surface-area-of-3d-shapes/) | Easy | 08 Sept 2026 | 10:40 am |
