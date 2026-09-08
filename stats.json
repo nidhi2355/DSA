@@ -1,12 +1,12 @@
 {
-  "totalSolved": 101,
+  "totalSolved": 102,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-09-08",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 22,
-    "medium": 45,
+    "medium": 46,
     "hard": 12,
     "basic": 22
   },
@@ -111,7 +111,8 @@
     "LeetCode_Contains_Duplicate_II": true,
     "LeetCode_Longest_Consecutive_Sequence": true,
     "LeetCode_Count_Commas_in_Range": true,
-    "LeetCode_Surface_Area_of_3D_Shapes": true
+    "LeetCode_Surface_Area_of_3D_Shapes": true,
+    "LeetCode_Minimum_Operations_to_Exceed_Threshold_Value_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -128,10 +129,11 @@
     "2026-09-05": 5,
     "2026-09-06": 7,
     "2026-09-07": 11,
-    "2026-09-08": 2
+    "2026-09-08": 3
   },
   "todayProblems": [
     "Count Commas in Range",
-    "Surface Area of 3D Shapes"
+    "Surface Area of 3D Shapes",
+    "Minimum Operations to Exceed Threshold Value II"
   ]
 }
