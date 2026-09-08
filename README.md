@@ -103,3 +103,4 @@
 | 101 | [Surface Area of 3D Shapes](./LeetCode/Easy/Surface%20Area%20of%203D%20Shapes) | [LeetCode](https://leetcode.com/problems/surface-area-of-3d-shapes/) | Easy | 08 Sept 2026 | 10:40 am |
 | 102 | [Minimum Operations to Exceed Threshold Value II](./LeetCode/Medium/Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | Medium | 08 Sept 2026 | 10:51 am |
 | 103 | [Minimum Operations to Halve Array Sum](./LeetCode/Medium/Minimum%20Operations%20to%20Halve%20Array%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | Medium | 08 Sept 2026 | 10:58 am |
+| 104 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 08 Sept 2026 | 06:37 pm |
