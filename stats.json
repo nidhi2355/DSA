@@ -1,12 +1,12 @@
 {
-  "totalSolved": 105,
+  "totalSolved": 106,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-09-08",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 47,
+    "medium": 48,
     "hard": 12,
     "basic": 23
   },
@@ -115,7 +115,8 @@
     "LeetCode_Minimum_Operations_to_Exceed_Threshold_Value_II": true,
     "LeetCode_Minimum_Operations_to_Halve_Array_Sum": true,
     "LeetCode_Summary_Ranges": true,
-    "Codeforces_1726A_-_Mainak_and_Array": true
+    "Codeforces_1726A_-_Mainak_and_Array": true,
+    "LeetCode_Merge_Intervals": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -132,7 +133,7 @@
     "2026-09-05": 5,
     "2026-09-06": 7,
     "2026-09-07": 11,
-    "2026-09-08": 6
+    "2026-09-08": 7
   },
   "todayProblems": [
     "Count Commas in Range",
@@ -140,6 +141,7 @@
     "Minimum Operations to Exceed Threshold Value II",
     "Minimum Operations to Halve Array Sum",
     "Summary Ranges",
-    "1726A - Mainak and Array"
+    "1726A - Mainak and Array",
+    "Merge Intervals"
   ]
 }

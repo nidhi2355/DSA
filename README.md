@@ -105,3 +105,4 @@
 | 103 | [Minimum Operations to Halve Array Sum](./LeetCode/Medium/Minimum%20Operations%20to%20Halve%20Array%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | Medium | 08 Sept 2026 | 10:58 am |
 | 104 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 08 Sept 2026 | 06:37 pm |
 | 105 | [1726A - Mainak and Array](./Codeforces/basic/1726A%20-%20Mainak%20and%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1726/A) | basic | 08 Sept 2026 | 07:27 pm |
+| 106 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 08 Sept 2026 | 08:57 pm |
