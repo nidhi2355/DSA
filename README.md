@@ -106,3 +106,4 @@
 | 104 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 08 Sept 2026 | 06:37 pm |
 | 105 | [1726A - Mainak and Array](./Codeforces/basic/1726A%20-%20Mainak%20and%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1726/A) | basic | 08 Sept 2026 | 07:27 pm |
 | 106 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 08 Sept 2026 | 08:57 pm |
+| 107 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 08 Sept 2026 | 08:58 pm |
