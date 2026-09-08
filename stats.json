@@ -1,14 +1,14 @@
 {
-  "totalSolved": 104,
+  "totalSolved": 105,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-09-08",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 23,
     "medium": 47,
     "hard": 12,
-    "basic": 22
+    "basic": 23
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -114,7 +114,8 @@
     "LeetCode_Surface_Area_of_3D_Shapes": true,
     "LeetCode_Minimum_Operations_to_Exceed_Threshold_Value_II": true,
     "LeetCode_Minimum_Operations_to_Halve_Array_Sum": true,
-    "LeetCode_Summary_Ranges": true
+    "LeetCode_Summary_Ranges": true,
+    "Codeforces_1726A_-_Mainak_and_Array": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -131,13 +132,14 @@
     "2026-09-05": 5,
     "2026-09-06": 7,
     "2026-09-07": 11,
-    "2026-09-08": 5
+    "2026-09-08": 6
   },
   "todayProblems": [
     "Count Commas in Range",
     "Surface Area of 3D Shapes",
     "Minimum Operations to Exceed Threshold Value II",
     "Minimum Operations to Halve Array Sum",
-    "Summary Ranges"
+    "Summary Ranges",
+    "1726A - Mainak and Array"
   ]
 }
