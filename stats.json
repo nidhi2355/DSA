@@ -1,12 +1,12 @@
 {
-  "totalSolved": 107,
+  "totalSolved": 108,
   "currentStreak": 15,
   "maxStreak": 15,
   "lastSyncDate": "2026-09-08",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 49,
+    "medium": 50,
     "hard": 12,
     "basic": 23
   },
@@ -117,7 +117,8 @@
     "LeetCode_Summary_Ranges": true,
     "Codeforces_1726A_-_Mainak_and_Array": true,
     "LeetCode_Merge_Intervals": true,
-    "LeetCode_Insert_Interval": true
+    "LeetCode_Insert_Interval": true,
+    "LeetCode_Minimum_Number_of_Arrows_to_Burst_Balloons": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -134,7 +135,7 @@
     "2026-09-05": 5,
     "2026-09-06": 7,
     "2026-09-07": 11,
-    "2026-09-08": 8
+    "2026-09-08": 9
   },
   "todayProblems": [
     "Count Commas in Range",
@@ -144,6 +145,7 @@
     "Summary Ranges",
     "1726A - Mainak and Array",
     "Merge Intervals",
-    "Insert Interval"
+    "Insert Interval",
+    "Minimum Number of Arrows to Burst Balloons"
   ]
 }
