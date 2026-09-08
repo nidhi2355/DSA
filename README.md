@@ -99,3 +99,4 @@
 | 97 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 07 Sept 2026 | 12:49 pm |
 | 98 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 07 Sept 2026 | 12:51 pm |
 | 99 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 07 Sept 2026 | 12:52 pm |
+| 100 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 10:24 am |
