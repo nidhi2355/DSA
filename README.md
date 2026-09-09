@@ -113,3 +113,4 @@
 | 111 | [Simplify Path](./LeetCode/Medium/Simplify%20Path) | [LeetCode](https://leetcode.com/problems/simplify-path/) | Medium | 09 Sept 2026 | 09:21 am |
 | 112 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 09 Sept 2026 | 11:27 am |
 | 113 | [Evaluate Reverse Polish Notation](./LeetCode/Medium/Evaluate%20Reverse%20Polish%20Notation) | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 09 Sept 2026 | 11:41 am |
+| 114 | [Basic Calculator](./LeetCode/Hard/Basic%20Calculator) | [LeetCode](https://leetcode.com/problems/basic-calculator/) | Hard | 09 Sept 2026 | 12:49 pm |

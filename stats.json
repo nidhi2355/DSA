@@ -1,13 +1,13 @@
 {
-  "totalSolved": 113,
+  "totalSolved": 114,
   "currentStreak": 16,
   "maxStreak": 16,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 24,
     "medium": 54,
-    "hard": 12,
+    "hard": 13,
     "basic": 23
   },
   "syncedProblems": {
@@ -123,7 +123,8 @@
     "LeetCode_Count_Commas_in_Range_II": true,
     "LeetCode_Simplify_Path": true,
     "LeetCode_Min_Stack": true,
-    "LeetCode_Evaluate_Reverse_Polish_Notation": true
+    "LeetCode_Evaluate_Reverse_Polish_Notation": true,
+    "LeetCode_Basic_Calculator": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -141,12 +142,13 @@
     "2026-09-06": 7,
     "2026-09-07": 11,
     "2026-09-08": 10,
-    "2026-09-09": 4
+    "2026-09-09": 5
   },
   "todayProblems": [
     "Count Commas in Range II",
     "Simplify Path",
     "Min Stack",
-    "Evaluate Reverse Polish Notation"
+    "Evaluate Reverse Polish Notation",
+    "Basic Calculator"
   ]
 }
