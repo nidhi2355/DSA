@@ -119,3 +119,4 @@
 | 117 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 10 Sept 2026 | 10:08 am |
 | 118 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 10 Sept 2026 | 10:16 am |
 | 119 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 10 Sept 2026 | 10:44 am |
+| 120 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 10 Sept 2026 | 10:45 am |

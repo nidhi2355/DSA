@@ -1,11 +1,11 @@
 {
-  "totalSolved": 119,
+  "totalSolved": 120,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 25,
+    "easy": 26,
     "medium": 56,
     "hard": 13,
     "basic": 25
@@ -129,7 +129,8 @@
     "Codeforces_1679A_-_AvtoBus": true,
     "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true,
     "LeetCode_Linked_List_Cycle": true,
-    "LeetCode_Add_Two_Numbers": true
+    "LeetCode_Add_Two_Numbers": true,
+    "LeetCode_Merge_Two_Sorted_Lists": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -148,11 +149,12 @@
     "2026-09-07": 11,
     "2026-09-08": 10,
     "2026-09-09": 7,
-    "2026-09-10": 3
+    "2026-09-10": 4
   },
   "todayProblems": [
     "Count Nodes Equal to Average of Subtree",
     "Linked List Cycle",
-    "Add Two Numbers"
+    "Add Two Numbers",
+    "Merge Two Sorted Lists"
   ]
 }
