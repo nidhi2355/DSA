@@ -1,12 +1,12 @@
 {
-  "totalSolved": 118,
+  "totalSolved": 119,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 25,
-    "medium": 55,
+    "medium": 56,
     "hard": 13,
     "basic": 25
   },
@@ -128,7 +128,8 @@
     "Codeforces_1696B_-_NIT_Destroys_the_Universe": true,
     "Codeforces_1679A_-_AvtoBus": true,
     "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true,
-    "LeetCode_Linked_List_Cycle": true
+    "LeetCode_Linked_List_Cycle": true,
+    "LeetCode_Add_Two_Numbers": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -147,10 +148,11 @@
     "2026-09-07": 11,
     "2026-09-08": 10,
     "2026-09-09": 7,
-    "2026-09-10": 2
+    "2026-09-10": 3
   },
   "todayProblems": [
     "Count Nodes Equal to Average of Subtree",
-    "Linked List Cycle"
+    "Linked List Cycle",
+    "Add Two Numbers"
   ]
 }
