@@ -121,3 +121,4 @@
 | 119 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 10 Sept 2026 | 10:44 am |
 | 120 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 10 Sept 2026 | 10:45 am |
 | 121 | [Copy List with Random Pointer](./LeetCode/Medium/Copy%20List%20with%20Random%20Pointer) | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | 10 Sept 2026 | 11:38 am |
+| 122 | [1675B - Make It Increasing](./Codeforces/basic/1675B%20-%20Make%20It%20Increasing) | [Codeforces](https://codeforces.com/problemset/problem/1675/B) | basic | 10 Sept 2026 | 11:50 am |

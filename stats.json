@@ -1,14 +1,14 @@
 {
-  "totalSolved": 121,
+  "totalSolved": 122,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 26,
     "medium": 57,
     "hard": 13,
-    "basic": 25
+    "basic": 26
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -131,7 +131,8 @@
     "LeetCode_Linked_List_Cycle": true,
     "LeetCode_Add_Two_Numbers": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
-    "LeetCode_Copy_List_with_Random_Pointer": true
+    "LeetCode_Copy_List_with_Random_Pointer": true,
+    "Codeforces_1675B_-_Make_It_Increasing": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -150,13 +151,14 @@
     "2026-09-07": 11,
     "2026-09-08": 10,
     "2026-09-09": 7,
-    "2026-09-10": 5
+    "2026-09-10": 6
   },
   "todayProblems": [
     "Count Nodes Equal to Average of Subtree",
     "Linked List Cycle",
     "Add Two Numbers",
     "Merge Two Sorted Lists",
-    "Copy List with Random Pointer"
+    "Copy List with Random Pointer",
+    "1675B - Make It Increasing"
   ]
 }
