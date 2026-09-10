@@ -1,12 +1,12 @@
 {
-  "totalSolved": 120,
+  "totalSolved": 121,
   "currentStreak": 17,
   "maxStreak": 17,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 56,
+    "medium": 57,
     "hard": 13,
     "basic": 25
   },
@@ -130,7 +130,8 @@
     "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true,
     "LeetCode_Linked_List_Cycle": true,
     "LeetCode_Add_Two_Numbers": true,
-    "LeetCode_Merge_Two_Sorted_Lists": true
+    "LeetCode_Merge_Two_Sorted_Lists": true,
+    "LeetCode_Copy_List_with_Random_Pointer": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -149,12 +150,13 @@
     "2026-09-07": 11,
     "2026-09-08": 10,
     "2026-09-09": 7,
-    "2026-09-10": 4
+    "2026-09-10": 5
   },
   "todayProblems": [
     "Count Nodes Equal to Average of Subtree",
     "Linked List Cycle",
     "Add Two Numbers",
-    "Merge Two Sorted Lists"
+    "Merge Two Sorted Lists",
+    "Copy List with Random Pointer"
   ]
 }
