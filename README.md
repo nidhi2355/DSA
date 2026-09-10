@@ -116,3 +116,4 @@
 | 114 | [Basic Calculator](./LeetCode/Hard/Basic%20Calculator) | [LeetCode](https://leetcode.com/problems/basic-calculator/) | Hard | 09 Sept 2026 | 12:49 pm |
 | 115 | [1696B - NIT Destroys the Universe](./Codeforces/basic/1696B%20-%20NIT%20Destroys%20the%20Universe) | [Codeforces](https://codeforces.com/problemset/problem/1696/B) | basic | 09 Sept 2026 | 03:15 pm |
 | 116 | [1679A - AvtoBus](./Codeforces/basic/1679A%20-%20AvtoBus) | [Codeforces](https://codeforces.com/problemset/problem/1679/A) | basic | 09 Sept 2026 | 03:49 pm |
+| 117 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 10 Sept 2026 | 10:08 am |

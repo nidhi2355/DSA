@@ -1,12 +1,12 @@
 {
-  "totalSolved": 116,
-  "currentStreak": 16,
-  "maxStreak": 16,
-  "lastSyncDate": "2026-09-09",
-  "todayCount": 7,
+  "totalSolved": 117,
+  "currentStreak": 17,
+  "maxStreak": 17,
+  "lastSyncDate": "2026-09-10",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 24,
-    "medium": 54,
+    "medium": 55,
     "hard": 13,
     "basic": 25
   },
@@ -126,7 +126,8 @@
     "LeetCode_Evaluate_Reverse_Polish_Notation": true,
     "LeetCode_Basic_Calculator": true,
     "Codeforces_1696B_-_NIT_Destroys_the_Universe": true,
-    "Codeforces_1679A_-_AvtoBus": true
+    "Codeforces_1679A_-_AvtoBus": true,
+    "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -144,15 +145,10 @@
     "2026-09-06": 7,
     "2026-09-07": 11,
     "2026-09-08": 10,
-    "2026-09-09": 7
+    "2026-09-09": 7,
+    "2026-09-10": 1
   },
   "todayProblems": [
-    "Count Commas in Range II",
-    "Simplify Path",
-    "Min Stack",
-    "Evaluate Reverse Polish Notation",
-    "Basic Calculator",
-    "1696B - NIT Destroys the Universe",
-    "1679A - AvtoBus"
+    "Count Nodes Equal to Average of Subtree"
   ]
 }
