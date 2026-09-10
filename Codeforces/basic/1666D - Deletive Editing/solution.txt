@@ -1,0 +1,48 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    string s, t;
+    cin>>s>>t;
+    
+    int n= s.size();
+    int m= t.size();
+    
+    if(m>n){
+        cout<<"NO\n";
+        return;
+    }
+    
+    vector<int> freq(26, 0);
+    
+    for(char &c: t) freq[c-'A']++;
+    
+    for(int i= n-1; i>=0; i--){
+        if(freq[s[i]-'A'] ) freq[s[i]-'A']--;
+        else s[i]='.';
+    }
+    
+    string res= "";
+    
+    for(int i=0; i<n;i++){
+        if(s[i]!='.') res+= s[i];
+    }
+    
+    if(res==t){
+        cout<<"YES\n";
+    }
+    else{
+        cout<<"NO\n";
+    }
+}
+
+int main(){
+    int t;
+    cin>>t;
+    
+    while(t--){
+        solve();
+    }
+    
+    return 0;
+}
