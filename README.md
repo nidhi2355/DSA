@@ -123,3 +123,4 @@
 | 121 | [Copy List with Random Pointer](./LeetCode/Medium/Copy%20List%20with%20Random%20Pointer) | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | 10 Sept 2026 | 11:38 am |
 | 122 | [1675B - Make It Increasing](./Codeforces/basic/1675B%20-%20Make%20It%20Increasing) | [Codeforces](https://codeforces.com/problemset/problem/1675/B) | basic | 10 Sept 2026 | 11:50 am |
 | 123 | [1666D - Deletive Editing](./Codeforces/basic/1666D%20-%20Deletive%20Editing) | [Codeforces](https://codeforces.com/problemset/problem/1666/D) | basic | 10 Sept 2026 | 12:07 pm |
+| 124 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 09:52 am |
