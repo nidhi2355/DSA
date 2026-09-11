@@ -1,12 +1,12 @@
 {
-  "totalSolved": 128,
+  "totalSolved": 129,
   "currentStreak": 18,
   "maxStreak": 18,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 57,
+    "medium": 58,
     "hard": 13,
     "basic": 27
   },
@@ -138,7 +138,8 @@
     "LeetCode_Finding_3-Digit_Even_Numbers": true,
     "LeetCode_Find_Numbers_with_Even_Number_of_Digits": true,
     "LeetCode_Number_of_Even_and_Odd_Bits": true,
-    "LeetCode_Number_Complement": true
+    "LeetCode_Number_Complement": true,
+    "LeetCode_Reverse_Linked_List_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -158,13 +159,14 @@
     "2026-09-08": 10,
     "2026-09-09": 7,
     "2026-09-10": 7,
-    "2026-09-11": 5
+    "2026-09-11": 6
   },
   "todayProblems": [
     "Unique 3-Digit Even Numbers",
     "Finding 3-Digit Even Numbers",
     "Find Numbers with Even Number of Digits",
     "Number of Even and Odd Bits",
-    "Number Complement"
+    "Number Complement",
+    "Reverse Linked List II"
   ]
 }
