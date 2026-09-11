@@ -129,3 +129,4 @@
 | 127 | [Number of Even and Odd Bits](./LeetCode/Easy/Number%20of%20Even%20and%20Odd%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-even-and-odd-bits/) | Easy | 11 Sept 2026 | 10:16 am |
 | 128 | [Number Complement](./LeetCode/Easy/Number%20Complement) | [LeetCode](https://leetcode.com/problems/number-complement/) | Easy | 11 Sept 2026 | 10:29 am |
 | 129 | [Reverse Linked List II](./LeetCode/Medium/Reverse%20Linked%20List%20II) | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 11 Sept 2026 | 11:09 am |
+| 130 | [Reverse Nodes in k-Group](./LeetCode/Hard/Reverse%20Nodes%20in%20k-Group) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 11 Sept 2026 | 11:17 am |
