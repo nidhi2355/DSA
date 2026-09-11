@@ -1,12 +1,12 @@
 {
-  "totalSolved": 131,
+  "totalSolved": 132,
   "currentStreak": 18,
   "maxStreak": 18,
   "lastSyncDate": "2026-09-11",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 59,
+    "medium": 60,
     "hard": 14,
     "basic": 27
   },
@@ -141,7 +141,8 @@
     "LeetCode_Number_Complement": true,
     "LeetCode_Reverse_Linked_List_II": true,
     "LeetCode_Reverse_Nodes_in_k-Group": true,
-    "LeetCode_Remove_Nth_Node_From_End_of_List": true
+    "LeetCode_Remove_Nth_Node_From_End_of_List": true,
+    "LeetCode_Remove_Duplicates_from_Sorted_List_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -161,7 +162,7 @@
     "2026-09-08": 10,
     "2026-09-09": 7,
     "2026-09-10": 7,
-    "2026-09-11": 8
+    "2026-09-11": 9
   },
   "todayProblems": [
     "Unique 3-Digit Even Numbers",
@@ -171,6 +172,7 @@
     "Number Complement",
     "Reverse Linked List II",
     "Reverse Nodes in k-Group",
-    "Remove Nth Node From End of List"
+    "Remove Nth Node From End of List",
+    "Remove Duplicates from Sorted List II"
   ]
 }
