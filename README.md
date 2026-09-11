@@ -130,3 +130,4 @@
 | 128 | [Number Complement](./LeetCode/Easy/Number%20Complement) | [LeetCode](https://leetcode.com/problems/number-complement/) | Easy | 11 Sept 2026 | 10:29 am |
 | 129 | [Reverse Linked List II](./LeetCode/Medium/Reverse%20Linked%20List%20II) | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 11 Sept 2026 | 11:09 am |
 | 130 | [Reverse Nodes in k-Group](./LeetCode/Hard/Reverse%20Nodes%20in%20k-Group) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 11 Sept 2026 | 11:17 am |
+| 131 | [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 11 Sept 2026 | 11:22 am |
