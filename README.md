@@ -125,3 +125,4 @@
 | 123 | [1666D - Deletive Editing](./Codeforces/basic/1666D%20-%20Deletive%20Editing) | [Codeforces](https://codeforces.com/problemset/problem/1666/D) | basic | 10 Sept 2026 | 12:07 pm |
 | 124 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 09:52 am |
 | 125 | [Finding 3-Digit Even Numbers](./LeetCode/Easy/Finding%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | 11 Sept 2026 | 10:07 am |
+| 126 | [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) | [LeetCode](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | 11 Sept 2026 | 10:09 am |
