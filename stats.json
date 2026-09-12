@@ -1,12 +1,12 @@
 {
-  "totalSolved": 133,
+  "totalSolved": 134,
   "currentStreak": 19,
   "maxStreak": 19,
   "lastSyncDate": "2026-09-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 61,
+    "medium": 62,
     "hard": 14,
     "basic": 27
   },
@@ -143,7 +143,8 @@
     "LeetCode_Reverse_Nodes_in_k-Group": true,
     "LeetCode_Remove_Nth_Node_From_End_of_List": true,
     "LeetCode_Remove_Duplicates_from_Sorted_List_II": true,
-    "LeetCode_Rotate_List": true
+    "LeetCode_Rotate_List": true,
+    "LeetCode_Partition_List": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -164,9 +165,10 @@
     "2026-09-09": 7,
     "2026-09-10": 7,
     "2026-09-11": 9,
-    "2026-09-12": 1
+    "2026-09-12": 2
   },
   "todayProblems": [
-    "Rotate List"
+    "Rotate List",
+    "Partition List"
   ]
 }
