@@ -139,3 +139,4 @@
 | 137 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 12 Sept 2026 | 02:49 pm |
 | 138 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 12 Sept 2026 | 02:53 pm |
 | 139 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 12 Sept 2026 | 02:54 pm |
+| 140 | [Construct Binary Tree from Preorder and Inorder Traversal](./LeetCode/Medium/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 12 Sept 2026 | 02:54 pm |
