@@ -137,3 +137,4 @@
 | 135 | [LRU Cache](./LeetCode/Medium/LRU%20Cache) | [LeetCode](https://leetcode.com/problems/lru-cache/) | Medium | 12 Sept 2026 | 12:23 pm |
 | 136 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 12 Sept 2026 | 02:44 pm |
 | 137 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 12 Sept 2026 | 02:49 pm |
+| 138 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 12 Sept 2026 | 02:53 pm |
