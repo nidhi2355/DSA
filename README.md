@@ -134,3 +134,4 @@
 | 132 | [Remove Duplicates from Sorted List II](./LeetCode/Medium/Remove%20Duplicates%20from%20Sorted%20List%20II) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | 11 Sept 2026 | 10:20 pm |
 | 133 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 12 Sept 2026 | 09:03 am |
 | 134 | [Partition List](./LeetCode/Medium/Partition%20List) | [LeetCode](https://leetcode.com/problems/partition-list/) | Medium | 12 Sept 2026 | 09:08 am |
+| 135 | [LRU Cache](./LeetCode/Medium/LRU%20Cache) | [LeetCode](https://leetcode.com/problems/lru-cache/) | Medium | 12 Sept 2026 | 12:23 pm |
