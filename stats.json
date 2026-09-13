@@ -1,12 +1,12 @@
 {
-  "totalSolved": 140,
-  "currentStreak": 19,
-  "maxStreak": 19,
-  "lastSyncDate": "2026-09-12",
-  "todayCount": 8,
+  "totalSolved": 141,
+  "currentStreak": 20,
+  "maxStreak": 20,
+  "lastSyncDate": "2026-09-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 35,
-    "medium": 64,
+    "medium": 65,
     "hard": 14,
     "basic": 27
   },
@@ -150,7 +150,8 @@
     "LeetCode_Same_Tree": true,
     "LeetCode_Invert_Binary_Tree": true,
     "LeetCode_Symmetric_Tree": true,
-    "LeetCode_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal": true
+    "LeetCode_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal": true,
+    "LeetCode_Image_Overlap": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -171,16 +172,10 @@
     "2026-09-09": 7,
     "2026-09-10": 7,
     "2026-09-11": 9,
-    "2026-09-12": 8
+    "2026-09-12": 8,
+    "2026-09-13": 1
   },
   "todayProblems": [
-    "Rotate List",
-    "Partition List",
-    "LRU Cache",
-    "Maximum Depth of Binary Tree",
-    "Same Tree",
-    "Invert Binary Tree",
-    "Symmetric Tree",
-    "Construct Binary Tree from Preorder and Inorder Traversal"
+    "Image Overlap"
   ]
 }
