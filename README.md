@@ -142,3 +142,4 @@
 | 140 | [Construct Binary Tree from Preorder and Inorder Traversal](./LeetCode/Medium/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 12 Sept 2026 | 02:54 pm |
 | 141 | [Image Overlap](./LeetCode/Medium/Image%20Overlap) | [LeetCode](https://leetcode.com/problems/image-overlap/) | Medium | 13 Sept 2026 | 02:01 pm |
 | 142 | [Rectangle Overlap](./LeetCode/Easy/Rectangle%20Overlap) | [LeetCode](https://leetcode.com/problems/rectangle-overlap/) | Easy | 14 Sept 2026 | 06:56 pm |
+| 143 | [Construct Binary Tree from Inorder and Postorder Traversal](./LeetCode/Medium/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | 15 Sept 2026 | 08:50 am |
