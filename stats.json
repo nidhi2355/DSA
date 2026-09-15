@@ -1,12 +1,12 @@
 {
-  "totalSolved": 144,
+  "totalSolved": 145,
   "currentStreak": 22,
   "maxStreak": 22,
   "lastSyncDate": "2026-09-15",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 36,
-    "medium": 67,
+    "medium": 68,
     "hard": 14,
     "basic": 27
   },
@@ -154,7 +154,8 @@
     "LeetCode_Image_Overlap": true,
     "LeetCode_Rectangle_Overlap": true,
     "LeetCode_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal": true,
-    "LeetCode_Populating_Next_Right_Pointers_in_Each_Node_II": true
+    "LeetCode_Populating_Next_Right_Pointers_in_Each_Node_II": true,
+    "LeetCode_Flatten_Binary_Tree_to_Linked_List": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -178,10 +179,11 @@
     "2026-09-12": 8,
     "2026-09-13": 1,
     "2026-09-14": 1,
-    "2026-09-15": 2
+    "2026-09-15": 3
   },
   "todayProblems": [
     "Construct Binary Tree from Inorder and Postorder Traversal",
-    "Populating Next Right Pointers in Each Node II"
+    "Populating Next Right Pointers in Each Node II",
+    "Flatten Binary Tree to Linked List"
   ]
 }
