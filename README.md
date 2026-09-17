@@ -147,3 +147,4 @@
 | 145 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 15 Sept 2026 | 10:08 am |
 | 146 | [Number of Sets of K Non-Overlapping Line Segments](./LeetCode/Medium/Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments) | [LeetCode](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 16 Sept 2026 | 07:01 am |
 | 147 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./LeetCode/Medium/Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum) | [LeetCode](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 17 Sept 2026 | 08:01 am |
+| 148 | [Path Sum](./LeetCode/Easy/Path%20Sum) | [LeetCode](https://leetcode.com/problems/path-sum/) | Easy | 17 Sept 2026 | 12:46 pm |
