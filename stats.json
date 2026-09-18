@@ -1,12 +1,12 @@
 {
-  "totalSolved": 148,
-  "currentStreak": 24,
-  "maxStreak": 24,
-  "lastSyncDate": "2026-09-17",
-  "todayCount": 2,
+  "totalSolved": 149,
+  "currentStreak": 25,
+  "maxStreak": 25,
+  "lastSyncDate": "2026-09-18",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 70,
+    "medium": 71,
     "hard": 14,
     "basic": 27
   },
@@ -158,7 +158,8 @@
     "LeetCode_Flatten_Binary_Tree_to_Linked_List": true,
     "LeetCode_Number_of_Sets_of_K_Non-Overlapping_Line_Segments": true,
     "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true,
-    "LeetCode_Path_Sum": true
+    "LeetCode_Path_Sum": true,
+    "LeetCode_Sum_Root_to_Leaf_Numbers": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -184,10 +185,10 @@
     "2026-09-14": 1,
     "2026-09-15": 3,
     "2026-09-16": 1,
-    "2026-09-17": 2
+    "2026-09-17": 2,
+    "2026-09-18": 1
   },
   "todayProblems": [
-    "Find Two Non-overlapping Sub-arrays Each With Target Sum",
-    "Path Sum"
+    "Sum Root to Leaf Numbers"
   ]
 }
