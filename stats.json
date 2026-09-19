@@ -1,12 +1,12 @@
 {
-  "totalSolved": 150,
-  "currentStreak": 25,
-  "maxStreak": 25,
-  "lastSyncDate": "2026-09-18",
-  "todayCount": 2,
+  "totalSolved": 151,
+  "currentStreak": 26,
+  "maxStreak": 26,
+  "lastSyncDate": "2026-09-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 71,
+    "medium": 72,
     "hard": 15,
     "basic": 27
   },
@@ -160,7 +160,8 @@
     "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true,
     "LeetCode_Path_Sum": true,
     "LeetCode_Sum_Root_to_Leaf_Numbers": true,
-    "LeetCode_Binary_Tree_Maximum_Path_Sum": true
+    "LeetCode_Binary_Tree_Maximum_Path_Sum": true,
+    "LeetCode_Circle_and_Rectangle_Overlapping": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -187,10 +188,10 @@
     "2026-09-15": 3,
     "2026-09-16": 1,
     "2026-09-17": 2,
-    "2026-09-18": 2
+    "2026-09-18": 2,
+    "2026-09-19": 1
   },
   "todayProblems": [
-    "Sum Root to Leaf Numbers",
-    "Binary Tree Maximum Path Sum"
+    "Circle and Rectangle Overlapping"
   ]
 }
