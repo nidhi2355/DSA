@@ -157,3 +157,4 @@
 | 155 | [Binary Tree Right Side View](./LeetCode/Medium/Binary%20Tree%20Right%20Side%20View) | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | 19 Sept 2026 | 11:23 am |
 | 156 | [Average of Levels in Binary Tree](./LeetCode/Easy/Average%20of%20Levels%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 19 Sept 2026 | 11:26 am |
 | 157 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 19 Sept 2026 | 11:27 am |
+| 158 | [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | 19 Sept 2026 | 11:27 am |
