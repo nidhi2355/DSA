@@ -1,12 +1,12 @@
 {
-  "totalSolved": 153,
+  "totalSolved": 154,
   "currentStreak": 26,
   "maxStreak": 26,
   "lastSyncDate": "2026-09-19",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 74,
+    "medium": 75,
     "hard": 15,
     "basic": 27
   },
@@ -163,7 +163,8 @@
     "LeetCode_Binary_Tree_Maximum_Path_Sum": true,
     "LeetCode_Circle_and_Rectangle_Overlapping": true,
     "LeetCode_Binary_Search_Tree_Iterator": true,
-    "LeetCode_Count_Complete_Tree_Nodes": true
+    "LeetCode_Count_Complete_Tree_Nodes": true,
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -191,11 +192,12 @@
     "2026-09-16": 1,
     "2026-09-17": 2,
     "2026-09-18": 2,
-    "2026-09-19": 3
+    "2026-09-19": 4
   },
   "todayProblems": [
     "Circle and Rectangle Overlapping",
     "Binary Search Tree Iterator",
-    "Count Complete Tree Nodes"
+    "Count Complete Tree Nodes",
+    "Lowest Common Ancestor of a Binary Tree"
   ]
 }
