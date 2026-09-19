@@ -158,3 +158,4 @@
 | 156 | [Average of Levels in Binary Tree](./LeetCode/Easy/Average%20of%20Levels%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | Easy | 19 Sept 2026 | 11:26 am |
 | 157 | [Binary Tree Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 19 Sept 2026 | 11:27 am |
 | 158 | [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | 19 Sept 2026 | 11:27 am |
+| 159 | [Minimum Absolute Difference in BST](./LeetCode/Easy/Minimum%20Absolute%20Difference%20in%20BST) | [LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | 19 Sept 2026 | 11:39 am |

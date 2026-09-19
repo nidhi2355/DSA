@@ -1,11 +1,11 @@
 {
-  "totalSolved": 158,
+  "totalSolved": 159,
   "currentStreak": 26,
   "maxStreak": 26,
   "lastSyncDate": "2026-09-19",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 38,
+    "easy": 39,
     "medium": 78,
     "hard": 15,
     "basic": 27
@@ -168,7 +168,8 @@
     "LeetCode_Binary_Tree_Right_Side_View": true,
     "LeetCode_Average_of_Levels_in_Binary_Tree": true,
     "LeetCode_Binary_Tree_Level_Order_Traversal": true,
-    "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true
+    "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
+    "LeetCode_Minimum_Absolute_Difference_in_BST": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -196,7 +197,7 @@
     "2026-09-16": 1,
     "2026-09-17": 2,
     "2026-09-18": 2,
-    "2026-09-19": 8
+    "2026-09-19": 9
   },
   "todayProblems": [
     "Circle and Rectangle Overlapping",
@@ -206,6 +207,7 @@
     "Binary Tree Right Side View",
     "Average of Levels in Binary Tree",
     "Binary Tree Level Order Traversal",
-    "Binary Tree Zigzag Level Order Traversal"
+    "Binary Tree Zigzag Level Order Traversal",
+    "Minimum Absolute Difference in BST"
   ]
 }
