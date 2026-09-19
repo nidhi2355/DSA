@@ -151,3 +151,4 @@
 | 149 | [Sum Root to Leaf Numbers](./LeetCode/Medium/Sum%20Root%20to%20Leaf%20Numbers) | [LeetCode](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | 18 Sept 2026 | 06:39 am |
 | 150 | [Binary Tree Maximum Path Sum](./LeetCode/Hard/Binary%20Tree%20Maximum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | 18 Sept 2026 | 06:40 am |
 | 151 | [Circle and Rectangle Overlapping](./LeetCode/Medium/Circle%20and%20Rectangle%20Overlapping) | [LeetCode](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | 19 Sept 2026 | 10:23 am |
+| 152 | [Binary Search Tree Iterator](./LeetCode/Medium/Binary%20Search%20Tree%20Iterator) | [LeetCode](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | 19 Sept 2026 | 10:48 am |
