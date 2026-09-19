@@ -152,3 +152,4 @@
 | 150 | [Binary Tree Maximum Path Sum](./LeetCode/Hard/Binary%20Tree%20Maximum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | 18 Sept 2026 | 06:40 am |
 | 151 | [Circle and Rectangle Overlapping](./LeetCode/Medium/Circle%20and%20Rectangle%20Overlapping) | [LeetCode](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | 19 Sept 2026 | 10:23 am |
 | 152 | [Binary Search Tree Iterator](./LeetCode/Medium/Binary%20Search%20Tree%20Iterator) | [LeetCode](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | 19 Sept 2026 | 10:48 am |
+| 153 | [Count Complete Tree Nodes](./LeetCode/Medium/Count%20Complete%20Tree%20Nodes) | [LeetCode](https://leetcode.com/problems/count-complete-tree-nodes/) | Medium | 19 Sept 2026 | 10:58 am |
