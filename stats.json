@@ -1,12 +1,12 @@
 {
-  "totalSolved": 161,
-  "currentStreak": 28,
-  "maxStreak": 28,
-  "lastSyncDate": "2026-09-21",
+  "totalSolved": 162,
+  "currentStreak": 29,
+  "maxStreak": 29,
+  "lastSyncDate": "2026-09-22",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 40,
-    "medium": 79,
+    "medium": 80,
     "hard": 15,
     "basic": 27
   },
@@ -171,7 +171,8 @@
     "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
     "LeetCode_Minimum_Absolute_Difference_in_BST": true,
     "LeetCode_Reverse_Degree_of_a_String": true,
-    "LeetCode_Find_X_Value_of_Array_I": true
+    "LeetCode_Find_X_Value_of_Array_I": true,
+    "LeetCode_Kth_Smallest_Element_in_a_BST": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -201,9 +202,10 @@
     "2026-09-18": 2,
     "2026-09-19": 9,
     "2026-09-20": 1,
-    "2026-09-21": 1
+    "2026-09-21": 1,
+    "2026-09-22": 1
   },
   "todayProblems": [
-    "Find X Value of Array I"
+    "Kth Smallest Element in a BST"
   ]
 }
