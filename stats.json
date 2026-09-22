@@ -1,12 +1,12 @@
 {
-  "totalSolved": 168,
+  "totalSolved": 169,
   "currentStreak": 29,
   "maxStreak": 29,
   "lastSyncDate": "2026-09-22",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 43,
-    "medium": 83,
+    "medium": 84,
     "hard": 15,
     "basic": 27
   },
@@ -178,7 +178,8 @@
     "LeetCode_Count_the_Number_of_Vowel_Strings_in_Range": true,
     "LeetCode_Design_Neighbor_Sum_Service": true,
     "LeetCode_Validate_Binary_Search_Tree": true,
-    "LeetCode_Number_of_Islands": true
+    "LeetCode_Number_of_Islands": true,
+    "LeetCode_Surrounded_Regions": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -209,7 +210,7 @@
     "2026-09-19": 9,
     "2026-09-20": 1,
     "2026-09-21": 1,
-    "2026-09-22": 7
+    "2026-09-22": 8
   },
   "todayProblems": [
     "Kth Smallest Element in a BST",
@@ -218,6 +219,7 @@
     "Count the Number of Vowel Strings in Range",
     "Design Neighbor Sum Service",
     "Validate Binary Search Tree",
-    "Number of Islands"
+    "Number of Islands",
+    "Surrounded Regions"
   ]
 }
