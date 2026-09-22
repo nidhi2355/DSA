@@ -1,12 +1,12 @@
 {
-  "totalSolved": 163,
+  "totalSolved": 164,
   "currentStreak": 29,
   "maxStreak": 29,
   "lastSyncDate": "2026-09-22",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 41,
-    "medium": 80,
+    "medium": 81,
     "hard": 15,
     "basic": 27
   },
@@ -173,7 +173,8 @@
     "LeetCode_Reverse_Degree_of_a_String": true,
     "LeetCode_Find_X_Value_of_Array_I": true,
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
-    "LeetCode_Second_Minimum_Node_In_a_Binary_Tree": true
+    "LeetCode_Second_Minimum_Node_In_a_Binary_Tree": true,
+    "LeetCode_Removing_Stars_From_a_String": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -204,10 +205,11 @@
     "2026-09-19": 9,
     "2026-09-20": 1,
     "2026-09-21": 1,
-    "2026-09-22": 2
+    "2026-09-22": 3
   },
   "todayProblems": [
     "Kth Smallest Element in a BST",
-    "Second Minimum Node In a Binary Tree"
+    "Second Minimum Node In a Binary Tree",
+    "Removing Stars From a String"
   ]
 }
