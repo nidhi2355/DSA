@@ -164,3 +164,4 @@
 | 162 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 22 Sept 2026 | 07:23 am |
 | 163 | [Second Minimum Node In a Binary Tree](./LeetCode/Easy/Second%20Minimum%20Node%20In%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | Easy | 22 Sept 2026 | 07:30 am |
 | 164 | [Removing Stars From a String](./LeetCode/Medium/Removing%20Stars%20From%20a%20String) | [LeetCode](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | 22 Sept 2026 | 07:49 am |
+| 165 | [Count the Number of Vowel Strings in Range](./LeetCode/Easy/Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | Easy | 22 Sept 2026 | 07:59 am |
