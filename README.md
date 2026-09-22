@@ -167,3 +167,4 @@
 | 165 | [Count the Number of Vowel Strings in Range](./LeetCode/Easy/Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | Easy | 22 Sept 2026 | 07:59 am |
 | 166 | [Design Neighbor Sum Service](./LeetCode/Easy/Design%20Neighbor%20Sum%20Service) | [LeetCode](https://leetcode.com/problems/design-neighbor-sum-service/) | Easy | 22 Sept 2026 | 08:11 am |
 | 167 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 22 Sept 2026 | 09:54 pm |
+| 168 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 22 Sept 2026 | 10:10 pm |
