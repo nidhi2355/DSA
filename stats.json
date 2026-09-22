@@ -1,12 +1,12 @@
 {
-  "totalSolved": 166,
+  "totalSolved": 167,
   "currentStreak": 29,
   "maxStreak": 29,
   "lastSyncDate": "2026-09-22",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 43,
-    "medium": 81,
+    "medium": 82,
     "hard": 15,
     "basic": 27
   },
@@ -176,7 +176,8 @@
     "LeetCode_Second_Minimum_Node_In_a_Binary_Tree": true,
     "LeetCode_Removing_Stars_From_a_String": true,
     "LeetCode_Count_the_Number_of_Vowel_Strings_in_Range": true,
-    "LeetCode_Design_Neighbor_Sum_Service": true
+    "LeetCode_Design_Neighbor_Sum_Service": true,
+    "LeetCode_Validate_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -207,13 +208,14 @@
     "2026-09-19": 9,
     "2026-09-20": 1,
     "2026-09-21": 1,
-    "2026-09-22": 5
+    "2026-09-22": 6
   },
   "todayProblems": [
     "Kth Smallest Element in a BST",
     "Second Minimum Node In a Binary Tree",
     "Removing Stars From a String",
     "Count the Number of Vowel Strings in Range",
-    "Design Neighbor Sum Service"
+    "Design Neighbor Sum Service",
+    "Validate Binary Search Tree"
   ]
 }
