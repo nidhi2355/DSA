@@ -1,12 +1,12 @@
 {
-  "totalSolved": 169,
-  "currentStreak": 29,
-  "maxStreak": 29,
-  "lastSyncDate": "2026-09-22",
-  "todayCount": 8,
+  "totalSolved": 170,
+  "currentStreak": 30,
+  "maxStreak": 30,
+  "lastSyncDate": "2026-09-23",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 43,
-    "medium": 84,
+    "medium": 85,
     "hard": 15,
     "basic": 27
   },
@@ -179,7 +179,8 @@
     "LeetCode_Design_Neighbor_Sum_Service": true,
     "LeetCode_Validate_Binary_Search_Tree": true,
     "LeetCode_Number_of_Islands": true,
-    "LeetCode_Surrounded_Regions": true
+    "LeetCode_Surrounded_Regions": true,
+    "LeetCode_Minimum_Operations_to_Reduce_X_to_Zero": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -210,16 +211,10 @@
     "2026-09-19": 9,
     "2026-09-20": 1,
     "2026-09-21": 1,
-    "2026-09-22": 8
+    "2026-09-22": 8,
+    "2026-09-23": 1
   },
   "todayProblems": [
-    "Kth Smallest Element in a BST",
-    "Second Minimum Node In a Binary Tree",
-    "Removing Stars From a String",
-    "Count the Number of Vowel Strings in Range",
-    "Design Neighbor Sum Service",
-    "Validate Binary Search Tree",
-    "Number of Islands",
-    "Surrounded Regions"
+    "Minimum Operations to Reduce X to Zero"
   ]
 }

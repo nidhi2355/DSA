@@ -169,3 +169,4 @@
 | 167 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 22 Sept 2026 | 09:54 pm |
 | 168 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 22 Sept 2026 | 10:10 pm |
 | 169 | [Surrounded Regions](./LeetCode/Medium/Surrounded%20Regions) | [LeetCode](https://leetcode.com/problems/surrounded-regions/) | Medium | 22 Sept 2026 | 10:10 pm |
+| 170 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 23 Sept 2026 | 07:41 am |
