@@ -174,3 +174,4 @@
 | 172 | [Clone Graph](./LeetCode/Medium/Clone%20Graph) | [LeetCode](https://leetcode.com/problems/clone-graph/) | Medium | 24 Sept 2026 | 07:45 am |
 | 173 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 25 Sept 2026 | 07:29 am |
 | 174 | [Course Schedule II](./LeetCode/Medium/Course%20Schedule%20II) | [LeetCode](https://leetcode.com/problems/course-schedule-ii/) | Medium | 25 Sept 2026 | 07:29 am |
+| 175 | [Minimum Genetic Mutation](./LeetCode/Medium/Minimum%20Genetic%20Mutation) | [LeetCode](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | 25 Sept 2026 | 09:51 pm |
