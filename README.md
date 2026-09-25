@@ -173,3 +173,4 @@
 | 171 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 07:36 am |
 | 172 | [Clone Graph](./LeetCode/Medium/Clone%20Graph) | [LeetCode](https://leetcode.com/problems/clone-graph/) | Medium | 24 Sept 2026 | 07:45 am |
 | 173 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 25 Sept 2026 | 07:29 am |
+| 174 | [Course Schedule II](./LeetCode/Medium/Course%20Schedule%20II) | [LeetCode](https://leetcode.com/problems/course-schedule-ii/) | Medium | 25 Sept 2026 | 07:29 am |
