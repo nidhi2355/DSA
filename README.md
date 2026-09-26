@@ -179,3 +179,4 @@
 | 177 | [Number of Distinct Islands](./GeeksForGeeks/Medium/Number%20of%20Distinct%20Islands) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1) | Medium | 26 Sept 2026 | 06:29 pm |
 | 178 | [LCA in Binary Tree](./GeeksForGeeks/Medium/LCA%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | Medium | 26 Sept 2026 | 06:32 pm |
 | 179 | [Lowest Common Ancestor in a BST](./GeeksForGeeks/Medium/Lowest%20Common%20Ancestor%20in%20a%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | Medium | 26 Sept 2026 | 08:44 pm |
+| 180 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 26 Sept 2026 | 08:59 pm |
