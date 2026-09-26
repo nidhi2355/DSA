@@ -1,12 +1,12 @@
 {
-  "totalSolved": 178,
+  "totalSolved": 179,
   "currentStreak": 33,
   "maxStreak": 33,
   "lastSyncDate": "2026-09-26",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 44,
-    "medium": 92,
+    "medium": 93,
     "hard": 15,
     "basic": 27
   },
@@ -188,7 +188,8 @@
     "LeetCode_Minimum_Genetic_Mutation": true,
     "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true,
     "GeeksForGeeks_Number_of_Distinct_Islands": true,
-    "GeeksForGeeks_LCA_in_Binary_Tree": true
+    "GeeksForGeeks_LCA_in_Binary_Tree": true,
+    "GeeksForGeeks_Lowest_Common_Ancestor_in_a_BST": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -223,11 +224,12 @@
     "2026-09-23": 1,
     "2026-09-24": 2,
     "2026-09-25": 3,
-    "2026-09-26": 3
+    "2026-09-26": 4
   },
   "todayProblems": [
     "Evaluate the Bracket Pairs of a String",
     "Number of Distinct Islands",
-    "LCA in Binary Tree"
+    "LCA in Binary Tree",
+    "Lowest Common Ancestor in a BST"
   ]
 }

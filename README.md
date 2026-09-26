@@ -178,3 +178,4 @@
 | 176 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 26 Sept 2026 | 07:51 am |
 | 177 | [Number of Distinct Islands](./GeeksForGeeks/Medium/Number%20of%20Distinct%20Islands) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1) | Medium | 26 Sept 2026 | 06:29 pm |
 | 178 | [LCA in Binary Tree](./GeeksForGeeks/Medium/LCA%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | Medium | 26 Sept 2026 | 06:32 pm |
+| 179 | [Lowest Common Ancestor in a BST](./GeeksForGeeks/Medium/Lowest%20Common%20Ancestor%20in%20a%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | Medium | 26 Sept 2026 | 08:44 pm |
