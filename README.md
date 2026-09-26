@@ -176,3 +176,4 @@
 | 174 | [Course Schedule II](./LeetCode/Medium/Course%20Schedule%20II) | [LeetCode](https://leetcode.com/problems/course-schedule-ii/) | Medium | 25 Sept 2026 | 07:29 am |
 | 175 | [Minimum Genetic Mutation](./LeetCode/Medium/Minimum%20Genetic%20Mutation) | [LeetCode](https://leetcode.com/problems/minimum-genetic-mutation/) | Medium | 25 Sept 2026 | 09:51 pm |
 | 176 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 26 Sept 2026 | 07:51 am |
+| 177 | [Number of Distinct Islands](./GeeksForGeeks/Medium/Number%20of%20Distinct%20Islands) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1) | Medium | 26 Sept 2026 | 06:29 pm |
