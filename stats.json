@@ -1,12 +1,12 @@
 {
-  "totalSolved": 185,
+  "totalSolved": 186,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 45,
-    "medium": 97,
+    "medium": 98,
     "hard": 16,
     "basic": 27
   },
@@ -195,7 +195,8 @@
     "LeetCode_House_Robber_III": true,
     "LeetCode_Binary_Tree_Cameras": true,
     "LeetCode_Longest_ZigZag_Path_in_a_Binary_Tree": true,
-    "LeetCode_Most_Frequent_Subtree_Sum": true
+    "LeetCode_Most_Frequent_Subtree_Sum": true,
+    "LeetCode_Count_Good_Nodes_in_Binary_Tree": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -231,13 +232,14 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 5
+    "2026-09-27": 6
   },
   "todayProblems": [
     "Maximum Path Sum",
     "House Robber III",
     "Binary Tree Cameras",
     "Longest ZigZag Path in a Binary Tree",
-    "Most Frequent Subtree Sum"
+    "Most Frequent Subtree Sum",
+    "Count Good Nodes in Binary Tree"
   ]
 }
