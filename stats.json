@@ -1,13 +1,13 @@
 {
-  "totalSolved": 195,
+  "totalSolved": 196,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 15,
+  "todayCount": 16,
   "difficultyCounts": {
     "easy": 46,
     "medium": 105,
-    "hard": 17,
+    "hard": 18,
     "basic": 27
   },
   "syncedProblems": {
@@ -205,7 +205,8 @@
     "LeetCode_Sum_of_Distances_in_Tree": true,
     "GeeksForGeeks_Dijkstra_Algorithm": true,
     "GeeksForGeeks_Bellman_Ford": true,
-    "GeeksForGeeks_Disjoint_set_(Union-Find)": true
+    "GeeksForGeeks_Disjoint_set_(Union-Find)": true,
+    "GeeksForGeeks_Alien_Dictionary": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -241,7 +242,7 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 15
+    "2026-09-27": 16
   },
   "todayProblems": [
     "Maximum Path Sum",
@@ -258,6 +259,7 @@
     "Sum of Distances in Tree",
     "Dijkstra Algorithm",
     "Bellman Ford",
-    "Disjoint set (Union-Find)"
+    "Disjoint set (Union-Find)",
+    "Alien Dictionary"
   ]
 }

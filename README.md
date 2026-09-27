@@ -195,3 +195,4 @@
 | 193 | [Dijkstra Algorithm](./GeeksForGeeks/Medium/Dijkstra%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | Medium | 27 Sept 2026 | 08:52 pm |
 | 194 | [Bellman Ford](./GeeksForGeeks/Medium/Bellman%20Ford) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | Medium | 27 Sept 2026 | 08:53 pm |
 | 195 | [Disjoint set (Union-Find)](./GeeksForGeeks/Medium/Disjoint%20set%20(Union-Find)) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1) | Medium | 27 Sept 2026 | 09:36 pm |
+| 196 | [Alien Dictionary](./GeeksForGeeks/Hard/Alien%20Dictionary) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/alien-dictionary/1) | Hard | 27 Sept 2026 | 10:06 pm |
