@@ -193,3 +193,4 @@
 | 191 | [Amount of Time for Binary Tree to Be Infected](./LeetCode/Medium/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected) | [LeetCode](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | 27 Sept 2026 | 05:14 pm |
 | 192 | [Sum of Distances in Tree](./LeetCode/Hard/Sum%20of%20Distances%20in%20Tree) | [LeetCode](https://leetcode.com/problems/sum-of-distances-in-tree/) | Hard | 27 Sept 2026 | 05:57 pm |
 | 193 | [Dijkstra Algorithm](./GeeksForGeeks/Medium/Dijkstra%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | Medium | 27 Sept 2026 | 08:52 pm |
+| 194 | [Bellman Ford](./GeeksForGeeks/Medium/Bellman%20Ford) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | Medium | 27 Sept 2026 | 08:53 pm |

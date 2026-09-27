@@ -1,12 +1,12 @@
 {
-  "totalSolved": 193,
+  "totalSolved": 194,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 13,
+  "todayCount": 14,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 103,
+    "medium": 104,
     "hard": 17,
     "basic": 27
   },
@@ -203,7 +203,8 @@
     "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
     "LeetCode_Amount_of_Time_for_Binary_Tree_to_Be_Infected": true,
     "LeetCode_Sum_of_Distances_in_Tree": true,
-    "GeeksForGeeks_Dijkstra_Algorithm": true
+    "GeeksForGeeks_Dijkstra_Algorithm": true,
+    "GeeksForGeeks_Bellman_Ford": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -239,7 +240,7 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 13
+    "2026-09-27": 14
   },
   "todayProblems": [
     "Maximum Path Sum",
@@ -254,6 +255,7 @@
     "Reverse Substrings Between Each Pair of Parentheses",
     "Amount of Time for Binary Tree to Be Infected",
     "Sum of Distances in Tree",
-    "Dijkstra Algorithm"
+    "Dijkstra Algorithm",
+    "Bellman Ford"
   ]
 }
