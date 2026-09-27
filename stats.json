@@ -1,11 +1,11 @@
 {
-  "totalSolved": 187,
+  "totalSolved": 188,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 45,
+    "easy": 46,
     "medium": 99,
     "hard": 16,
     "basic": 27
@@ -197,7 +197,8 @@
     "LeetCode_Longest_ZigZag_Path_in_a_Binary_Tree": true,
     "LeetCode_Most_Frequent_Subtree_Sum": true,
     "LeetCode_Count_Good_Nodes_in_Binary_Tree": true,
-    "LeetCode_Maximum_Binary_Tree": true
+    "LeetCode_Maximum_Binary_Tree": true,
+    "LeetCode_Minimum_Distance_Between_BST_Nodes": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -233,7 +234,7 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 7
+    "2026-09-27": 8
   },
   "todayProblems": [
     "Maximum Path Sum",
@@ -242,6 +243,7 @@
     "Longest ZigZag Path in a Binary Tree",
     "Most Frequent Subtree Sum",
     "Count Good Nodes in Binary Tree",
-    "Maximum Binary Tree"
+    "Maximum Binary Tree",
+    "Minimum Distance Between BST Nodes"
   ]
 }
