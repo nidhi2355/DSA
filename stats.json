@@ -1,12 +1,12 @@
 {
-  "totalSolved": 194,
+  "totalSolved": 195,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 14,
+  "todayCount": 15,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 104,
+    "medium": 105,
     "hard": 17,
     "basic": 27
   },
@@ -204,7 +204,8 @@
     "LeetCode_Amount_of_Time_for_Binary_Tree_to_Be_Infected": true,
     "LeetCode_Sum_of_Distances_in_Tree": true,
     "GeeksForGeeks_Dijkstra_Algorithm": true,
-    "GeeksForGeeks_Bellman_Ford": true
+    "GeeksForGeeks_Bellman_Ford": true,
+    "GeeksForGeeks_Disjoint_set_(Union-Find)": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -240,7 +241,7 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 14
+    "2026-09-27": 15
   },
   "todayProblems": [
     "Maximum Path Sum",
@@ -256,6 +257,7 @@
     "Amount of Time for Binary Tree to Be Infected",
     "Sum of Distances in Tree",
     "Dijkstra Algorithm",
-    "Bellman Ford"
+    "Bellman Ford",
+    "Disjoint set (Union-Find)"
   ]
 }

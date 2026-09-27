@@ -194,3 +194,4 @@
 | 192 | [Sum of Distances in Tree](./LeetCode/Hard/Sum%20of%20Distances%20in%20Tree) | [LeetCode](https://leetcode.com/problems/sum-of-distances-in-tree/) | Hard | 27 Sept 2026 | 05:57 pm |
 | 193 | [Dijkstra Algorithm](./GeeksForGeeks/Medium/Dijkstra%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | Medium | 27 Sept 2026 | 08:52 pm |
 | 194 | [Bellman Ford](./GeeksForGeeks/Medium/Bellman%20Ford) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | Medium | 27 Sept 2026 | 08:53 pm |
+| 195 | [Disjoint set (Union-Find)](./GeeksForGeeks/Medium/Disjoint%20set%20(Union-Find)) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1) | Medium | 27 Sept 2026 | 09:36 pm |
