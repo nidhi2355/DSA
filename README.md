@@ -181,3 +181,4 @@
 | 179 | [Lowest Common Ancestor in a BST](./GeeksForGeeks/Medium/Lowest%20Common%20Ancestor%20in%20a%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | Medium | 26 Sept 2026 | 08:44 pm |
 | 180 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 26 Sept 2026 | 08:59 pm |
 | 181 | [Maximum Path Sum](./GeeksForGeeks/Medium/Maximum%20Path%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) | Medium | 27 Sept 2026 | 06:50 am |
+| 182 | [House Robber III](./LeetCode/Medium/House%20Robber%20III) | [LeetCode](https://leetcode.com/problems/house-robber-iii/) | Medium | 27 Sept 2026 | 07:17 am |
