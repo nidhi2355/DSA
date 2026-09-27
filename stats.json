@@ -1,12 +1,12 @@
 {
-  "totalSolved": 189,
+  "totalSolved": 190,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 100,
+    "medium": 101,
     "hard": 16,
     "basic": 27
   },
@@ -199,7 +199,8 @@
     "LeetCode_Count_Good_Nodes_in_Binary_Tree": true,
     "LeetCode_Maximum_Binary_Tree": true,
     "LeetCode_Minimum_Distance_Between_BST_Nodes": true,
-    "LeetCode_Find_Duplicate_Subtrees": true
+    "LeetCode_Find_Duplicate_Subtrees": true,
+    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -235,7 +236,7 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 9
+    "2026-09-27": 10
   },
   "todayProblems": [
     "Maximum Path Sum",
@@ -246,6 +247,7 @@
     "Count Good Nodes in Binary Tree",
     "Maximum Binary Tree",
     "Minimum Distance Between BST Nodes",
-    "Find Duplicate Subtrees"
+    "Find Duplicate Subtrees",
+    "Reverse Substrings Between Each Pair of Parentheses"
   ]
 }
