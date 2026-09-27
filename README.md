@@ -196,3 +196,4 @@
 | 194 | [Bellman Ford](./GeeksForGeeks/Medium/Bellman%20Ford) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | Medium | 27 Sept 2026 | 08:53 pm |
 | 195 | [Disjoint set (Union-Find)](./GeeksForGeeks/Medium/Disjoint%20set%20(Union-Find)) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1) | Medium | 27 Sept 2026 | 09:36 pm |
 | 196 | [Alien Dictionary](./GeeksForGeeks/Hard/Alien%20Dictionary) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/alien-dictionary/1) | Hard | 27 Sept 2026 | 10:06 pm |
+| 197 | [Undirected Graph Cycle](./GeeksForGeeks/Medium/Undirected%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | Medium | 27 Sept 2026 | 10:11 pm |
