@@ -188,3 +188,4 @@
 | 186 | [Count Good Nodes in Binary Tree](./LeetCode/Medium/Count%20Good%20Nodes%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | 27 Sept 2026 | 12:32 pm |
 | 187 | [Maximum Binary Tree](./LeetCode/Medium/Maximum%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-binary-tree/) | Medium | 27 Sept 2026 | 01:38 pm |
 | 188 | [Minimum Distance Between BST Nodes](./LeetCode/Easy/Minimum%20Distance%20Between%20BST%20Nodes) | [LeetCode](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | 27 Sept 2026 | 01:54 pm |
+| 189 | [Find Duplicate Subtrees](./LeetCode/Medium/Find%20Duplicate%20Subtrees) | [LeetCode](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium | 27 Sept 2026 | 02:16 pm |
