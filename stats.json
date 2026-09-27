@@ -1,13 +1,13 @@
 {
-  "totalSolved": 191,
+  "totalSolved": 192,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 46,
     "medium": 102,
-    "hard": 16,
+    "hard": 17,
     "basic": 27
   },
   "syncedProblems": {
@@ -201,7 +201,8 @@
     "LeetCode_Minimum_Distance_Between_BST_Nodes": true,
     "LeetCode_Find_Duplicate_Subtrees": true,
     "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
-    "LeetCode_Amount_of_Time_for_Binary_Tree_to_Be_Infected": true
+    "LeetCode_Amount_of_Time_for_Binary_Tree_to_Be_Infected": true,
+    "LeetCode_Sum_of_Distances_in_Tree": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -237,7 +238,7 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 11
+    "2026-09-27": 12
   },
   "todayProblems": [
     "Maximum Path Sum",
@@ -250,6 +251,7 @@
     "Minimum Distance Between BST Nodes",
     "Find Duplicate Subtrees",
     "Reverse Substrings Between Each Pair of Parentheses",
-    "Amount of Time for Binary Tree to Be Infected"
+    "Amount of Time for Binary Tree to Be Infected",
+    "Sum of Distances in Tree"
   ]
 }
