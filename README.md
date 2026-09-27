@@ -183,3 +183,4 @@
 | 181 | [Maximum Path Sum](./GeeksForGeeks/Medium/Maximum%20Path%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) | Medium | 27 Sept 2026 | 06:50 am |
 | 182 | [House Robber III](./LeetCode/Medium/House%20Robber%20III) | [LeetCode](https://leetcode.com/problems/house-robber-iii/) | Medium | 27 Sept 2026 | 07:17 am |
 | 183 | [Binary Tree Cameras](./LeetCode/Hard/Binary%20Tree%20Cameras) | [LeetCode](https://leetcode.com/problems/binary-tree-cameras/) | Hard | 27 Sept 2026 | 07:41 am |
+| 184 | [Longest ZigZag Path in a Binary Tree](./LeetCode/Medium/Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | 27 Sept 2026 | 12:05 pm |
