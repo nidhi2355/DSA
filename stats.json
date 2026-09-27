@@ -1,12 +1,12 @@
 {
-  "totalSolved": 197,
+  "totalSolved": 198,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 17,
+  "todayCount": 18,
   "difficultyCounts": {
     "easy": 46,
-    "medium": 106,
+    "medium": 107,
     "hard": 18,
     "basic": 27
   },
@@ -207,7 +207,8 @@
     "GeeksForGeeks_Bellman_Ford": true,
     "GeeksForGeeks_Disjoint_set_(Union-Find)": true,
     "GeeksForGeeks_Alien_Dictionary": true,
-    "GeeksForGeeks_Undirected_Graph_Cycle": true
+    "GeeksForGeeks_Undirected_Graph_Cycle": true,
+    "GeeksForGeeks_Directed_Graph_Cycle": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -243,7 +244,7 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 17
+    "2026-09-27": 18
   },
   "todayProblems": [
     "Maximum Path Sum",
@@ -262,6 +263,7 @@
     "Bellman Ford",
     "Disjoint set (Union-Find)",
     "Alien Dictionary",
-    "Undirected Graph Cycle"
+    "Undirected Graph Cycle",
+    "Directed Graph Cycle"
   ]
 }
