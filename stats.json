@@ -1,12 +1,12 @@
 {
-  "totalSolved": 186,
+  "totalSolved": 187,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 45,
-    "medium": 98,
+    "medium": 99,
     "hard": 16,
     "basic": 27
   },
@@ -196,7 +196,8 @@
     "LeetCode_Binary_Tree_Cameras": true,
     "LeetCode_Longest_ZigZag_Path_in_a_Binary_Tree": true,
     "LeetCode_Most_Frequent_Subtree_Sum": true,
-    "LeetCode_Count_Good_Nodes_in_Binary_Tree": true
+    "LeetCode_Count_Good_Nodes_in_Binary_Tree": true,
+    "LeetCode_Maximum_Binary_Tree": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -232,7 +233,7 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 6
+    "2026-09-27": 7
   },
   "todayProblems": [
     "Maximum Path Sum",
@@ -240,6 +241,7 @@
     "Binary Tree Cameras",
     "Longest ZigZag Path in a Binary Tree",
     "Most Frequent Subtree Sum",
-    "Count Good Nodes in Binary Tree"
+    "Count Good Nodes in Binary Tree",
+    "Maximum Binary Tree"
   ]
 }
