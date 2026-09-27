@@ -192,3 +192,4 @@
 | 190 | [Reverse Substrings Between Each Pair of Parentheses](./LeetCode/Medium/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | 27 Sept 2026 | 02:20 pm |
 | 191 | [Amount of Time for Binary Tree to Be Infected](./LeetCode/Medium/Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected) | [LeetCode](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | Medium | 27 Sept 2026 | 05:14 pm |
 | 192 | [Sum of Distances in Tree](./LeetCode/Hard/Sum%20of%20Distances%20in%20Tree) | [LeetCode](https://leetcode.com/problems/sum-of-distances-in-tree/) | Hard | 27 Sept 2026 | 05:57 pm |
+| 193 | [Dijkstra Algorithm](./GeeksForGeeks/Medium/Dijkstra%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | Medium | 27 Sept 2026 | 08:52 pm |
