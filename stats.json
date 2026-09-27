@@ -1,13 +1,13 @@
 {
-  "totalSolved": 198,
+  "totalSolved": 199,
   "currentStreak": 34,
   "maxStreak": 34,
   "lastSyncDate": "2026-09-27",
-  "todayCount": 18,
+  "todayCount": 19,
   "difficultyCounts": {
     "easy": 46,
     "medium": 107,
-    "hard": 18,
+    "hard": 19,
     "basic": 27
   },
   "syncedProblems": {
@@ -208,7 +208,8 @@
     "GeeksForGeeks_Disjoint_set_(Union-Find)": true,
     "GeeksForGeeks_Alien_Dictionary": true,
     "GeeksForGeeks_Undirected_Graph_Cycle": true,
-    "GeeksForGeeks_Directed_Graph_Cycle": true
+    "GeeksForGeeks_Directed_Graph_Cycle": true,
+    "LeetCode_Reconstruct_Itinerary": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -244,7 +245,7 @@
     "2026-09-24": 2,
     "2026-09-25": 3,
     "2026-09-26": 5,
-    "2026-09-27": 18
+    "2026-09-27": 19
   },
   "todayProblems": [
     "Maximum Path Sum",
@@ -264,6 +265,7 @@
     "Disjoint set (Union-Find)",
     "Alien Dictionary",
     "Undirected Graph Cycle",
-    "Directed Graph Cycle"
+    "Directed Graph Cycle",
+    "Reconstruct Itinerary"
   ]
 }
