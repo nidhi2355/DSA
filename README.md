@@ -199,3 +199,4 @@
 | 197 | [Undirected Graph Cycle](./GeeksForGeeks/Medium/Undirected%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | Medium | 27 Sept 2026 | 10:11 pm |
 | 198 | [Directed Graph Cycle](./GeeksForGeeks/Medium/Directed%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | Medium | 27 Sept 2026 | 10:13 pm |
 | 199 | [Reconstruct Itinerary](./LeetCode/Hard/Reconstruct%20Itinerary) | [LeetCode](https://leetcode.com/problems/reconstruct-itinerary/) | Hard | 27 Sept 2026 | 10:18 pm |
+| 200 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 06:41 am |
