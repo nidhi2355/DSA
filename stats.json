@@ -1,13 +1,13 @@
 {
-  "totalSolved": 200,
+  "totalSolved": 201,
   "currentStreak": 35,
   "maxStreak": 35,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 47,
     "medium": 107,
-    "hard": 19,
+    "hard": 20,
     "basic": 27
   },
   "syncedProblems": {
@@ -210,7 +210,8 @@
     "GeeksForGeeks_Undirected_Graph_Cycle": true,
     "GeeksForGeeks_Directed_Graph_Cycle": true,
     "LeetCode_Reconstruct_Itinerary": true,
-    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true
+    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
+    "LeetCode_Critical_Connections_in_a_Network": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -247,9 +248,10 @@
     "2026-09-25": 3,
     "2026-09-26": 5,
     "2026-09-27": 19,
-    "2026-09-28": 1
+    "2026-09-28": 2
   },
   "todayProblems": [
-    "Maximum Nesting Depth of the Parentheses"
+    "Maximum Nesting Depth of the Parentheses",
+    "Critical Connections in a Network"
   ]
 }
