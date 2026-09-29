@@ -203,3 +203,4 @@
 | 201 | [Critical Connections in a Network](./LeetCode/Hard/Critical%20Connections%20in%20a%20Network) | [LeetCode](https://leetcode.com/problems/critical-connections-in-a-network/) | Hard | 28 Sept 2026 | 07:39 am |
 | 202 | [Topological Sort](./GeeksForGeeks/Medium/Topological%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/topological-sort/1) | Medium | 28 Sept 2026 | 07:49 am |
 | 203 | [Count Strongly Connected Components](./GeeksForGeeks/Medium/Count%20Strongly%20Connected%20Components) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1) | Medium | 28 Sept 2026 | 08:09 am |
+| 204 | [ Check if There Is a Valid Parentheses String Path](./LeetCode/Hard/%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path) | [LeetCode](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | Hard | 29 Sept 2026 | 06:49 am |
