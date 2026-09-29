@@ -1,12 +1,12 @@
 {
-  "totalSolved": 207,
+  "totalSolved": 208,
   "currentStreak": 36,
   "maxStreak": 36,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 47,
-    "medium": 112,
+    "medium": 113,
     "hard": 21,
     "basic": 27
   },
@@ -217,7 +217,8 @@
     "LeetCode__Check_if_There_Is_a_Valid_Parentheses_String_Path": true,
     "LeetCode_Letter_Combinations_of_a_Phone_Number": true,
     "LeetCode_Combinations": true,
-    "LeetCode_Permutations": true
+    "LeetCode_Permutations": true,
+    "LeetCode_Combination_Sum": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -255,12 +256,13 @@
     "2026-09-26": 5,
     "2026-09-27": 19,
     "2026-09-28": 4,
-    "2026-09-29": 4
+    "2026-09-29": 5
   },
   "todayProblems": [
     " Check if There Is a Valid Parentheses String Path",
     "Letter Combinations of a Phone Number",
     "Combinations",
-    "Permutations"
+    "Permutations",
+    "Combination Sum"
   ]
 }
