@@ -1,12 +1,12 @@
 {
-  "totalSolved": 211,
+  "totalSolved": 212,
   "currentStreak": 37,
   "maxStreak": 37,
   "lastSyncDate": "2026-09-30",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 47,
-    "medium": 116,
+    "medium": 117,
     "hard": 21,
     "basic": 27
   },
@@ -221,7 +221,8 @@
     "LeetCode_Combination_Sum": true,
     "LeetCode_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings": true,
     "LeetCode_Maximum_Gap_Between_Stations": true,
-    "LeetCode_Largest_Number": true
+    "LeetCode_Largest_Number": true,
+    "LeetCode_Evaluate_Division": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -260,11 +261,12 @@
     "2026-09-27": 19,
     "2026-09-28": 4,
     "2026-09-29": 5,
-    "2026-09-30": 3
+    "2026-09-30": 4
   },
   "todayProblems": [
     "Maximum Nesting Depth of Two Valid Parentheses Strings",
     "Maximum Gap Between Stations",
-    "Largest Number"
+    "Largest Number",
+    "Evaluate Division"
   ]
 }
