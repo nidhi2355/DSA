@@ -1,13 +1,13 @@
 {
-  "totalSolved": 214,
+  "totalSolved": 215,
   "currentStreak": 38,
   "maxStreak": 38,
   "lastSyncDate": "2026-10-01",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 47,
     "medium": 117,
-    "hard": 23,
+    "hard": 24,
     "basic": 27
   },
   "syncedProblems": {
@@ -224,7 +224,8 @@
     "LeetCode_Largest_Number": true,
     "LeetCode_Evaluate_Division": true,
     "LeetCode_N-Queens_II": true,
-    "LeetCode_N-Queens": true
+    "LeetCode_N-Queens": true,
+    "LeetCode_Grid_Illumination": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -264,10 +265,11 @@
     "2026-09-28": 4,
     "2026-09-29": 5,
     "2026-09-30": 4,
-    "2026-10-01": 2
+    "2026-10-01": 3
   },
   "todayProblems": [
     "N-Queens II",
-    "N-Queens"
+    "N-Queens",
+    "Grid Illumination"
   ]
 }
