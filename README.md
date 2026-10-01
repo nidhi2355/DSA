@@ -213,3 +213,4 @@
 | 211 | [Largest Number](./LeetCode/Medium/Largest%20Number) | [LeetCode](https://leetcode.com/problems/largest-number/) | Medium | 30 Sept 2026 | 01:10 pm |
 | 212 | [Evaluate Division](./LeetCode/Medium/Evaluate%20Division) | [LeetCode](https://leetcode.com/problems/evaluate-division/) | Medium | 30 Sept 2026 | 05:29 pm |
 | 213 | [N-Queens II](./LeetCode/Hard/N-Queens%20II) | [LeetCode](https://leetcode.com/problems/n-queens-ii/) | Hard | 01 Oct 2026 | 07:28 am |
+| 214 | [N-Queens](./LeetCode/Hard/N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 01 Oct 2026 | 07:29 am |
