@@ -215,3 +215,4 @@
 | 213 | [N-Queens II](./LeetCode/Hard/N-Queens%20II) | [LeetCode](https://leetcode.com/problems/n-queens-ii/) | Hard | 01 Oct 2026 | 07:28 am |
 | 214 | [N-Queens](./LeetCode/Hard/N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 01 Oct 2026 | 07:29 am |
 | 215 | [Grid Illumination](./LeetCode/Hard/Grid%20Illumination) | [LeetCode](https://leetcode.com/problems/grid-illumination/) | Hard | 01 Oct 2026 | 07:47 am |
+| 216 | [Collecting Chocolates](./LeetCode/Medium/Collecting%20Chocolates) | [LeetCode](https://leetcode.com/problems/collecting-chocolates/) | Medium | 01 Oct 2026 | 09:35 am |
