@@ -221,3 +221,4 @@
 | 219 | [Minimum Remove to Make Valid Parentheses](./LeetCode/Medium/Minimum%20Remove%20to%20Make%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | 02 Oct 2026 | 07:42 am |
 | 220 | [Minimum Number of Swaps to Make the String Balanced](./LeetCode/Medium/Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced) | [LeetCode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Medium | 02 Oct 2026 | 07:56 am |
 | 221 | [Minimum Add to Make Parentheses Valid](./LeetCode/Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | 02 Oct 2026 | 10:51 am |
+| 222 | [Word Search](./LeetCode/Medium/Word%20Search) | [LeetCode](https://leetcode.com/problems/word-search/) | Medium | 02 Oct 2026 | 09:49 pm |

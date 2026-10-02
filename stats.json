@@ -1,12 +1,12 @@
 {
-  "totalSolved": 221,
+  "totalSolved": 222,
   "currentStreak": 39,
   "maxStreak": 39,
   "lastSyncDate": "2026-10-02",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 47,
-    "medium": 123,
+    "medium": 124,
     "hard": 24,
     "basic": 27
   },
@@ -231,7 +231,8 @@
     "LeetCode_Check_if_a_Parentheses_String_Can_Be_Valid": true,
     "LeetCode_Minimum_Remove_to_Make_Valid_Parentheses": true,
     "LeetCode_Minimum_Number_of_Swaps_to_Make_the_String_Balanced": true,
-    "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true
+    "LeetCode_Minimum_Add_to_Make_Parentheses_Valid": true,
+    "LeetCode_Word_Search": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -272,13 +273,14 @@
     "2026-09-29": 5,
     "2026-09-30": 4,
     "2026-10-01": 4,
-    "2026-10-02": 5
+    "2026-10-02": 6
   },
   "todayProblems": [
     "Generate Parentheses",
     "Check if a Parentheses String Can Be Valid",
     "Minimum Remove to Make Valid Parentheses",
     "Minimum Number of Swaps to Make the String Balanced",
-    "Minimum Add to Make Parentheses Valid"
+    "Minimum Add to Make Parentheses Valid",
+    "Word Search"
   ]
 }
