@@ -1,12 +1,12 @@
 {
-  "totalSolved": 217,
+  "totalSolved": 218,
   "currentStreak": 39,
   "maxStreak": 39,
   "lastSyncDate": "2026-10-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 47,
-    "medium": 119,
+    "medium": 120,
     "hard": 24,
     "basic": 27
   },
@@ -227,7 +227,8 @@
     "LeetCode_N-Queens": true,
     "LeetCode_Grid_Illumination": true,
     "LeetCode_Collecting_Chocolates": true,
-    "LeetCode_Generate_Parentheses": true
+    "LeetCode_Generate_Parentheses": true,
+    "LeetCode_Check_if_a_Parentheses_String_Can_Be_Valid": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -268,9 +269,10 @@
     "2026-09-29": 5,
     "2026-09-30": 4,
     "2026-10-01": 4,
-    "2026-10-02": 1
+    "2026-10-02": 2
   },
   "todayProblems": [
-    "Generate Parentheses"
+    "Generate Parentheses",
+    "Check if a Parentheses String Can Be Valid"
   ]
 }
