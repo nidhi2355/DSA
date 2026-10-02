@@ -218,3 +218,4 @@
 | 216 | [Collecting Chocolates](./LeetCode/Medium/Collecting%20Chocolates) | [LeetCode](https://leetcode.com/problems/collecting-chocolates/) | Medium | 01 Oct 2026 | 09:35 am |
 | 217 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 02 Oct 2026 | 07:14 am |
 | 218 | [Check if a Parentheses String Can Be Valid](./LeetCode/Medium/Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid) | [LeetCode](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | Medium | 02 Oct 2026 | 07:31 am |
+| 219 | [Minimum Remove to Make Valid Parentheses](./LeetCode/Medium/Minimum%20Remove%20to%20Make%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | Medium | 02 Oct 2026 | 07:42 am |
