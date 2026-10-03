@@ -1,12 +1,12 @@
 {
-  "totalSolved": 225,
+  "totalSolved": 226,
   "currentStreak": 40,
   "maxStreak": 40,
   "lastSyncDate": "2026-10-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 48,
-    "medium": 125,
+    "medium": 126,
     "hard": 25,
     "basic": 27
   },
@@ -235,7 +235,8 @@
     "LeetCode_Word_Search": true,
     "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true,
     "LeetCode_Sort_List": true,
-    "LeetCode_Longest_Valid_Parentheses": true
+    "LeetCode_Longest_Valid_Parentheses": true,
+    "LeetCode_Minimum_Insertions_to_Balance_a_Parentheses_String": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -277,9 +278,10 @@
     "2026-09-30": 4,
     "2026-10-01": 4,
     "2026-10-02": 8,
-    "2026-10-03": 1
+    "2026-10-03": 2
   },
   "todayProblems": [
-    "Longest Valid Parentheses"
+    "Longest Valid Parentheses",
+    "Minimum Insertions to Balance a Parentheses String"
   ]
 }
