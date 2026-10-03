@@ -224,3 +224,4 @@
 | 222 | [Word Search](./LeetCode/Medium/Word%20Search) | [LeetCode](https://leetcode.com/problems/word-search/) | Medium | 02 Oct 2026 | 09:49 pm |
 | 223 | [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 02 Oct 2026 | 09:50 pm |
 | 224 | [Sort List](./LeetCode/Medium/Sort%20List) | [LeetCode](https://leetcode.com/problems/sort-list/) | Medium | 02 Oct 2026 | 09:52 pm |
+| 225 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 09:38 am |
