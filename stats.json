@@ -1,12 +1,12 @@
 {
-  "totalSolved": 237,
+  "totalSolved": 238,
   "currentStreak": 41,
   "maxStreak": 41,
   "lastSyncDate": "2026-10-04",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 49,
-    "medium": 134,
+    "medium": 135,
     "hard": 27,
     "basic": 27
   },
@@ -247,7 +247,8 @@
     "LeetCode_Search_a_2D_Matrix": true,
     "LeetCode_Find_Peak_Element": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
-    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -290,7 +291,7 @@
     "2026-10-01": 4,
     "2026-10-02": 8,
     "2026-10-03": 2,
-    "2026-10-04": 11
+    "2026-10-04": 12
   },
   "todayProblems": [
     "Valid Parenthesis String",
@@ -303,6 +304,7 @@
     "Search a 2D Matrix",
     "Find Peak Element",
     "Search in Rotated Sorted Array",
-    "Find First and Last Position of Element in Sorted Array"
+    "Find First and Last Position of Element in Sorted Array",
+    "Find Minimum in Rotated Sorted Array"
   ]
 }
