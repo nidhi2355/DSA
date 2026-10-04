@@ -1,12 +1,12 @@
 {
-  "totalSolved": 235,
+  "totalSolved": 236,
   "currentStreak": 41,
   "maxStreak": 41,
   "lastSyncDate": "2026-10-04",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 49,
-    "medium": 132,
+    "medium": 133,
     "hard": 27,
     "basic": 27
   },
@@ -245,7 +245,8 @@
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
     "LeetCode_Search_Insert_Position": true,
     "LeetCode_Search_a_2D_Matrix": true,
-    "LeetCode_Find_Peak_Element": true
+    "LeetCode_Find_Peak_Element": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -288,7 +289,7 @@
     "2026-10-01": 4,
     "2026-10-02": 8,
     "2026-10-03": 2,
-    "2026-10-04": 9
+    "2026-10-04": 10
   },
   "todayProblems": [
     "Valid Parenthesis String",
@@ -299,6 +300,7 @@
     "Maximum Sum Circular Subarray",
     "Search Insert Position",
     "Search a 2D Matrix",
-    "Find Peak Element"
+    "Find Peak Element",
+    "Search in Rotated Sorted Array"
   ]
 }
