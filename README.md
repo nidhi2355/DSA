@@ -234,3 +234,4 @@
 | 232 | [Maximum Sum Circular Subarray](./LeetCode/Medium/Maximum%20Sum%20Circular%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | 04 Oct 2026 | 10:04 pm |
 | 233 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 04 Oct 2026 | 10:04 pm |
 | 234 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 04 Oct 2026 | 10:04 pm |
+| 235 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 04 Oct 2026 | 10:05 pm |
