@@ -1,12 +1,12 @@
 {
-  "totalSolved": 230,
+  "totalSolved": 231,
   "currentStreak": 41,
   "maxStreak": 41,
   "lastSyncDate": "2026-10-04",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 48,
-    "medium": 128,
+    "medium": 129,
     "hard": 27,
     "basic": 27
   },
@@ -240,7 +240,8 @@
     "LeetCode_Valid_Parenthesis_String": true,
     "LeetCode_Special_Binary_String": true,
     "LeetCode_Construct_Quad_Tree": true,
-    "LeetCode_Merge_k_Sorted_Lists": true
+    "LeetCode_Merge_k_Sorted_Lists": true,
+    "LeetCode_Maximum_Subarray": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -283,12 +284,13 @@
     "2026-10-01": 4,
     "2026-10-02": 8,
     "2026-10-03": 2,
-    "2026-10-04": 4
+    "2026-10-04": 5
   },
   "todayProblems": [
     "Valid Parenthesis String",
     "Special Binary String",
     "Construct Quad Tree",
-    "Merge k Sorted Lists"
+    "Merge k Sorted Lists",
+    "Maximum Subarray"
   ]
 }
