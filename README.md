@@ -227,3 +227,4 @@
 | 225 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 09:38 am |
 | 226 | [Minimum Insertions to Balance a Parentheses String](./LeetCode/Medium/Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String) | [LeetCode](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Medium | 03 Oct 2026 | 10:49 am |
 | 227 | [Valid Parenthesis String](./LeetCode/Medium/Valid%20Parenthesis%20String) | [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | 04 Oct 2026 | 06:56 am |
+| 228 | [Special Binary String](./LeetCode/Hard/Special%20Binary%20String) | [LeetCode](https://leetcode.com/problems/special-binary-string/) | Hard | 04 Oct 2026 | 07:28 am |
