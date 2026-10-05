@@ -243,3 +243,4 @@
 | 241 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 05 Oct 2026 | 09:14 am |
 | 242 | [IPO](./LeetCode/Hard/IPO) | [LeetCode](https://leetcode.com/problems/ipo/) | Hard | 05 Oct 2026 | 09:22 am |
 | 243 | [Find K Pairs with Smallest Sums](./LeetCode/Medium/Find%20K%20Pairs%20with%20Smallest%20Sums) | [LeetCode](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | Medium | 05 Oct 2026 | 09:38 am |
+| 244 | [Find Median from Data Stream](./LeetCode/Hard/Find%20Median%20from%20Data%20Stream) | [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | 05 Oct 2026 | 09:39 am |
