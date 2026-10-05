@@ -1,12 +1,12 @@
 {
-  "totalSolved": 242,
+  "totalSolved": 243,
   "currentStreak": 42,
   "maxStreak": 42,
   "lastSyncDate": "2026-10-05",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 49,
-    "medium": 137,
+    "medium": 138,
     "hard": 29,
     "basic": 27
   },
@@ -252,7 +252,8 @@
     "LeetCode_Score_of_Parentheses": true,
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
     "LeetCode_Kth_Largest_Element_in_an_Array": true,
-    "LeetCode_IPO": true
+    "LeetCode_IPO": true,
+    "LeetCode_Find_K_Pairs_with_Smallest_Sums": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -296,12 +297,13 @@
     "2026-10-02": 8,
     "2026-10-03": 2,
     "2026-10-04": 12,
-    "2026-10-05": 4
+    "2026-10-05": 5
   },
   "todayProblems": [
     "Score of Parentheses",
     "Median of Two Sorted Arrays",
     "Kth Largest Element in an Array",
-    "IPO"
+    "IPO",
+    "Find K Pairs with Smallest Sums"
   ]
 }
