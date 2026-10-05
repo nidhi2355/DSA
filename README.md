@@ -245,3 +245,4 @@
 | 243 | [Find K Pairs with Smallest Sums](./LeetCode/Medium/Find%20K%20Pairs%20with%20Smallest%20Sums) | [LeetCode](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | Medium | 05 Oct 2026 | 09:38 am |
 | 244 | [Find Median from Data Stream](./LeetCode/Hard/Find%20Median%20from%20Data%20Stream) | [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | 05 Oct 2026 | 09:39 am |
 | 245 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 05 Oct 2026 | 09:50 am |
+| 246 | [Reverse Bits](./LeetCode/Easy/Reverse%20Bits) | [LeetCode](https://leetcode.com/problems/reverse-bits/) | Easy | 05 Oct 2026 | 09:55 am |

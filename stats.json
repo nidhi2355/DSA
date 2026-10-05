@@ -1,11 +1,11 @@
 {
-  "totalSolved": 245,
+  "totalSolved": 246,
   "currentStreak": 42,
   "maxStreak": 42,
   "lastSyncDate": "2026-10-05",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 50,
+    "easy": 51,
     "medium": 138,
     "hard": 30,
     "basic": 27
@@ -255,7 +255,8 @@
     "LeetCode_IPO": true,
     "LeetCode_Find_K_Pairs_with_Smallest_Sums": true,
     "LeetCode_Find_Median_from_Data_Stream": true,
-    "LeetCode_Add_Binary": true
+    "LeetCode_Add_Binary": true,
+    "LeetCode_Reverse_Bits": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -299,7 +300,7 @@
     "2026-10-02": 8,
     "2026-10-03": 2,
     "2026-10-04": 12,
-    "2026-10-05": 7
+    "2026-10-05": 8
   },
   "todayProblems": [
     "Score of Parentheses",
@@ -308,6 +309,7 @@
     "IPO",
     "Find K Pairs with Smallest Sums",
     "Find Median from Data Stream",
-    "Add Binary"
+    "Add Binary",
+    "Reverse Bits"
   ]
 }
