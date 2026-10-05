@@ -241,3 +241,4 @@
 | 239 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 07:12 am |
 | 240 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 05 Oct 2026 | 09:13 am |
 | 241 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 05 Oct 2026 | 09:14 am |
+| 242 | [IPO](./LeetCode/Hard/IPO) | [LeetCode](https://leetcode.com/problems/ipo/) | Hard | 05 Oct 2026 | 09:22 am |

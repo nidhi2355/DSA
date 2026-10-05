@@ -1,13 +1,13 @@
 {
-  "totalSolved": 241,
+  "totalSolved": 242,
   "currentStreak": 42,
   "maxStreak": 42,
   "lastSyncDate": "2026-10-05",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 49,
     "medium": 137,
-    "hard": 28,
+    "hard": 29,
     "basic": 27
   },
   "syncedProblems": {
@@ -251,7 +251,8 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Score_of_Parentheses": true,
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
-    "LeetCode_Kth_Largest_Element_in_an_Array": true
+    "LeetCode_Kth_Largest_Element_in_an_Array": true,
+    "LeetCode_IPO": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -295,11 +296,12 @@
     "2026-10-02": 8,
     "2026-10-03": 2,
     "2026-10-04": 12,
-    "2026-10-05": 3
+    "2026-10-05": 4
   },
   "todayProblems": [
     "Score of Parentheses",
     "Median of Two Sorted Arrays",
-    "Kth Largest Element in an Array"
+    "Kth Largest Element in an Array",
+    "IPO"
   ]
 }
