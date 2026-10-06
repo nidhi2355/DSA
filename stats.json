@@ -1,12 +1,12 @@
 {
-  "totalSolved": 247,
-  "currentStreak": 42,
-  "maxStreak": 42,
-  "lastSyncDate": "2026-10-05",
-  "todayCount": 9,
+  "totalSolved": 248,
+  "currentStreak": 43,
+  "maxStreak": 43,
+  "lastSyncDate": "2026-10-06",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 52,
-    "medium": 138,
+    "medium": 139,
     "hard": 30,
     "basic": 27
   },
@@ -257,7 +257,8 @@
     "LeetCode_Find_Median_from_Data_Stream": true,
     "LeetCode_Add_Binary": true,
     "LeetCode_Reverse_Bits": true,
-    "LeetCode_Number_of_1_Bits": true
+    "LeetCode_Number_of_1_Bits": true,
+    "LeetCode_Split_a_String_Into_the_Max_Number_of_Unique_Substrings": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -301,17 +302,10 @@
     "2026-10-02": 8,
     "2026-10-03": 2,
     "2026-10-04": 12,
-    "2026-10-05": 9
+    "2026-10-05": 9,
+    "2026-10-06": 1
   },
   "todayProblems": [
-    "Score of Parentheses",
-    "Median of Two Sorted Arrays",
-    "Kth Largest Element in an Array",
-    "IPO",
-    "Find K Pairs with Smallest Sums",
-    "Find Median from Data Stream",
-    "Add Binary",
-    "Reverse Bits",
-    "Number of 1 Bits"
+    "Split a String Into the Max Number of Unique Substrings"
   ]
 }

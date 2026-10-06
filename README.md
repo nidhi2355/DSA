@@ -247,3 +247,4 @@
 | 245 | [Add Binary](./LeetCode/Easy/Add%20Binary) | [LeetCode](https://leetcode.com/problems/add-binary/) | Easy | 05 Oct 2026 | 09:50 am |
 | 246 | [Reverse Bits](./LeetCode/Easy/Reverse%20Bits) | [LeetCode](https://leetcode.com/problems/reverse-bits/) | Easy | 05 Oct 2026 | 09:55 am |
 | 247 | [Number of 1 Bits](./LeetCode/Easy/Number%20of%201%20Bits) | [LeetCode](https://leetcode.com/problems/number-of-1-bits/) | Easy | 05 Oct 2026 | 09:56 am |
+| 248 | [Split a String Into the Max Number of Unique Substrings](./LeetCode/Medium/Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings) | [LeetCode](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Medium | 06 Oct 2026 | 11:50 am |
