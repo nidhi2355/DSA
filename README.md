@@ -252,3 +252,4 @@
 | 250 | [Single Number II](./LeetCode/Medium/Single%20Number%20II) | [LeetCode](https://leetcode.com/problems/single-number-ii/) | Medium | 06 Oct 2026 | 12:06 pm |
 | 251 | [Single Number III](./LeetCode/Medium/Single%20Number%20III) | [LeetCode](https://leetcode.com/problems/single-number-iii/) | Medium | 06 Oct 2026 | 12:22 pm |
 | 252 | [Bitwise AND of Numbers Range](./LeetCode/Medium/Bitwise%20AND%20of%20Numbers%20Range) | [LeetCode](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | Medium | 06 Oct 2026 | 12:31 pm |
+| 253 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 06 Oct 2026 | 12:32 pm |
