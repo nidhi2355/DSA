@@ -1,11 +1,11 @@
 {
-  "totalSolved": 248,
+  "totalSolved": 249,
   "currentStreak": 43,
   "maxStreak": 43,
   "lastSyncDate": "2026-10-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 52,
+    "easy": 53,
     "medium": 139,
     "hard": 30,
     "basic": 27
@@ -258,7 +258,8 @@
     "LeetCode_Add_Binary": true,
     "LeetCode_Reverse_Bits": true,
     "LeetCode_Number_of_1_Bits": true,
-    "LeetCode_Split_a_String_Into_the_Max_Number_of_Unique_Substrings": true
+    "LeetCode_Split_a_String_Into_the_Max_Number_of_Unique_Substrings": true,
+    "LeetCode_Single_Number": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -303,9 +304,10 @@
     "2026-10-03": 2,
     "2026-10-04": 12,
     "2026-10-05": 9,
-    "2026-10-06": 1
+    "2026-10-06": 2
   },
   "todayProblems": [
-    "Split a String Into the Max Number of Unique Substrings"
+    "Split a String Into the Max Number of Unique Substrings",
+    "Single Number"
   ]
 }
