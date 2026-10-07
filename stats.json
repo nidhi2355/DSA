@@ -1,13 +1,13 @@
 {
-  "totalSolved": 253,
-  "currentStreak": 43,
-  "maxStreak": 43,
-  "lastSyncDate": "2026-10-06",
-  "todayCount": 6,
+  "totalSolved": 254,
+  "currentStreak": 44,
+  "maxStreak": 44,
+  "lastSyncDate": "2026-10-07",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 54,
     "medium": 142,
-    "hard": 30,
+    "hard": 31,
     "basic": 27
   },
   "syncedProblems": {
@@ -263,7 +263,8 @@
     "LeetCode_Single_Number_II": true,
     "LeetCode_Single_Number_III": true,
     "LeetCode_Bitwise_AND_of_Numbers_Range": true,
-    "LeetCode_Palindrome_Number": true
+    "LeetCode_Palindrome_Number": true,
+    "LeetCode_Remove_Invalid_Parentheses": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -308,14 +309,10 @@
     "2026-10-03": 2,
     "2026-10-04": 12,
     "2026-10-05": 9,
-    "2026-10-06": 6
+    "2026-10-06": 6,
+    "2026-10-07": 1
   },
   "todayProblems": [
-    "Split a String Into the Max Number of Unique Substrings",
-    "Single Number",
-    "Single Number II",
-    "Single Number III",
-    "Bitwise AND of Numbers Range",
-    "Palindrome Number"
+    "Remove Invalid Parentheses"
   ]
 }
