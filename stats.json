@@ -1,12 +1,12 @@
 {
-  "totalSolved": 255,
+  "totalSolved": 256,
   "currentStreak": 1,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 55,
-    "medium": 142,
+    "medium": 143,
     "hard": 31,
     "basic": 27
   },
@@ -265,7 +265,8 @@
     "LeetCode_Bitwise_AND_of_Numbers_Range": true,
     "LeetCode_Palindrome_Number": true,
     "LeetCode_Remove_Invalid_Parentheses": true,
-    "LeetCode_Plus_One": true
+    "LeetCode_Plus_One": true,
+    "LeetCode_Factorial_Trailing_Zeroes": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -312,9 +313,10 @@
     "2026-10-05": 9,
     "2026-10-06": 6,
     "2026-10-07": 1,
-    "2026-10-09": 1
+    "2026-10-09": 2
   },
   "todayProblems": [
-    "Plus One"
+    "Plus One",
+    "Factorial Trailing Zeroes"
   ]
 }
