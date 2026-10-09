@@ -256,3 +256,4 @@
 | 254 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 07 Oct 2026 | 08:42 am |
 | 255 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 09 Oct 2026 | 05:09 pm |
 | 256 | [Factorial Trailing Zeroes](./LeetCode/Medium/Factorial%20Trailing%20Zeroes) | [LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/) | Medium | 09 Oct 2026 | 05:15 pm |
+| 257 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 09 Oct 2026 | 05:18 pm |
