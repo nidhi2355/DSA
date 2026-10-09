@@ -1,13 +1,13 @@
 {
-  "totalSolved": 258,
+  "totalSolved": 259,
   "currentStreak": 1,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 56,
     "medium": 144,
-    "hard": 31,
+    "hard": 32,
     "basic": 27
   },
   "syncedProblems": {
@@ -268,7 +268,8 @@
     "LeetCode_Plus_One": true,
     "LeetCode_Factorial_Trailing_Zeroes": true,
     "LeetCode_Sqrt(x)": true,
-    "LeetCode_Pow(x,_n)": true
+    "LeetCode_Pow(x,_n)": true,
+    "LeetCode_Max_Points_on_a_Line": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -315,12 +316,13 @@
     "2026-10-05": 9,
     "2026-10-06": 6,
     "2026-10-07": 1,
-    "2026-10-09": 4
+    "2026-10-09": 5
   },
   "todayProblems": [
     "Plus One",
     "Factorial Trailing Zeroes",
     "Sqrt(x)",
-    "Pow(x, n)"
+    "Pow(x, n)",
+    "Max Points on a Line"
   ]
 }

@@ -258,3 +258,4 @@
 | 256 | [Factorial Trailing Zeroes](./LeetCode/Medium/Factorial%20Trailing%20Zeroes) | [LeetCode](https://leetcode.com/problems/factorial-trailing-zeroes/) | Medium | 09 Oct 2026 | 05:15 pm |
 | 257 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 09 Oct 2026 | 05:18 pm |
 | 258 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 09 Oct 2026 | 05:31 pm |
+| 259 | [Max Points on a Line](./LeetCode/Hard/Max%20Points%20on%20a%20Line) | [LeetCode](https://leetcode.com/problems/max-points-on-a-line/) | Hard | 09 Oct 2026 | 08:54 pm |
