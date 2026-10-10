@@ -1,0 +1,48 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    int n;
+    cin>>n;
+    
+    vector<int> arr(n);
+    for(int i=0; i<n; i++) cin>>arr[i];
+    
+    for(int i=1; i<n-1; i++){
+        int leftind=-1, rightind=-1;
+        
+        for(int l=0; l<i; l++){
+            if(arr[l]< arr[i]){
+                leftind= l;
+                break;
+            }
+        }
+        
+        for(int r= i+1; r<n; r++){
+            if(arr[r]< arr[i]){
+                rightind= r;
+                break;
+            }
+        }
+        
+        if((leftind != -1) and (rightind != -1)){
+            cout<< "YES\n";
+            cout<<leftind+1<<' '<<i+1<<' '<<rightind+1<<'\n';
+            return;
+        }
+    }
+    
+    cout<<"NO\n";
+    return;
+}
+
+int main(){
+    int t;
+    cin>>t;
+    
+    while(t--){
+        solve();
+    }
+    
+    return 0;
+}

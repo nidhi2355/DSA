@@ -1,14 +1,14 @@
 {
-  "totalSolved": 260,
+  "totalSolved": 261,
   "currentStreak": 2,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 56,
     "medium": 145,
     "hard": 32,
-    "basic": 27
+    "basic": 28
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -270,7 +270,8 @@
     "LeetCode_Sqrt(x)": true,
     "LeetCode_Pow(x,_n)": true,
     "LeetCode_Max_Points_on_a_Line": true,
-    "LeetCode_Minimum_Sum_of_Squared_Difference": true
+    "LeetCode_Minimum_Sum_of_Squared_Difference": true,
+    "Codeforces_1380A_-_Three_Indices": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -318,9 +319,10 @@
     "2026-10-06": 6,
     "2026-10-07": 1,
     "2026-10-09": 5,
-    "2026-10-10": 1
+    "2026-10-10": 2
   },
   "todayProblems": [
-    "Minimum Sum of Squared Difference"
+    "Minimum Sum of Squared Difference",
+    "1380A - Three Indices"
   ]
 }

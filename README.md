@@ -260,3 +260,4 @@
 | 258 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 09 Oct 2026 | 05:31 pm |
 | 259 | [Max Points on a Line](./LeetCode/Hard/Max%20Points%20on%20a%20Line) | [LeetCode](https://leetcode.com/problems/max-points-on-a-line/) | Hard | 09 Oct 2026 | 08:54 pm |
 | 260 | [Minimum Sum of Squared Difference](./LeetCode/Medium/Minimum%20Sum%20of%20Squared%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | 10 Oct 2026 | 08:58 am |
+| 261 | [1380A - Three Indices](./Codeforces/basic/1380A%20-%20Three%20Indices) | [Codeforces](https://codeforces.com/problemset/problem/1380/A) | basic | 10 Oct 2026 | 08:35 pm |
