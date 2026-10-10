@@ -1,0 +1,40 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+void solve(){
+    long long n;
+    cin>>n;
+    
+    int cnt2=0, cnt3=0;
+    
+    long long temp= n;
+    
+    while(temp% 2 ==0){
+        cnt2++;
+        temp/=2;
+    }
+    
+    while(temp%3 == 0){
+        cnt3++;
+        temp/=3;
+    }
+    
+    if(temp>1 or cnt2>cnt3){
+        cout<<-1<<'\n';
+        return;
+    }
+    
+    cout<<2*cnt3- cnt2<<'\n';
+    return;
+}
+
+int main(){
+    int t;
+    cin>>t;
+    
+    while(t--){
+        solve();
+    }
+    
+    return 0;
+}
