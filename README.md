@@ -267,3 +267,4 @@
 | 265 | [1913B - Swap and Delete](./Codeforces/basic/1913B%20-%20Swap%20and%20Delete) | [Codeforces](https://codeforces.com/problemset/problem/1913/B) | basic | 11 Oct 2026 | 03:50 pm |
 | 266 | [1883C - Raspberries](./Codeforces/basic/1883C%20-%20Raspberries) | [Codeforces](https://codeforces.com/problemset/problem/1883/C) | basic | 11 Oct 2026 | 04:08 pm |
 | 267 | [Word Break](./LeetCode/Medium/Word%20Break) | [LeetCode](https://leetcode.com/problems/word-break/) | Medium | 11 Oct 2026 | 09:31 pm |
+| 268 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 11 Oct 2026 | 09:43 pm |
