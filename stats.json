@@ -1,14 +1,14 @@
 {
-  "totalSolved": 265,
+  "totalSolved": 266,
   "currentStreak": 3,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 57,
     "medium": 146,
     "hard": 32,
-    "basic": 30
+    "basic": 31
   },
   "syncedProblems": {
     "GeeksForGeeks_Minimum_Spanning_Tree_-_Kruskal's_Algorithm": true,
@@ -275,7 +275,8 @@
     "Codeforces_1374B_-_Multiply_by_2_divide_by_6": true,
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
     "LeetCode_Sum_of_Square_Numbers": true,
-    "Codeforces_1913B_-_Swap_and_Delete": true
+    "Codeforces_1913B_-_Swap_and_Delete": true,
+    "Codeforces_1883C_-_Raspberries": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -324,11 +325,12 @@
     "2026-10-07": 1,
     "2026-10-09": 5,
     "2026-10-10": 3,
-    "2026-10-11": 3
+    "2026-10-11": 4
   },
   "todayProblems": [
     "Sum of Squares of Special Elements ",
     "Sum of Square Numbers",
-    "1913B - Swap and Delete"
+    "1913B - Swap and Delete",
+    "1883C - Raspberries"
   ]
 }
