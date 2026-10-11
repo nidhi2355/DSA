@@ -1,12 +1,12 @@
 {
-  "totalSolved": 268,
+  "totalSolved": 269,
   "currentStreak": 3,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 57,
-    "medium": 148,
+    "medium": 149,
     "hard": 32,
     "basic": 31
   },
@@ -278,7 +278,8 @@
     "Codeforces_1913B_-_Swap_and_Delete": true,
     "Codeforces_1883C_-_Raspberries": true,
     "LeetCode_Word_Break": true,
-    "LeetCode_Coin_Change": true
+    "LeetCode_Coin_Change": true,
+    "LeetCode_Triangle": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -327,7 +328,7 @@
     "2026-10-07": 1,
     "2026-10-09": 5,
     "2026-10-10": 3,
-    "2026-10-11": 6
+    "2026-10-11": 7
   },
   "todayProblems": [
     "Sum of Squares of Special Elements ",
@@ -335,6 +336,7 @@
     "1913B - Swap and Delete",
     "1883C - Raspberries",
     "Word Break",
-    "Coin Change"
+    "Coin Change",
+    "Triangle"
   ]
 }
