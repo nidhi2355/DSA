@@ -262,3 +262,4 @@
 | 260 | [Minimum Sum of Squared Difference](./LeetCode/Medium/Minimum%20Sum%20of%20Squared%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | 10 Oct 2026 | 08:58 am |
 | 261 | [1380A - Three Indices](./Codeforces/basic/1380A%20-%20Three%20Indices) | [Codeforces](https://codeforces.com/problemset/problem/1380/A) | basic | 10 Oct 2026 | 08:35 pm |
 | 262 | [1374B - Multiply by 2 divide by 6](./Codeforces/basic/1374B%20-%20Multiply%20by%202%20divide%20by%206) | [Codeforces](https://codeforces.com/problemset/problem/1374/B) | basic | 10 Oct 2026 | 08:48 pm |
+| 263 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 07:52 am |
