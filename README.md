@@ -264,3 +264,4 @@
 | 262 | [1374B - Multiply by 2 divide by 6](./Codeforces/basic/1374B%20-%20Multiply%20by%202%20divide%20by%206) | [Codeforces](https://codeforces.com/problemset/problem/1374/B) | basic | 10 Oct 2026 | 08:48 pm |
 | 263 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 07:52 am |
 | 264 | [Sum of Square Numbers](./LeetCode/Medium/Sum%20of%20Square%20Numbers) | [LeetCode](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | 11 Oct 2026 | 08:40 am |
+| 265 | [1913B - Swap and Delete](./Codeforces/basic/1913B%20-%20Swap%20and%20Delete) | [Codeforces](https://codeforces.com/problemset/problem/1913/B) | basic | 11 Oct 2026 | 03:50 pm |
