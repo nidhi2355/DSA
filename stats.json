@@ -1,12 +1,12 @@
 {
-  "totalSolved": 263,
+  "totalSolved": 264,
   "currentStreak": 3,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 57,
-    "medium": 145,
+    "medium": 146,
     "hard": 32,
     "basic": 29
   },
@@ -273,7 +273,8 @@
     "LeetCode_Minimum_Sum_of_Squared_Difference": true,
     "Codeforces_1380A_-_Three_Indices": true,
     "Codeforces_1374B_-_Multiply_by_2_divide_by_6": true,
-    "LeetCode_Sum_of_Squares_of_Special_Elements_": true
+    "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
+    "LeetCode_Sum_of_Square_Numbers": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -322,9 +323,10 @@
     "2026-10-07": 1,
     "2026-10-09": 5,
     "2026-10-10": 3,
-    "2026-10-11": 1
+    "2026-10-11": 2
   },
   "todayProblems": [
-    "Sum of Squares of Special Elements "
+    "Sum of Squares of Special Elements ",
+    "Sum of Square Numbers"
   ]
 }
