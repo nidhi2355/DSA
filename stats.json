@@ -1,12 +1,12 @@
 {
-  "totalSolved": 269,
+  "totalSolved": 270,
   "currentStreak": 3,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 57,
-    "medium": 149,
+    "medium": 150,
     "hard": 32,
     "basic": 31
   },
@@ -279,7 +279,8 @@
     "Codeforces_1883C_-_Raspberries": true,
     "LeetCode_Word_Break": true,
     "LeetCode_Coin_Change": true,
-    "LeetCode_Triangle": true
+    "LeetCode_Triangle": true,
+    "LeetCode_Minimum_Path_Sum": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -328,7 +329,7 @@
     "2026-10-07": 1,
     "2026-10-09": 5,
     "2026-10-10": 3,
-    "2026-10-11": 7
+    "2026-10-11": 8
   },
   "todayProblems": [
     "Sum of Squares of Special Elements ",
@@ -337,6 +338,7 @@
     "1883C - Raspberries",
     "Word Break",
     "Coin Change",
-    "Triangle"
+    "Triangle",
+    "Minimum Path Sum"
   ]
 }
