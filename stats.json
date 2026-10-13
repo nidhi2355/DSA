@@ -1,12 +1,12 @@
 {
-  "totalSolved": 273,
+  "totalSolved": 274,
   "currentStreak": 5,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 57,
-    "medium": 152,
+    "medium": 153,
     "hard": 33,
     "basic": 31
   },
@@ -283,7 +283,8 @@
     "LeetCode_Minimum_Path_Sum": true,
     "LeetCode_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares": true,
     "LeetCode_Maximum_Alternating_Sum_of_Squares": true,
-    "LeetCode_Maximum_Frequency_After_Subarray_Operation": true
+    "LeetCode_Maximum_Frequency_After_Subarray_Operation": true,
+    "LeetCode_Non-decreasing_Array": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -334,10 +335,11 @@
     "2026-10-10": 3,
     "2026-10-11": 8,
     "2026-10-12": 1,
-    "2026-10-13": 2
+    "2026-10-13": 3
   },
   "todayProblems": [
     "Maximum Alternating Sum of Squares",
-    "Maximum Frequency After Subarray Operation"
+    "Maximum Frequency After Subarray Operation",
+    "Non-decreasing Array"
   ]
 }
