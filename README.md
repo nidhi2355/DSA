@@ -271,3 +271,4 @@
 | 269 | [Triangle](./LeetCode/Medium/Triangle) | [LeetCode](https://leetcode.com/problems/triangle/) | Medium | 11 Oct 2026 | 09:47 pm |
 | 270 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 11 Oct 2026 | 09:47 pm |
 | 271 | [Apply Operations on Array to Maximize Sum of Squares](./LeetCode/Hard/Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | 12 Oct 2026 | 08:34 am |
+| 272 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 07:52 am |
