@@ -277,3 +277,4 @@
 | 275 | [Maximize Sum of Squares of Digits](./LeetCode/Medium/Maximize%20Sum%20of%20Squares%20of%20Digits) | [LeetCode](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | 14 Oct 2026 | 08:19 am |
 | 276 | [Total Hamming Distance](./LeetCode/Medium/Total%20Hamming%20Distance) | [LeetCode](https://leetcode.com/problems/total-hamming-distance/) | Medium | 14 Oct 2026 | 08:38 am |
 | 277 | [Subarrays Distinct Element Sum of Squares I](./LeetCode/Easy/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | 15 Oct 2026 | 08:17 am |
+| 278 | [Minimum Deletions to Make Character Frequencies Unique](./LeetCode/Medium/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique) | [LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | Medium | 15 Oct 2026 | 08:38 am |
