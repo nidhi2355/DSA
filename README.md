@@ -279,3 +279,4 @@
 | 277 | [Subarrays Distinct Element Sum of Squares I](./LeetCode/Easy/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | 15 Oct 2026 | 08:17 am |
 | 278 | [Minimum Deletions to Make Character Frequencies Unique](./LeetCode/Medium/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique) | [LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | Medium | 15 Oct 2026 | 08:38 am |
 | 279 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 15 Oct 2026 | 08:56 am |
+| 280 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 16 Oct 2026 | 07:02 am |

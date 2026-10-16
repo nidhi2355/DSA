@@ -1,12 +1,12 @@
 {
-  "totalSolved": 279,
-  "currentStreak": 7,
+  "totalSolved": 280,
+  "currentStreak": 8,
   "maxStreak": 44,
-  "lastSyncDate": "2026-10-15",
-  "todayCount": 3,
+  "lastSyncDate": "2026-10-16",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 58,
-    "medium": 157,
+    "medium": 158,
     "hard": 33,
     "basic": 31
   },
@@ -289,7 +289,8 @@
     "LeetCode_Total_Hamming_Distance": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
     "LeetCode_Minimum_Deletions_to_Make_Character_Frequencies_Unique": true,
-    "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true
+    "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true,
+    "LeetCode_Unique_Paths_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -342,11 +343,10 @@
     "2026-10-12": 1,
     "2026-10-13": 3,
     "2026-10-14": 2,
-    "2026-10-15": 3
+    "2026-10-15": 3,
+    "2026-10-16": 1
   },
   "todayProblems": [
-    "Subarrays Distinct Element Sum of Squares I",
-    "Minimum Deletions to Make Character Frequencies Unique",
-    "Minimum Operations to Sort a Permutation"
+    "Unique Paths II"
   ]
 }
