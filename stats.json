@@ -1,12 +1,12 @@
 {
-  "totalSolved": 282,
+  "totalSolved": 283,
   "currentStreak": 8,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-16",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 58,
-    "medium": 160,
+    "medium": 161,
     "hard": 33,
     "basic": 31
   },
@@ -292,7 +292,8 @@
     "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true,
     "LeetCode_Unique_Paths_II": true,
     "LeetCode_Longest_Palindromic_Substring": true,
-    "LeetCode_Interleaving_String": true
+    "LeetCode_Interleaving_String": true,
+    "LeetCode_Edit_Distance": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -346,11 +347,12 @@
     "2026-10-13": 3,
     "2026-10-14": 2,
     "2026-10-15": 3,
-    "2026-10-16": 3
+    "2026-10-16": 4
   },
   "todayProblems": [
     "Unique Paths II",
     "Longest Palindromic Substring",
-    "Interleaving String"
+    "Interleaving String",
+    "Edit Distance"
   ]
 }

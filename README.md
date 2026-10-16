@@ -282,3 +282,4 @@
 | 280 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 16 Oct 2026 | 07:02 am |
 | 281 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 16 Oct 2026 | 07:11 am |
 | 282 | [Interleaving String](./LeetCode/Medium/Interleaving%20String) | [LeetCode](https://leetcode.com/problems/interleaving-string/) | Medium | 16 Oct 2026 | 07:56 am |
+| 283 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 16 Oct 2026 | 08:04 am |
