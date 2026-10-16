@@ -283,3 +283,4 @@
 | 281 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 16 Oct 2026 | 07:11 am |
 | 282 | [Interleaving String](./LeetCode/Medium/Interleaving%20String) | [LeetCode](https://leetcode.com/problems/interleaving-string/) | Medium | 16 Oct 2026 | 07:56 am |
 | 283 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 16 Oct 2026 | 08:04 am |
+| 284 | [Maximal Square](./LeetCode/Medium/Maximal%20Square) | [LeetCode](https://leetcode.com/problems/maximal-square/) | Medium | 16 Oct 2026 | 08:26 am |
