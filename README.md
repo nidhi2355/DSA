@@ -280,3 +280,4 @@
 | 278 | [Minimum Deletions to Make Character Frequencies Unique](./LeetCode/Medium/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique) | [LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | Medium | 15 Oct 2026 | 08:38 am |
 | 279 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 15 Oct 2026 | 08:56 am |
 | 280 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 16 Oct 2026 | 07:02 am |
+| 281 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 16 Oct 2026 | 07:11 am |
