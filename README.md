@@ -285,3 +285,4 @@
 | 283 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 16 Oct 2026 | 08:04 am |
 | 284 | [Maximal Square](./LeetCode/Medium/Maximal%20Square) | [LeetCode](https://leetcode.com/problems/maximal-square/) | Medium | 16 Oct 2026 | 08:26 am |
 | 285 | [Subarrays Distinct Element Sum of Squares II](./LeetCode/Hard/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | 16 Oct 2026 | 08:28 am |
+| 286 | [Minimum Swaps to Sort by Digit Sum](./LeetCode/Medium/Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | 17 Oct 2026 | 02:56 pm |
