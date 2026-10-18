@@ -1,13 +1,13 @@
 {
-  "totalSolved": 287,
-  "currentStreak": 9,
+  "totalSolved": 288,
+  "currentStreak": 10,
   "maxStreak": 44,
-  "lastSyncDate": "2026-10-17",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-18",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 58,
     "medium": 164,
-    "hard": 34,
+    "hard": 35,
     "basic": 31
   },
   "syncedProblems": {
@@ -297,7 +297,8 @@
     "LeetCode_Maximal_Square": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_II": true,
     "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
-    "LeetCode_Number_of_Boomerangs": true
+    "LeetCode_Number_of_Boomerangs": true,
+    "LeetCode_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -352,10 +353,10 @@
     "2026-10-14": 2,
     "2026-10-15": 3,
     "2026-10-16": 6,
-    "2026-10-17": 2
+    "2026-10-17": 2,
+    "2026-10-18": 1
   },
   "todayProblems": [
-    "Minimum Swaps to Sort by Digit Sum",
-    "Number of Boomerangs"
+    "Number of Ways to Reorder Array to Get Same BST"
   ]
 }
