@@ -289,3 +289,4 @@
 | 287 | [Number of Boomerangs](./LeetCode/Medium/Number%20of%20Boomerangs) | [LeetCode](https://leetcode.com/problems/number-of-boomerangs/) | Medium | 17 Oct 2026 | 03:08 pm |
 | 288 | [Number of Ways to Reorder Array to Get Same BST](./LeetCode/Hard/Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 18 Oct 2026 | 08:39 am |
 | 289 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 07:56 am |
+| 290 | [Find Words Containing Character](./LeetCode/Easy/Find%20Words%20Containing%20Character) | [LeetCode](https://leetcode.com/problems/find-words-containing-character/) | Easy | 19 Oct 2026 | 08:02 am |
