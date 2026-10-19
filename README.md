@@ -291,3 +291,4 @@
 | 289 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 07:56 am |
 | 290 | [Find Words Containing Character](./LeetCode/Easy/Find%20Words%20Containing%20Character) | [LeetCode](https://leetcode.com/problems/find-words-containing-character/) | Easy | 19 Oct 2026 | 08:02 am |
 | 291 | [Find the Number of Copy Arrays](./LeetCode/Medium/Find%20the%20Number%20of%20Copy%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-number-of-copy-arrays/) | Medium | 19 Oct 2026 | 08:33 am |
+| 292 | [Total Score of Dungeon Runs](./LeetCode/Medium/Total%20Score%20of%20Dungeon%20Runs) | [LeetCode](https://leetcode.com/problems/total-score-of-dungeon-runs/) | Medium | 19 Oct 2026 | 08:42 am |
