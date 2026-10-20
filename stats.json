@@ -1,13 +1,13 @@
 {
-  "totalSolved": 292,
-  "currentStreak": 11,
+  "totalSolved": 293,
+  "currentStreak": 12,
   "maxStreak": 44,
-  "lastSyncDate": "2026-10-19",
-  "todayCount": 4,
+  "lastSyncDate": "2026-10-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 60,
     "medium": 166,
-    "hard": 35,
+    "hard": 36,
     "basic": 31
   },
   "syncedProblems": {
@@ -302,7 +302,8 @@
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
     "LeetCode_Find_Words_Containing_Character": true,
     "LeetCode_Find_the_Number_of_Copy_Arrays": true,
-    "LeetCode_Total_Score_of_Dungeon_Runs": true
+    "LeetCode_Total_Score_of_Dungeon_Runs": true,
+    "LeetCode_Sum_of_Sortable_Integers": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -359,12 +360,10 @@
     "2026-10-16": 6,
     "2026-10-17": 2,
     "2026-10-18": 1,
-    "2026-10-19": 4
+    "2026-10-19": 4,
+    "2026-10-20": 1
   },
   "todayProblems": [
-    "Find Target Indices After Sorting Array",
-    "Find Words Containing Character",
-    "Find the Number of Copy Arrays",
-    "Total Score of Dungeon Runs"
+    "Sum of Sortable Integers"
   ]
 }

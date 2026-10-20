@@ -292,3 +292,4 @@
 | 290 | [Find Words Containing Character](./LeetCode/Easy/Find%20Words%20Containing%20Character) | [LeetCode](https://leetcode.com/problems/find-words-containing-character/) | Easy | 19 Oct 2026 | 08:02 am |
 | 291 | [Find the Number of Copy Arrays](./LeetCode/Medium/Find%20the%20Number%20of%20Copy%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-number-of-copy-arrays/) | Medium | 19 Oct 2026 | 08:33 am |
 | 292 | [Total Score of Dungeon Runs](./LeetCode/Medium/Total%20Score%20of%20Dungeon%20Runs) | [LeetCode](https://leetcode.com/problems/total-score-of-dungeon-runs/) | Medium | 19 Oct 2026 | 08:42 am |
+| 293 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 08:05 am |
