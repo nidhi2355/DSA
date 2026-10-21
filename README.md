@@ -294,3 +294,4 @@
 | 292 | [Total Score of Dungeon Runs](./LeetCode/Medium/Total%20Score%20of%20Dungeon%20Runs) | [LeetCode](https://leetcode.com/problems/total-score-of-dungeon-runs/) | Medium | 19 Oct 2026 | 08:42 am |
 | 293 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 08:05 am |
 | 294 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 07:57 am |
+| 295 | [Lexicographically Smallest String After Applying Operations](./LeetCode/Medium/Lexicographically%20Smallest%20String%20After%20Applying%20Operations) | [LeetCode](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | Medium | 21 Oct 2026 | 08:46 am |
