@@ -1,12 +1,12 @@
 {
-  "totalSolved": 293,
-  "currentStreak": 12,
+  "totalSolved": 294,
+  "currentStreak": 13,
   "maxStreak": 44,
-  "lastSyncDate": "2026-10-20",
+  "lastSyncDate": "2026-10-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 60,
-    "medium": 166,
+    "medium": 167,
     "hard": 36,
     "basic": 31
   },
@@ -303,7 +303,8 @@
     "LeetCode_Find_Words_Containing_Character": true,
     "LeetCode_Find_the_Number_of_Copy_Arrays": true,
     "LeetCode_Total_Score_of_Dungeon_Runs": true,
-    "LeetCode_Sum_of_Sortable_Integers": true
+    "LeetCode_Sum_of_Sortable_Integers": true,
+    "LeetCode_Minimum_Operations_to_Sort_a_String": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -361,9 +362,10 @@
     "2026-10-17": 2,
     "2026-10-18": 1,
     "2026-10-19": 4,
-    "2026-10-20": 1
+    "2026-10-20": 1,
+    "2026-10-21": 1
   },
   "todayProblems": [
-    "Sum of Sortable Integers"
+    "Minimum Operations to Sort a String"
   ]
 }
