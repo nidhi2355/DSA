@@ -1,12 +1,12 @@
 {
-  "totalSolved": 295,
-  "currentStreak": 13,
+  "totalSolved": 296,
+  "currentStreak": 14,
   "maxStreak": 44,
-  "lastSyncDate": "2026-10-21",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-22",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 60,
-    "medium": 168,
+    "medium": 169,
     "hard": 36,
     "basic": 31
   },
@@ -305,7 +305,8 @@
     "LeetCode_Total_Score_of_Dungeon_Runs": true,
     "LeetCode_Sum_of_Sortable_Integers": true,
     "LeetCode_Minimum_Operations_to_Sort_a_String": true,
-    "LeetCode_Lexicographically_Smallest_String_After_Applying_Operations": true
+    "LeetCode_Lexicographically_Smallest_String_After_Applying_Operations": true,
+    "LeetCode_Can_Make_Palindrome_from_Substring": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -364,10 +365,10 @@
     "2026-10-18": 1,
     "2026-10-19": 4,
     "2026-10-20": 1,
-    "2026-10-21": 2
+    "2026-10-21": 2,
+    "2026-10-22": 1
   },
   "todayProblems": [
-    "Minimum Operations to Sort a String",
-    "Lexicographically Smallest String After Applying Operations"
+    "Can Make Palindrome from Substring"
   ]
 }
