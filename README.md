@@ -296,3 +296,4 @@
 | 294 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 07:57 am |
 | 295 | [Lexicographically Smallest String After Applying Operations](./LeetCode/Medium/Lexicographically%20Smallest%20String%20After%20Applying%20Operations) | [LeetCode](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | Medium | 21 Oct 2026 | 08:46 am |
 | 296 | [Can Make Palindrome from Substring](./LeetCode/Medium/Can%20Make%20Palindrome%20from%20Substring) | [LeetCode](https://leetcode.com/problems/can-make-palindrome-from-substring/) | Medium | 22 Oct 2026 | 09:35 pm |
+| 297 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 23 Oct 2026 | 07:25 am |
