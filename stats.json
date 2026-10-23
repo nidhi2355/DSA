@@ -1,12 +1,12 @@
 {
-  "totalSolved": 299,
+  "totalSolved": 300,
   "currentStreak": 15,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-23",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 60,
-    "medium": 171,
+    "medium": 172,
     "hard": 37,
     "basic": 31
   },
@@ -309,7 +309,8 @@
     "LeetCode_Can_Make_Palindrome_from_Substring": true,
     "LeetCode_Maximum_K_to_Sort_a_Permutation": true,
     "LeetCode_Maximum_Score_of_a_Good_Subarray": true,
-    "LeetCode_Combination_Sum_II": true
+    "LeetCode_Combination_Sum_II": true,
+    "LeetCode_Combination_Sum_III": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -370,11 +371,12 @@
     "2026-10-20": 1,
     "2026-10-21": 2,
     "2026-10-22": 1,
-    "2026-10-23": 3
+    "2026-10-23": 4
   },
   "todayProblems": [
     "Maximum K to Sort a Permutation",
     "Maximum Score of a Good Subarray",
-    "Combination Sum II"
+    "Combination Sum II",
+    "Combination Sum III"
   ]
 }

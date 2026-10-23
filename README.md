@@ -299,3 +299,4 @@
 | 297 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 23 Oct 2026 | 07:25 am |
 | 298 | [Maximum Score of a Good Subarray](./LeetCode/Hard/Maximum%20Score%20of%20a%20Good%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Hard | 23 Oct 2026 | 07:38 am |
 | 299 | [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) | [LeetCode](https://leetcode.com/problems/combination-sum-ii/) | Medium | 23 Oct 2026 | 09:31 pm |
+| 300 | [Combination Sum III](./LeetCode/Medium/Combination%20Sum%20III) | [LeetCode](https://leetcode.com/problems/combination-sum-iii/) | Medium | 23 Oct 2026 | 09:35 pm |
