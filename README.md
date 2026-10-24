@@ -301,3 +301,4 @@
 | 299 | [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) | [LeetCode](https://leetcode.com/problems/combination-sum-ii/) | Medium | 23 Oct 2026 | 09:31 pm |
 | 300 | [Combination Sum III](./LeetCode/Medium/Combination%20Sum%20III) | [LeetCode](https://leetcode.com/problems/combination-sum-iii/) | Medium | 23 Oct 2026 | 09:35 pm |
 | 301 | [Combination Sum IV](./LeetCode/Medium/Combination%20Sum%20IV) | [LeetCode](https://leetcode.com/problems/combination-sum-iv/) | Medium | 23 Oct 2026 | 09:46 pm |
+| 302 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 08:11 am |
