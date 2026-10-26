@@ -305,3 +305,4 @@
 | 303 | [Number of Closed Islands](./LeetCode/Medium/Number%20of%20Closed%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-closed-islands/) | Medium | 25 Oct 2026 | 08:06 am |
 | 304 | [Count Islands With Total Value Divisible by K](./LeetCode/Medium/Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | 26 Oct 2026 | 08:28 am |
 | 305 | [Find the XOR of Numbers Which Appear Twice](./LeetCode/Easy/Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice) | [LeetCode](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | Easy | 26 Oct 2026 | 08:34 am |
+| 306 | [Minimum Time Difference](./LeetCode/Medium/Minimum%20Time%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-time-difference/) | Medium | 26 Oct 2026 | 08:49 am |
