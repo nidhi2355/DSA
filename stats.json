@@ -1,11 +1,11 @@
 {
-  "totalSolved": 306,
+  "totalSolved": 307,
   "currentStreak": 18,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 62,
+    "easy": 63,
     "medium": 176,
     "hard": 37,
     "basic": 31
@@ -316,7 +316,8 @@
     "LeetCode_Number_of_Closed_Islands": true,
     "LeetCode_Count_Islands_With_Total_Value_Divisible_by_K": true,
     "LeetCode_Find_the_XOR_of_Numbers_Which_Appear_Twice": true,
-    "LeetCode_Minimum_Time_Difference": true
+    "LeetCode_Minimum_Time_Difference": true,
+    "LeetCode_Longest_Alternating_Subarray": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -380,11 +381,12 @@
     "2026-10-23": 5,
     "2026-10-24": 1,
     "2026-10-25": 1,
-    "2026-10-26": 3
+    "2026-10-26": 4
   },
   "todayProblems": [
     "Count Islands With Total Value Divisible by K",
     "Find the XOR of Numbers Which Appear Twice",
-    "Minimum Time Difference"
+    "Minimum Time Difference",
+    "Longest Alternating Subarray"
   ]
 }
