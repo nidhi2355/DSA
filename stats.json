@@ -1,12 +1,12 @@
 {
-  "totalSolved": 309,
+  "totalSolved": 310,
   "currentStreak": 19,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-27",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 64,
-    "medium": 176,
+    "medium": 177,
     "hard": 38,
     "basic": 31
   },
@@ -319,7 +319,8 @@
     "LeetCode_Minimum_Time_Difference": true,
     "LeetCode_Longest_Alternating_Subarray": true,
     "LeetCode_Create_Grid_With_Exactly_One_Path": true,
-    "LeetCode_LFU_Cache": true
+    "LeetCode_LFU_Cache": true,
+    "Codeforces_A._Johnny_and_Ancient_Computer": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -384,10 +385,11 @@
     "2026-10-24": 1,
     "2026-10-25": 1,
     "2026-10-26": 4,
-    "2026-10-27": 2
+    "2026-10-27": 3
   },
   "todayProblems": [
     "Create Grid With Exactly One Path",
-    "LFU Cache"
+    "LFU Cache",
+    "A. Johnny and Ancient Computer"
   ]
 }

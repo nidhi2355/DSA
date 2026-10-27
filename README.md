@@ -309,3 +309,4 @@
 | 307 | [Longest Alternating Subarray](./LeetCode/Easy/Longest%20Alternating%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-alternating-subarray/) | Easy | 26 Oct 2026 | 09:13 am |
 | 308 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 27 Oct 2026 | 08:37 pm |
 | 309 | [LFU Cache](./LeetCode/Hard/LFU%20Cache) | [LeetCode](https://leetcode.com/problems/lfu-cache/) | Hard | 27 Oct 2026 | 09:34 pm |
+| 310 | [A. Johnny and Ancient Computer](./Codeforces/Medium/A.%20Johnny%20and%20Ancient%20Computer) | [Codeforces](https://codeforces.com/problemset/problem/1362/A) | Medium | 27 Oct 2026 | 09:42 pm |
