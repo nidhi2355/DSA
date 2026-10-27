@@ -307,3 +307,4 @@
 | 305 | [Find the XOR of Numbers Which Appear Twice](./LeetCode/Easy/Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice) | [LeetCode](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | Easy | 26 Oct 2026 | 08:34 am |
 | 306 | [Minimum Time Difference](./LeetCode/Medium/Minimum%20Time%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-time-difference/) | Medium | 26 Oct 2026 | 08:49 am |
 | 307 | [Longest Alternating Subarray](./LeetCode/Easy/Longest%20Alternating%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-alternating-subarray/) | Easy | 26 Oct 2026 | 09:13 am |
+| 308 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 27 Oct 2026 | 08:37 pm |
