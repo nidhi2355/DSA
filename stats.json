@@ -1,13 +1,13 @@
 {
-  "totalSolved": 308,
+  "totalSolved": 309,
   "currentStreak": 19,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-27",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 64,
     "medium": 176,
-    "hard": 37,
+    "hard": 38,
     "basic": 31
   },
   "syncedProblems": {
@@ -318,7 +318,8 @@
     "LeetCode_Find_the_XOR_of_Numbers_Which_Appear_Twice": true,
     "LeetCode_Minimum_Time_Difference": true,
     "LeetCode_Longest_Alternating_Subarray": true,
-    "LeetCode_Create_Grid_With_Exactly_One_Path": true
+    "LeetCode_Create_Grid_With_Exactly_One_Path": true,
+    "LeetCode_LFU_Cache": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -383,9 +384,10 @@
     "2026-10-24": 1,
     "2026-10-25": 1,
     "2026-10-26": 4,
-    "2026-10-27": 1
+    "2026-10-27": 2
   },
   "todayProblems": [
-    "Create Grid With Exactly One Path"
+    "Create Grid With Exactly One Path",
+    "LFU Cache"
   ]
 }
