@@ -311,3 +311,4 @@
 | 309 | [LFU Cache](./LeetCode/Hard/LFU%20Cache) | [LeetCode](https://leetcode.com/problems/lfu-cache/) | Hard | 27 Oct 2026 | 09:34 pm |
 | 310 | [A. Johnny and Ancient Computer](./Codeforces/Medium/A.%20Johnny%20and%20Ancient%20Computer) | [Codeforces](https://codeforces.com/problemset/problem/1362/A) | Medium | 27 Oct 2026 | 09:42 pm |
 | 311 | [Minimum XOR Path in a Grid](./LeetCode/Medium/Minimum%20XOR%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | 28 Oct 2026 | 07:58 am |
+| 312 | [Minimum Operations to Make Binary Array Elements Equal to One I](./LeetCode/Medium/Minimum%20Operations%20to%20Make%20Binary%20Array%20Elements%20Equal%20to%20One%20I) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium | 28 Oct 2026 | 09:07 am |
