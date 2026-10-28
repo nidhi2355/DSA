@@ -1,12 +1,12 @@
 {
-  "totalSolved": 312,
+  "totalSolved": 313,
   "currentStreak": 20,
   "maxStreak": 44,
   "lastSyncDate": "2026-10-28",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 64,
-    "medium": 179,
+    "medium": 180,
     "hard": 38,
     "basic": 31
   },
@@ -322,7 +322,8 @@
     "LeetCode_LFU_Cache": true,
     "Codeforces_A._Johnny_and_Ancient_Computer": true,
     "LeetCode_Minimum_XOR_Path_in_a_Grid": true,
-    "LeetCode_Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_I": true
+    "LeetCode_Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_I": true,
+    "LeetCode_Find_Polygon_With_the_Largest_Perimeter": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -388,10 +389,11 @@
     "2026-10-25": 1,
     "2026-10-26": 4,
     "2026-10-27": 3,
-    "2026-10-28": 2
+    "2026-10-28": 3
   },
   "todayProblems": [
     "Minimum XOR Path in a Grid",
-    "Minimum Operations to Make Binary Array Elements Equal to One I"
+    "Minimum Operations to Make Binary Array Elements Equal to One I",
+    "Find Polygon With the Largest Perimeter"
   ]
 }
