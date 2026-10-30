@@ -1,12 +1,12 @@
 {
-  "totalSolved": 314,
-  "currentStreak": 21,
+  "totalSolved": 315,
+  "currentStreak": 22,
   "maxStreak": 44,
-  "lastSyncDate": "2026-10-29",
+  "lastSyncDate": "2026-10-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 64,
-    "medium": 180,
+    "medium": 181,
     "hard": 39,
     "basic": 31
   },
@@ -324,7 +324,8 @@
     "LeetCode_Minimum_XOR_Path_in_a_Grid": true,
     "LeetCode_Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_I": true,
     "LeetCode_Find_Polygon_With_the_Largest_Perimeter": true,
-    "LeetCode_Palindromic_Path_Queries_in_a_Tree": true
+    "LeetCode_Palindromic_Path_Queries_in_a_Tree": true,
+    "LeetCode_Shortest_Path_With_At_Most_K_Consecutive_Identical_Characters": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -391,9 +392,10 @@
     "2026-10-26": 4,
     "2026-10-27": 3,
     "2026-10-28": 3,
-    "2026-10-29": 1
+    "2026-10-29": 1,
+    "2026-10-30": 1
   },
   "todayProblems": [
-    "Palindromic Path Queries in a Tree"
+    "Shortest Path With At Most K Consecutive Identical Characters"
   ]
 }
