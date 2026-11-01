@@ -1,12 +1,12 @@
 {
-  "totalSolved": 320,
-  "currentStreak": 23,
+  "totalSolved": 321,
+  "currentStreak": 24,
   "maxStreak": 44,
-  "lastSyncDate": "2026-10-31",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 64,
-    "medium": 186,
+    "medium": 187,
     "hard": 39,
     "basic": 31
   },
@@ -330,7 +330,8 @@
     "LeetCode_Spiral_Matrix_III": true,
     "LeetCode_Twisted_Mirror_Path_Count": true,
     "LeetCode_Spiral_Matrix_IV": true,
-    "LeetCode_Alternating_Groups_II": true
+    "LeetCode_Alternating_Groups_II": true,
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -399,11 +400,10 @@
     "2026-10-28": 3,
     "2026-10-29": 1,
     "2026-10-30": 3,
-    "2026-10-31": 3
+    "2026-10-31": 3,
+    "2026-11-01": 1
   },
   "todayProblems": [
-    "Twisted Mirror Path Count",
-    "Spiral Matrix IV",
-    "Alternating Groups II"
+    "Minimum Moves to Equal Array Elements"
   ]
 }
