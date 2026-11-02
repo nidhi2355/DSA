@@ -324,3 +324,4 @@
 | 322 | [Divide Players Into Teams of Equal Skill](./LeetCode/Medium/Divide%20Players%20Into%20Teams%20of%20Equal%20Skill) | [LeetCode](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Medium | 01 Nov 2026 | 09:17 am |
 | 323 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 02:26 pm |
 | 324 | [B. 250 Thousand Tons of TNT](./Codeforces/Easy/B.%20250%20Thousand%20Tons%20of%20TNT) | [Codeforces](https://codeforces.com/problemset/problem/1899/B) | Easy | 02 Nov 2026 | 02:28 pm |
+| 325 | [Minimum Cost to Make Array Equalindromic](./LeetCode/Medium/Minimum%20Cost%20to%20Make%20Array%20Equalindromic) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/) | Medium | 02 Nov 2026 | 08:57 pm |
