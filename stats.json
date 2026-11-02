@@ -1,12 +1,12 @@
 {
-  "totalSolved": 322,
-  "currentStreak": 24,
+  "totalSolved": 323,
+  "currentStreak": 25,
   "maxStreak": 44,
-  "lastSyncDate": "2026-11-01",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-02",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 64,
-    "medium": 188,
+    "medium": 189,
     "hard": 39,
     "basic": 31
   },
@@ -332,7 +332,8 @@
     "LeetCode_Spiral_Matrix_IV": true,
     "LeetCode_Alternating_Groups_II": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements": true,
-    "LeetCode_Divide_Players_Into_Teams_of_Equal_Skill": true
+    "LeetCode_Divide_Players_Into_Teams_of_Equal_Skill": true,
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -402,10 +403,10 @@
     "2026-10-29": 1,
     "2026-10-30": 3,
     "2026-10-31": 3,
-    "2026-11-01": 2
+    "2026-11-01": 2,
+    "2026-11-02": 1
   },
   "todayProblems": [
-    "Minimum Moves to Equal Array Elements",
-    "Divide Players Into Teams of Equal Skill"
+    "Minimum Moves to Equal Array Elements II"
   ]
 }
