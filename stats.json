@@ -1,12 +1,12 @@
 {
-  "totalSolved": 326,
+  "totalSolved": 327,
   "currentStreak": 26,
   "maxStreak": 44,
   "lastSyncDate": "2026-11-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 66,
-    "medium": 190,
+    "medium": 191,
     "hard": 39,
     "basic": 31
   },
@@ -336,7 +336,8 @@
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
     "Codeforces_B._250_Thousand_Tons_of_TNT": true,
     "LeetCode_Minimum_Cost_to_Make_Array_Equalindromic": true,
-    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
+    "LeetCode_Concatenation_of_Consecutive_Binary_Numbers": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -408,9 +409,10 @@
     "2026-10-31": 3,
     "2026-11-01": 2,
     "2026-11-02": 3,
-    "2026-11-03": 1
+    "2026-11-03": 2
   },
   "todayProblems": [
-    "Minimum Moves to Equal Array Elements III"
+    "Minimum Moves to Equal Array Elements III",
+    "Concatenation of Consecutive Binary Numbers"
   ]
 }
