@@ -325,3 +325,4 @@
 | 323 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 02:26 pm |
 | 324 | [B. 250 Thousand Tons of TNT](./Codeforces/Easy/B.%20250%20Thousand%20Tons%20of%20TNT) | [Codeforces](https://codeforces.com/problemset/problem/1899/B) | Easy | 02 Nov 2026 | 02:28 pm |
 | 325 | [Minimum Cost to Make Array Equalindromic](./LeetCode/Medium/Minimum%20Cost%20to%20Make%20Array%20Equalindromic) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/) | Medium | 02 Nov 2026 | 08:57 pm |
+| 326 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 09:35 am |

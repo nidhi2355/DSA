@@ -1,11 +1,11 @@
 {
-  "totalSolved": 325,
-  "currentStreak": 25,
+  "totalSolved": 326,
+  "currentStreak": 26,
   "maxStreak": 44,
-  "lastSyncDate": "2026-11-02",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-03",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 65,
+    "easy": 66,
     "medium": 190,
     "hard": 39,
     "basic": 31
@@ -335,7 +335,8 @@
     "LeetCode_Divide_Players_Into_Teams_of_Equal_Skill": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
     "Codeforces_B._250_Thousand_Tons_of_TNT": true,
-    "LeetCode_Minimum_Cost_to_Make_Array_Equalindromic": true
+    "LeetCode_Minimum_Cost_to_Make_Array_Equalindromic": true,
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -406,11 +407,10 @@
     "2026-10-30": 3,
     "2026-10-31": 3,
     "2026-11-01": 2,
-    "2026-11-02": 3
+    "2026-11-02": 3,
+    "2026-11-03": 1
   },
   "todayProblems": [
-    "Minimum Moves to Equal Array Elements II",
-    "B. 250 Thousand Tons of TNT",
-    "Minimum Cost to Make Array Equalindromic"
+    "Minimum Moves to Equal Array Elements III"
   ]
 }
