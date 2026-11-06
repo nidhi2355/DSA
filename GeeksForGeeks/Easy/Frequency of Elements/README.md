@@ -1,0 +1,13 @@
+# Frequency of Elements
+
+## Difficulty: Easy
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1)
+
+## Solved On
+06 Nov 2026 at 09:32 am
+
+<h2><a href="https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1">Frequency of Elements</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 14pt;">Given an array <strong><code data-start="169" data-end="176">arr[]</code></strong> of positive integers which may contain duplicate elements, return the <strong>frequency</strong> of each distinct element.</span></p><p><span style="font-size: 14pt;"><strong>Examples:</strong><br></span></p><pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [1, 2, 2, 3, 3, 5]<strong><br>Output: </strong>[[1, 1], [2, 2], [3, 2], [5, 1]]<strong><br>Explaiantion: </strong>Here element 1 and 5 occur 1 times, 2 and 3 occur 2 times.<br></span></pre><pre><strong><span style="font-size: 14pt;">Input:</span></strong><span style="font-size: 14pt;"> arr[] = [1, 5, 6, 7, 7]</span><strong><span style="font-size: 14pt;"><br>Output:</span></strong><span style="font-size: 14pt;"> [[1, 1], [5, 1], [6, 1], [7, 2]]</span><strong><span style="font-size: 14pt;"><br>Explanation: </span></strong><span style="font-size: 14pt;">Here element 1, 5 and 6 occur 1 times, 7 occur 2 times.</span></pre>

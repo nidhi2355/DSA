@@ -333,3 +333,4 @@
 | 331 | [Rearrange Array by Removing Distinct Values](./LeetCode/Easy/Rearrange%20Array%20by%20Removing%20Distinct%20Values) | [LeetCode](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | Easy | 05 Nov 2026 | 09:19 am |
 | 332 | [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | 05 Nov 2026 | 05:39 pm |
 | 333 | [Count Zero Request Servers](./LeetCode/Medium/Count%20Zero%20Request%20Servers) | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | Medium | 06 Nov 2026 | 08:29 am |
+| 334 | [Frequency of Elements](./GeeksForGeeks/Easy/Frequency%20of%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1) | Easy | 06 Nov 2026 | 09:32 am |
