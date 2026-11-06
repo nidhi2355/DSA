@@ -337,3 +337,4 @@
 | 335 | [Count Elements With Maximum Frequency](./LeetCode/Easy/Count%20Elements%20With%20Maximum%20Frequency) | [LeetCode](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | 06 Nov 2026 | 09:35 am |
 | 336 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 06 Nov 2026 | 10:03 am |
 | 337 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 06 Nov 2026 | 10:08 am |
+| 338 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 06 Nov 2026 | 10:16 am |
