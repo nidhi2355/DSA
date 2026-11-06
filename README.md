@@ -334,3 +334,4 @@
 | 332 | [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | 05 Nov 2026 | 05:39 pm |
 | 333 | [Count Zero Request Servers](./LeetCode/Medium/Count%20Zero%20Request%20Servers) | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | Medium | 06 Nov 2026 | 08:29 am |
 | 334 | [Frequency of Elements](./GeeksForGeeks/Easy/Frequency%20of%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1) | Easy | 06 Nov 2026 | 09:32 am |
+| 335 | [Count Elements With Maximum Frequency](./LeetCode/Easy/Count%20Elements%20With%20Maximum%20Frequency) | [LeetCode](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | 06 Nov 2026 | 09:35 am |
