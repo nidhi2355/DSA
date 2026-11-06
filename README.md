@@ -332,3 +332,4 @@
 | 330 | [Convert an Array Into a 2D Array With Conditions](./LeetCode/Medium/Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions) | [LeetCode](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | Medium | 05 Nov 2026 | 09:08 am |
 | 331 | [Rearrange Array by Removing Distinct Values](./LeetCode/Easy/Rearrange%20Array%20by%20Removing%20Distinct%20Values) | [LeetCode](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | Easy | 05 Nov 2026 | 09:19 am |
 | 332 | [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) | [LeetCode](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | 05 Nov 2026 | 05:39 pm |
+| 333 | [Count Zero Request Servers](./LeetCode/Medium/Count%20Zero%20Request%20Servers) | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | Medium | 06 Nov 2026 | 08:29 am |
