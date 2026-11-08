@@ -339,3 +339,4 @@
 | 337 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 06 Nov 2026 | 10:08 am |
 | 338 | [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 06 Nov 2026 | 10:16 am |
 | 339 | [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) | [LeetCode](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | 07 Nov 2026 | 12:14 pm |
+| 340 | [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) | [LeetCode](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | 08 Nov 2026 | 08:38 am |
