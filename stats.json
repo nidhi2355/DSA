@@ -1,13 +1,13 @@
 {
-  "totalSolved": 341,
-  "currentStreak": 31,
+  "totalSolved": 342,
+  "currentStreak": 32,
   "maxStreak": 44,
-  "lastSyncDate": "2026-11-08",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-09",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 73,
     "medium": 197,
-    "hard": 40,
+    "hard": 41,
     "basic": 31
   },
   "syncedProblems": {
@@ -351,7 +351,8 @@
     "LeetCode_Top_K_Frequent_Elements": true,
     "LeetCode_Process_Tasks_Using_Servers": true,
     "LeetCode_Count_Servers_that_Communicate": true,
-    "LeetCode_Maximum_Energy_Boost_From_Two_Drinks": true
+    "LeetCode_Maximum_Energy_Boost_From_Two_Drinks": true,
+    "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -428,10 +429,10 @@
     "2026-11-05": 4,
     "2026-11-06": 6,
     "2026-11-07": 1,
-    "2026-11-08": 2
+    "2026-11-08": 2,
+    "2026-11-09": 1
   },
   "todayProblems": [
-    "Count Servers that Communicate",
-    "Maximum Energy Boost From Two Drinks"
+    "Find Servers That Handled Most Number of Requests"
   ]
 }
