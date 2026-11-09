@@ -342,3 +342,4 @@
 | 340 | [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) | [LeetCode](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | 08 Nov 2026 | 08:38 am |
 | 341 | [Maximum Energy Boost From Two Drinks](./LeetCode/Medium/Maximum%20Energy%20Boost%20From%20Two%20Drinks) | [LeetCode](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | Medium | 08 Nov 2026 | 08:51 am |
 | 342 | [Find Servers That Handled Most Number of Requests](./LeetCode/Hard/Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard | 09 Nov 2026 | 04:34 pm |
+| 343 | [Flatten Nested List Iterator](./LeetCode/Medium/Flatten%20Nested%20List%20Iterator) | [LeetCode](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | 09 Nov 2026 | 05:06 pm |
