@@ -344,3 +344,4 @@
 | 342 | [Find Servers That Handled Most Number of Requests](./LeetCode/Hard/Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard | 09 Nov 2026 | 04:34 pm |
 | 343 | [Flatten Nested List Iterator](./LeetCode/Medium/Flatten%20Nested%20List%20Iterator) | [LeetCode](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | 09 Nov 2026 | 05:06 pm |
 | 344 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 09 Nov 2026 | 06:12 pm |
+| 345 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 04:55 pm |

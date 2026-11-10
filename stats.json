@@ -1,12 +1,12 @@
 {
-  "totalSolved": 344,
-  "currentStreak": 32,
+  "totalSolved": 345,
+  "currentStreak": 33,
   "maxStreak": 44,
-  "lastSyncDate": "2026-11-09",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-10",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 74,
-    "medium": 198,
+    "medium": 199,
     "hard": 41,
     "basic": 31
   },
@@ -354,7 +354,8 @@
     "LeetCode_Maximum_Energy_Boost_From_Two_Drinks": true,
     "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true,
     "LeetCode_Flatten_Nested_List_Iterator": true,
-    "LeetCode_Missing_Number": true
+    "LeetCode_Missing_Number": true,
+    "LeetCode_Climbing_Stairs_II": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -432,11 +433,10 @@
     "2026-11-06": 6,
     "2026-11-07": 1,
     "2026-11-08": 2,
-    "2026-11-09": 3
+    "2026-11-09": 3,
+    "2026-11-10": 1
   },
   "todayProblems": [
-    "Find Servers That Handled Most Number of Requests",
-    "Flatten Nested List Iterator",
-    "Missing Number"
+    "Climbing Stairs II"
   ]
 }
