@@ -1,13 +1,13 @@
 {
-  "totalSolved": 348,
-  "currentStreak": 35,
+  "totalSolved": 349,
+  "currentStreak": 36,
   "maxStreak": 44,
-  "lastSyncDate": "2026-11-12",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 75,
     "medium": 201,
-    "hard": 41,
+    "hard": 42,
     "basic": 31
   },
   "syncedProblems": {
@@ -358,7 +358,8 @@
     "LeetCode_Climbing_Stairs_II": true,
     "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
-    "LeetCode_Restore_the_Array_From_Adjacent_Pairs": true
+    "LeetCode_Restore_the_Array_From_Adjacent_Pairs": true,
+    "LeetCode_Count_Non-Decreasing_Subarrays_After_K_Operations": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -439,10 +440,10 @@
     "2026-11-09": 3,
     "2026-11-10": 1,
     "2026-11-11": 1,
-    "2026-11-12": 2
+    "2026-11-12": 2,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Longest Strictly Increasing or Strictly Decreasing Subarray",
-    "Restore the Array From Adjacent Pairs"
+    "Count Non-Decreasing Subarrays After K Operations"
   ]
 }
