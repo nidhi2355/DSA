@@ -350,3 +350,4 @@
 | 348 | [Restore the Array From Adjacent Pairs](./LeetCode/Medium/Restore%20the%20Array%20From%20Adjacent%20Pairs) | [LeetCode](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Medium | 12 Nov 2026 | 03:44 pm |
 | 349 | [Count Non-Decreasing Subarrays After K Operations](./LeetCode/Hard/Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations) | [LeetCode](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | Hard | 13 Nov 2026 | 05:43 pm |
 | 350 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 14 Nov 2026 | 01:11 pm |
+| 351 | [Number of Sub-arrays With Odd Sum](./LeetCode/Medium/Number%20of%20Sub-arrays%20With%20Odd%20Sum) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | 15 Nov 2026 | 10:45 am |
