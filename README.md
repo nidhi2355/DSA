@@ -353,3 +353,4 @@
 | 351 | [Number of Sub-arrays With Odd Sum](./LeetCode/Medium/Number%20of%20Sub-arrays%20With%20Odd%20Sum) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | 15 Nov 2026 | 10:45 am |
 | 352 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 16 Nov 2026 | 03:10 pm |
 | 353 | [Find Triangular Sum of an Array](./LeetCode/Medium/Find%20Triangular%20Sum%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | 16 Nov 2026 | 03:20 pm |
+| 354 | [Min Max Game](./LeetCode/Easy/Min%20Max%20Game) | [LeetCode](https://leetcode.com/problems/min-max-game/) | Easy | 16 Nov 2026 | 03:32 pm |
