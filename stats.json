@@ -1,12 +1,12 @@
 {
-  "totalSolved": 352,
+  "totalSolved": 353,
   "currentStreak": 39,
   "maxStreak": 44,
   "lastSyncDate": "2026-11-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 77,
-    "medium": 202,
+    "medium": 203,
     "hard": 42,
     "basic": 31
   },
@@ -362,7 +362,8 @@
     "LeetCode_Count_Non-Decreasing_Subarrays_After_K_Operations": true,
     "LeetCode_Minimum_Positive_Sum_Subarray_": true,
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
-    "LeetCode_Calculate_Digit_Sum_of_a_String": true
+    "LeetCode_Calculate_Digit_Sum_of_a_String": true,
+    "LeetCode_Find_Triangular_Sum_of_an_Array": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -447,9 +448,10 @@
     "2026-11-13": 1,
     "2026-11-14": 1,
     "2026-11-15": 1,
-    "2026-11-16": 1
+    "2026-11-16": 2
   },
   "todayProblems": [
-    "Calculate Digit Sum of a String"
+    "Calculate Digit Sum of a String",
+    "Find Triangular Sum of an Array"
   ]
 }
