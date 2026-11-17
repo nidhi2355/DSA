@@ -355,3 +355,4 @@
 | 353 | [Find Triangular Sum of an Array](./LeetCode/Medium/Find%20Triangular%20Sum%20of%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | 16 Nov 2026 | 03:20 pm |
 | 354 | [Min Max Game](./LeetCode/Easy/Min%20Max%20Game) | [LeetCode](https://leetcode.com/problems/min-max-game/) | Easy | 16 Nov 2026 | 03:32 pm |
 | 355 | [Minimum Changes to Make K Semi-palindromes](./LeetCode/Hard/Minimum%20Changes%20to%20Make%20K%20Semi-palindromes) | [LeetCode](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | Hard | 17 Nov 2026 | 10:51 am |
+| 356 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 17 Nov 2026 | 09:50 pm |
