@@ -1,13 +1,13 @@
 {
-  "totalSolved": 354,
-  "currentStreak": 39,
+  "totalSolved": 355,
+  "currentStreak": 40,
   "maxStreak": 44,
-  "lastSyncDate": "2026-11-16",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 78,
     "medium": 203,
-    "hard": 42,
+    "hard": 43,
     "basic": 31
   },
   "syncedProblems": {
@@ -364,7 +364,8 @@
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
     "LeetCode_Calculate_Digit_Sum_of_a_String": true,
     "LeetCode_Find_Triangular_Sum_of_an_Array": true,
-    "LeetCode_Min_Max_Game": true
+    "LeetCode_Min_Max_Game": true,
+    "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -449,11 +450,10 @@
     "2026-11-13": 1,
     "2026-11-14": 1,
     "2026-11-15": 1,
-    "2026-11-16": 3
+    "2026-11-16": 3,
+    "2026-11-17": 1
   },
   "todayProblems": [
-    "Calculate Digit Sum of a String",
-    "Find Triangular Sum of an Array",
-    "Min Max Game"
+    "Minimum Changes to Make K Semi-palindromes"
   ]
 }
