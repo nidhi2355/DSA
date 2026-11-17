@@ -1,11 +1,11 @@
 {
-  "totalSolved": 356,
+  "totalSolved": 357,
   "currentStreak": 40,
   "maxStreak": 44,
   "lastSyncDate": "2026-11-17",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 79,
+    "easy": 80,
     "medium": 203,
     "hard": 43,
     "basic": 31
@@ -366,7 +366,8 @@
     "LeetCode_Find_Triangular_Sum_of_an_Array": true,
     "LeetCode_Min_Max_Game": true,
     "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true,
-    "LeetCode_Binary_Search": true
+    "LeetCode_Binary_Search": true,
+    "LeetCode_Reverse_Linked_List": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -452,10 +453,11 @@
     "2026-11-14": 1,
     "2026-11-15": 1,
     "2026-11-16": 3,
-    "2026-11-17": 2
+    "2026-11-17": 3
   },
   "todayProblems": [
     "Minimum Changes to Make K Semi-palindromes",
-    "Binary Search"
+    "Binary Search",
+    "Reverse Linked List"
   ]
 }
