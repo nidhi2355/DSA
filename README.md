@@ -359,3 +359,4 @@
 | 357 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 17 Nov 2026 | 09:58 pm |
 | 358 | [Minimum Number of Changes to Make Binary String Beautiful](./LeetCode/Medium/Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful) | [LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | 18 Nov 2026 | 08:35 am |
 | 359 | [Merge Close Characters](./LeetCode/Medium/Merge%20Close%20Characters) | [LeetCode](https://leetcode.com/problems/merge-close-characters/) | Medium | 18 Nov 2026 | 09:48 am |
+| 360 | [Minimum Deletion Cost to Make All Characters Equal](./LeetCode/Medium/Minimum%20Deletion%20Cost%20to%20Make%20All%20Characters%20Equal) | [LeetCode](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | Medium | 18 Nov 2026 | 09:58 am |
