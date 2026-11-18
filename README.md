@@ -357,3 +357,4 @@
 | 355 | [Minimum Changes to Make K Semi-palindromes](./LeetCode/Hard/Minimum%20Changes%20to%20Make%20K%20Semi-palindromes) | [LeetCode](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | Hard | 17 Nov 2026 | 10:51 am |
 | 356 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 17 Nov 2026 | 09:50 pm |
 | 357 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 17 Nov 2026 | 09:58 pm |
+| 358 | [Minimum Number of Changes to Make Binary String Beautiful](./LeetCode/Medium/Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful) | [LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | 18 Nov 2026 | 08:35 am |
