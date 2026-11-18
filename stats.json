@@ -1,12 +1,12 @@
 {
-  "totalSolved": 358,
+  "totalSolved": 359,
   "currentStreak": 41,
   "maxStreak": 44,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 80,
-    "medium": 204,
+    "medium": 205,
     "hard": 43,
     "basic": 31
   },
@@ -368,7 +368,8 @@
     "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true,
     "LeetCode_Binary_Search": true,
     "LeetCode_Reverse_Linked_List": true,
-    "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true
+    "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
+    "LeetCode_Merge_Close_Characters": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -455,9 +456,10 @@
     "2026-11-15": 1,
     "2026-11-16": 3,
     "2026-11-17": 3,
-    "2026-11-18": 1
+    "2026-11-18": 2
   },
   "todayProblems": [
-    "Minimum Number of Changes to Make Binary String Beautiful"
+    "Minimum Number of Changes to Make Binary String Beautiful",
+    "Merge Close Characters"
   ]
 }
