@@ -1,12 +1,12 @@
 {
-  "totalSolved": 362,
+  "totalSolved": 363,
   "currentStreak": 42,
   "maxStreak": 44,
   "lastSyncDate": "2026-11-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 81,
-    "medium": 207,
+    "medium": 208,
     "hard": 43,
     "basic": 31
   },
@@ -372,7 +372,8 @@
     "LeetCode_Merge_Close_Characters": true,
     "LeetCode_Minimum_Deletion_Cost_to_Make_All_Characters_Equal": true,
     "LeetCode_Count_Common_Words_With_One_Occurrence": true,
-    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true
+    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true,
+    "LeetCode_Remove_Comments": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -460,9 +461,10 @@
     "2026-11-16": 3,
     "2026-11-17": 3,
     "2026-11-18": 4,
-    "2026-11-19": 1
+    "2026-11-19": 2
   },
   "todayProblems": [
-    "Minimum Score by Changing Two Elements"
+    "Minimum Score by Changing Two Elements",
+    "Remove Comments"
   ]
 }
