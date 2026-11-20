@@ -363,3 +363,4 @@
 | 361 | [Count Common Words With One Occurrence](./LeetCode/Easy/Count%20Common%20Words%20With%20One%20Occurrence) | [LeetCode](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | Easy | 18 Nov 2026 | 10:12 am |
 | 362 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 19 Nov 2026 | 09:00 am |
 | 363 | [Remove Comments](./LeetCode/Medium/Remove%20Comments) | [LeetCode](https://leetcode.com/problems/remove-comments/) | Medium | 19 Nov 2026 | 10:35 am |
+| 364 | [Maximize Consecutive Elements in an Array After Modification](./LeetCode/Hard/Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) | [LeetCode](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | Hard | 20 Nov 2026 | 08:54 am |
