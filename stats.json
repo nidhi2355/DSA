@@ -1,12 +1,12 @@
 {
-  "totalSolved": 364,
+  "totalSolved": 365,
   "currentStreak": 43,
   "maxStreak": 44,
   "lastSyncDate": "2026-11-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 81,
-    "medium": 208,
+    "medium": 209,
     "hard": 44,
     "basic": 31
   },
@@ -374,7 +374,8 @@
     "LeetCode_Count_Common_Words_With_One_Occurrence": true,
     "LeetCode_Minimum_Score_by_Changing_Two_Elements": true,
     "LeetCode_Remove_Comments": true,
-    "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true
+    "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true,
+    "LeetCode_Sum_of_Beauty_in_the_Array": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -463,9 +464,10 @@
     "2026-11-17": 3,
     "2026-11-18": 4,
     "2026-11-19": 2,
-    "2026-11-20": 1
+    "2026-11-20": 2
   },
   "todayProblems": [
-    "Maximize Consecutive Elements in an Array After Modification"
+    "Maximize Consecutive Elements in an Array After Modification",
+    "Sum of Beauty in the Array"
   ]
 }

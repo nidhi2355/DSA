@@ -364,3 +364,4 @@
 | 362 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 19 Nov 2026 | 09:00 am |
 | 363 | [Remove Comments](./LeetCode/Medium/Remove%20Comments) | [LeetCode](https://leetcode.com/problems/remove-comments/) | Medium | 19 Nov 2026 | 10:35 am |
 | 364 | [Maximize Consecutive Elements in an Array After Modification](./LeetCode/Hard/Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) | [LeetCode](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | Hard | 20 Nov 2026 | 08:54 am |
+| 365 | [Sum of Beauty in the Array](./LeetCode/Medium/Sum%20of%20Beauty%20in%20the%20Array) | [LeetCode](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | Medium | 20 Nov 2026 | 09:27 am |
