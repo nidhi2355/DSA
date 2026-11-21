@@ -1,12 +1,12 @@
 {
-  "totalSolved": 366,
-  "currentStreak": 43,
+  "totalSolved": 367,
+  "currentStreak": 44,
   "maxStreak": 44,
-  "lastSyncDate": "2026-11-20",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 82,
-    "medium": 209,
+    "medium": 210,
     "hard": 44,
     "basic": 31
   },
@@ -376,7 +376,8 @@
     "LeetCode_Remove_Comments": true,
     "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true,
     "LeetCode_Sum_of_Beauty_in_the_Array": true,
-    "LeetCode_X_of_a_Kind_in_a_Deck_of_Cards": true
+    "LeetCode_X_of_a_Kind_in_a_Deck_of_Cards": true,
+    "LeetCode_Find_Subtree_Sizes_After_Changes": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -465,11 +466,10 @@
     "2026-11-17": 3,
     "2026-11-18": 4,
     "2026-11-19": 2,
-    "2026-11-20": 3
+    "2026-11-20": 3,
+    "2026-11-21": 1
   },
   "todayProblems": [
-    "Maximize Consecutive Elements in an Array After Modification",
-    "Sum of Beauty in the Array",
-    "X of a Kind in a Deck of Cards"
+    "Find Subtree Sizes After Changes"
   ]
 }

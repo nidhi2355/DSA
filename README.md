@@ -366,3 +366,4 @@
 | 364 | [Maximize Consecutive Elements in an Array After Modification](./LeetCode/Hard/Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) | [LeetCode](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | Hard | 20 Nov 2026 | 08:54 am |
 | 365 | [Sum of Beauty in the Array](./LeetCode/Medium/Sum%20of%20Beauty%20in%20the%20Array) | [LeetCode](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | Medium | 20 Nov 2026 | 09:27 am |
 | 366 | [X of a Kind in a Deck of Cards](./LeetCode/Easy/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards) | [LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | Easy | 20 Nov 2026 | 09:39 am |
+| 367 | [Find Subtree Sizes After Changes](./LeetCode/Medium/Find%20Subtree%20Sizes%20After%20Changes) | [LeetCode](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | Medium | 21 Nov 2026 | 04:45 pm |
