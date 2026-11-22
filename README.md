@@ -370,3 +370,4 @@
 | 368 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 09:35 am |
 | 369 | [Letter Case Permutation](./LeetCode/Medium/Letter%20Case%20Permutation) | [LeetCode](https://leetcode.com/problems/letter-case-permutation/) | Medium | 22 Nov 2026 | 10:02 am |
 | 370 | [Count Number of Distinct Integers After Reverse Operations](./LeetCode/Medium/Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations) | [LeetCode](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | Medium | 22 Nov 2026 | 10:51 am |
+| 371 | [A Number After a Double Reversal](./LeetCode/Easy/A%20Number%20After%20a%20Double%20Reversal) | [LeetCode](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | 22 Nov 2026 | 10:56 am |
