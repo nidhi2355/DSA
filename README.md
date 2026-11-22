@@ -367,3 +367,4 @@
 | 365 | [Sum of Beauty in the Array](./LeetCode/Medium/Sum%20of%20Beauty%20in%20the%20Array) | [LeetCode](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | Medium | 20 Nov 2026 | 09:27 am |
 | 366 | [X of a Kind in a Deck of Cards](./LeetCode/Easy/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards) | [LeetCode](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | Easy | 20 Nov 2026 | 09:39 am |
 | 367 | [Find Subtree Sizes After Changes](./LeetCode/Medium/Find%20Subtree%20Sizes%20After%20Changes) | [LeetCode](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | Medium | 21 Nov 2026 | 04:45 pm |
+| 368 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 09:35 am |
