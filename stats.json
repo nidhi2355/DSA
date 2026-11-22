@@ -1,12 +1,12 @@
 {
-  "totalSolved": 369,
+  "totalSolved": 370,
   "currentStreak": 45,
   "maxStreak": 45,
   "lastSyncDate": "2026-11-22",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 83,
-    "medium": 211,
+    "medium": 212,
     "hard": 44,
     "basic": 31
   },
@@ -379,7 +379,8 @@
     "LeetCode_X_of_a_Kind_in_a_Deck_of_Cards": true,
     "LeetCode_Find_Subtree_Sizes_After_Changes": true,
     "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true,
-    "LeetCode_Letter_Case_Permutation": true
+    "LeetCode_Letter_Case_Permutation": true,
+    "LeetCode_Count_Number_of_Distinct_Integers_After_Reverse_Operations": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -470,10 +471,11 @@
     "2026-11-19": 2,
     "2026-11-20": 3,
     "2026-11-21": 1,
-    "2026-11-22": 2
+    "2026-11-22": 3
   },
   "todayProblems": [
     "Check if All A's Appears Before All B's",
-    "Letter Case Permutation"
+    "Letter Case Permutation",
+    "Count Number of Distinct Integers After Reverse Operations"
   ]
 }
