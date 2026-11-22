@@ -1,12 +1,12 @@
 {
-  "totalSolved": 368,
+  "totalSolved": 369,
   "currentStreak": 45,
   "maxStreak": 45,
   "lastSyncDate": "2026-11-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 83,
-    "medium": 210,
+    "medium": 211,
     "hard": 44,
     "basic": 31
   },
@@ -378,7 +378,8 @@
     "LeetCode_Sum_of_Beauty_in_the_Array": true,
     "LeetCode_X_of_a_Kind_in_a_Deck_of_Cards": true,
     "LeetCode_Find_Subtree_Sizes_After_Changes": true,
-    "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true
+    "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true,
+    "LeetCode_Letter_Case_Permutation": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -469,9 +470,10 @@
     "2026-11-19": 2,
     "2026-11-20": 3,
     "2026-11-21": 1,
-    "2026-11-22": 1
+    "2026-11-22": 2
   },
   "todayProblems": [
-    "Check if All A's Appears Before All B's"
+    "Check if All A's Appears Before All B's",
+    "Letter Case Permutation"
   ]
 }
