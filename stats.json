@@ -1,12 +1,12 @@
 {
-  "totalSolved": 371,
-  "currentStreak": 45,
-  "maxStreak": 45,
-  "lastSyncDate": "2026-11-22",
-  "todayCount": 4,
+  "totalSolved": 372,
+  "currentStreak": 46,
+  "maxStreak": 46,
+  "lastSyncDate": "2026-11-23",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 84,
-    "medium": 212,
+    "medium": 213,
     "hard": 44,
     "basic": 31
   },
@@ -381,7 +381,8 @@
     "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true,
     "LeetCode_Letter_Case_Permutation": true,
     "LeetCode_Count_Number_of_Distinct_Integers_After_Reverse_Operations": true,
-    "LeetCode_A_Number_After_a_Double_Reversal": true
+    "LeetCode_A_Number_After_a_Double_Reversal": true,
+    "LeetCode_Product_of_the_Last_K_Numbers": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -472,12 +473,10 @@
     "2026-11-19": 2,
     "2026-11-20": 3,
     "2026-11-21": 1,
-    "2026-11-22": 4
+    "2026-11-22": 4,
+    "2026-11-23": 1
   },
   "todayProblems": [
-    "Check if All A's Appears Before All B's",
-    "Letter Case Permutation",
-    "Count Number of Distinct Integers After Reverse Operations",
-    "A Number After a Double Reversal"
+    "Product of the Last K Numbers"
   ]
 }
