@@ -372,3 +372,4 @@
 | 370 | [Count Number of Distinct Integers After Reverse Operations](./LeetCode/Medium/Count%20Number%20of%20Distinct%20Integers%20After%20Reverse%20Operations) | [LeetCode](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | Medium | 22 Nov 2026 | 10:51 am |
 | 371 | [A Number After a Double Reversal](./LeetCode/Easy/A%20Number%20After%20a%20Double%20Reversal) | [LeetCode](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | 22 Nov 2026 | 10:56 am |
 | 372 | [Product of the Last K Numbers](./LeetCode/Medium/Product%20of%20the%20Last%20K%20Numbers) | [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | 23 Nov 2026 | 08:32 am |
+| 373 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 24 Nov 2026 | 09:08 am |
