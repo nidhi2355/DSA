@@ -1,13 +1,13 @@
 {
-  "totalSolved": 373,
-  "currentStreak": 47,
-  "maxStreak": 47,
-  "lastSyncDate": "2026-11-24",
+  "totalSolved": 374,
+  "currentStreak": 48,
+  "maxStreak": 48,
+  "lastSyncDate": "2026-11-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 85,
     "medium": 213,
-    "hard": 44,
+    "hard": 45,
     "basic": 31
   },
   "syncedProblems": {
@@ -383,7 +383,8 @@
     "LeetCode_Count_Number_of_Distinct_Integers_After_Reverse_Operations": true,
     "LeetCode_A_Number_After_a_Double_Reversal": true,
     "LeetCode_Product_of_the_Last_K_Numbers": true,
-    "LeetCode_Maximum_Subarray_With_Equal_Products": true
+    "LeetCode_Maximum_Subarray_With_Equal_Products": true,
+    "LeetCode_Smallest_Unique_Subarray": true
   },
   "activityHistory": {
     "2026-08-25": 4,
@@ -476,9 +477,10 @@
     "2026-11-21": 1,
     "2026-11-22": 4,
     "2026-11-23": 1,
-    "2026-11-24": 1
+    "2026-11-24": 1,
+    "2026-11-25": 1
   },
   "todayProblems": [
-    "Maximum Subarray With Equal Products"
+    "Smallest Unique Subarray"
   ]
 }
