@@ -374,3 +374,4 @@
 | 372 | [Product of the Last K Numbers](./LeetCode/Medium/Product%20of%20the%20Last%20K%20Numbers) | [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | 23 Nov 2026 | 08:32 am |
 | 373 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 24 Nov 2026 | 09:08 am |
 | 374 | [Smallest Unique Subarray](./LeetCode/Hard/Smallest%20Unique%20Subarray) | [LeetCode](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | 25 Nov 2026 | 10:10 am |
+| 375 | [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | Easy | 26 Nov 2026 | 09:32 am |
