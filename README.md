@@ -376,3 +376,4 @@
 | 374 | [Smallest Unique Subarray](./LeetCode/Hard/Smallest%20Unique%20Subarray) | [LeetCode](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | 25 Nov 2026 | 10:10 am |
 | 375 | [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | Easy | 26 Nov 2026 | 09:32 am |
 | 376 | [Maximum Number of Items From Sale I](./LeetCode/Medium/Maximum%20Number%20of%20Items%20From%20Sale%20I) | [LeetCode](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Medium | 27 Nov 2026 | 09:20 pm |
+| 377 | [Maximum Number of Items From Sale II](./LeetCode/Medium/Maximum%20Number%20of%20Items%20From%20Sale%20II) | [LeetCode](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | Medium | 28 Nov 2026 | 06:43 pm |
